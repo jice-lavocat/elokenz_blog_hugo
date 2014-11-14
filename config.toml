@@ -2,6 +2,7 @@ baseurl = "http://blog.elokenz.com"
 languageCode = "en-us"
 title = "Elokenz Blog"
 disqusShortname = "wordiz"
+theme = "redlounge"
 [params]
     sidebartitle = "Elokenz Blog"
     sidebartagline = "Content Marketing for bloggers and journalists"
