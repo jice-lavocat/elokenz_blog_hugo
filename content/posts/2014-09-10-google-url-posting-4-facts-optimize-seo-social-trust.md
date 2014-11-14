@@ -3,7 +3,8 @@ title: 'Google+ URL posting : 4 Facts to optimize SEO and Social Trust'
 author: Jean-Christophe Lavocat
 layout: post
 date: 2014-09-10
-permalink: /search-engine-optimization/google-url-posting-4-facts-optimize-seo-social-trust
+thumbnail: /wp-content/uploads/2014/09/gplus_post_sharing.png
+url: /search-engine-optimization/google-url-posting-4-facts-optimize-seo-social-trust
 dsq_thread_id:
   - 3002408763
 categories:

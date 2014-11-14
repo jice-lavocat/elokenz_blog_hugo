@@ -3,7 +3,8 @@ title: A wordpress widget to showcase your best articles
 author: Jean-Christophe Lavocat
 layout: post
 date: 2014-03-07
-permalink: /features/wordpress-widget-showcase-best-articles
+thumbnail: /wp-content/uploads/2014/03/Wordpress_Plugin_Best_articles2.png
+url: /features/wordpress-widget-showcase-best-articles
 dsq_thread_id:
   - 2382257401
 categories:

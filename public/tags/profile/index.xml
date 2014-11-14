@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Profile on Elokenz Blog </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://localhost:1313/tags/profile/index.xml/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Wed, 23 Oct 2013 00:00:00 UTC</updated>
+    
+    <item>
+      <title>Explaining the Z-Impact &amp;#8211; The Author Visibility Factor</title>
+      <link>http://localhost:1313/questions/z-impact-the-author-visibility-factor</link>
+      <pubDate>Wed, 23 Oct 2013 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/questions/z-impact-the-author-visibility-factor</guid>
+      <description>
+
+&lt;p&gt;When we made the first released WordiZ last week, we only included two features : a listing of your top articles (on twitter, google and facebook) and the display of average likes/RTs/+1 of your articles. We are proud to announce that you now have access to a Z-Impact score which is shown on your profile page too.&lt;/p&gt;
+
+&lt;p&gt;Let me explain a bit more in detail the current information available on your &lt;a href=&#34;http://www.wordiz.it&#34; title=&#34;WordiZ&#34;&gt;WordiZ profile&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Z-Impact Score : the WordiZ visibility index&lt;/h2&gt;
+
+&lt;p&gt;The most significant number available on your profile is called the &lt;strong&gt;Z-Impact Score&lt;/strong&gt; (for WordiZ Impact Score). At the moment, it&amp;#8217;s located above your profile picture :&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;aligncenter size-full wp-image-124&#34; alt=&#34;ZImpact Score on a profile &#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2013/10/Z_impact_score_profile_picture.png&#34; width=&#34;203&#34; height=&#34;218&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The** Z-Impact is on a 100 scale&lt;strong&gt;. The&lt;/strong&gt; higher value** you get, the &lt;strong&gt;more visible&lt;/strong&gt; your posts and articles are. The calculation is fairly easy at the moment. To give you a brief explanation, if you score is 40, it means that you have at least 40 articles than have been shared on Facebook and Google+ and tweeted at least 40 times. The calculation is easy,&lt;a title=&#34;Jean-Marc Manach on WordiZ&#34; href=&#34;http://www.wordiz.it/profile/jmmanach/&#34; target=&#34;_blank&#34;&gt; Jean-Marc Manach&lt;/a&gt; had (at least) 40 x 40 x 3 = 4800 total citations for his best articles.&lt;/p&gt;
+
+&lt;p&gt;The score will be updated on monthly basis to take into account your last articles, and we will also remove posts older than two years to account for novelty.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Average citations&lt;/h2&gt;
+
+&lt;p&gt;Your profile also contains a list of average citations on Facebook, Google and Twitter :&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.wordiz.it/wp-content/uploads/2013/10/average_citations.png&#34;&gt;&lt;img class=&#34;aligncenter size-full wp-image-125&#34; alt=&#34;Average Citations on WordiZ&#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2013/10/average_citations.png&#34; width=&#34;219&#34; height=&#34;142&#34; /&gt;&lt;/a&gt;It is the average of times all your articles have been liked on the different social networks. In the example above, if the author had 100 articles in the database, then, it means that he has a total of&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;390 tweets&lt;/li&gt;
+&lt;li&gt;280 +1&lt;/li&gt;
+&lt;li&gt;90 likes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This value is** not really accurate** and does not mean : if you publish an article you will probably get 3.9 tweets and 2.8 +1. Indeed, an average value does not reflect a trend. Consider the following case :&lt;/p&gt;
+
+&lt;p&gt;Tom has written 5 posts on his blog, and none of them received attention except the first one when he announced the launch of his company and asked friends to share the news. Here is the number of shares he got on his blog and the averaged value :&lt;/p&gt;
+
+&lt;table style=&#34;width: 90%;&#34; border=&#34;0&#34;&gt;
+  &lt;tr&gt;
+    &lt;th&gt;
+      Name
+    &lt;/th&gt;
+    
+    &lt;th&gt;
+      Facebook
+    &lt;/th&gt;
+    
+    &lt;th&gt;
+      Twitter
+    &lt;/th&gt;
+    
+    &lt;th&gt;
+      Google+
+    &lt;/th&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      Article 1
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+       100
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      100
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      100
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      Article 2
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+       1
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      2
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      5
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      Article 3
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+       1
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      3
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      4
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      Article 4
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+       1
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      1
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      2
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      Article 5
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+       1
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      2
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      1
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      Average
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+       20.8
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+       21.6
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      22.4
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;You see that it does not really reflects the trend of Tom&amp;#8217;s blog. However it gives some hindsight when you have many articles so we decided to keep this number on your profile page.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_2&#34;&gt;List of your top articles&lt;/h2&gt;
+
+&lt;p&gt;The last feature available on your profile page is the listing of your top articles. You will find 4 categories :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Top Global : The list of article where you received the maximum number of RT, +1 and likes accumulated&lt;/li&gt;
+&lt;li&gt;Top Google : The list of article where you received the maximum number of +1&lt;/li&gt;
+&lt;li&gt;Top Facebook : &amp;#8230; same thing for likes&lt;/li&gt;
+&lt;li&gt;Top Twitter : &amp;#8230; same thing for RTs&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p style=&#34;text-align: center;&#34;&gt;
+  &lt;a href=&#34;http://blog.wordiz.it/wp-content/uploads/2013/10/list_top_articles_wordiz.png&#34;&gt;&lt;img class=&#34;aligncenter  wp-image-130&#34; alt=&#34;Top articles on WordiZ&#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2013/10/list_top_articles_wordiz.png&#34; width=&#34;500&#34; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: left;&#34;&gt;
+  We find it is an easy way to quickly show your best posts to friends, clients or colleagues.Any additional question? Drop us a comment
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

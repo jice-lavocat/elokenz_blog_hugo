@@ -3,7 +3,8 @@ title: 'Twitter Chat with @jice_lavocat during #VCBuzz on July 15'
 author: Jean-Christophe Lavocat
 layout: post
 date: 2014-07-14
-permalink: /content-marketing/twitter-chat-jice_lavocat-vcbuzz-july-15
+thumbnail: /wp-content/uploads/2014/07/flyer2.png
+url: /content-marketing/twitter-chat-jice_lavocat-vcbuzz-july-15
 dsq_thread_id:
   - 2842487152
 categories:

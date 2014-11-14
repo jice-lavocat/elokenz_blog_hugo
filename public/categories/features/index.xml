@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Features on Elokenz Blog </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://localhost:1313/categories/features/index.xml/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Tue, 29 Jul 2014 00:00:00 UTC</updated>
+    
+    <item>
+      <title>How to display your best articles on the web ?</title>
+      <link>http://localhost:1313/features/wordpress_widget</link>
+      <pubDate>Tue, 29 Jul 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/features/wordpress_widget</guid>
+      <description>
+
+&lt;p&gt;We already presented our WordPress widget to &lt;a title=&#34;Elokenz Widget for WordPress&#34; href=&#34;http://blog.elokenz.com/features/wordpress-widget-showcase-best-articles&#34; target=&#34;_blank&#34;&gt;showcase your best articles&lt;/a&gt;. We made some improvement to the basic widget and want to share with you the new features. The widget is useful for authors who are using the G+ authorship system. It takes in input your Google+ id and list your most shared articles on the social networks.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Who could gain from this widget ?&lt;/h2&gt;
+
+&lt;p&gt;Before entering into details, let&amp;#8217;s see who is likely to use this widget. Take my friend &lt;a title=&#34;Ann Smarty&#34; href=&#34;http://www.seosmarty.com/&#34; target=&#34;_blank&#34;&gt;Ann Smarty&lt;/a&gt; she is frequently writing on &lt;a title=&#34;Social Media Examiner&#34; href=&#34;http://www.socialmediaexaminer.com&#34; target=&#34;_blank&#34;&gt;several&lt;/a&gt; &lt;a title=&#34;Search Engine Journal&#34; href=&#34;http://www.searchenginejournal.com/&#34; target=&#34;_blank&#34;&gt;websites&lt;/a&gt;. Her various writings are often covering complementary topics but his audience sometime does not know he is writing on other websites.&lt;/p&gt;
+
+&lt;p&gt;She had recently published a viral article on one of these websites, but this cannot be reflected on her personal blog. On this private blog she wanted to showcase her best articles from all over the web, not only from her own blog.&lt;/p&gt;
+
+&lt;p&gt;When Ann heard about our widget she was one of the first to use it. It allowed her to &lt;strong&gt;collect automatically the articles&lt;/strong&gt; which have been** most shared on social networks** and to display these numbers on her personal blog for self promotion. This is what is displayed on her website these days :&lt;img class=&#34;aligncenter wp-image-304 size-full&#34; src=&#34;http://blog.elokenz.com/wp-content/uploads/2014/07/ann_smarty_best_articles.png&#34; alt=&#34;Elokenz - Widget best articles example - (via @elokenz)&#34; width=&#34;275&#34; height=&#34;335&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;So, if you are like her, and write on several places around the web, you might want to display your &amp;#8216;content portfolio&amp;#8217; too. Enters the &lt;strong&gt;Elokenz widget&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;How to install the widget ?&lt;/h2&gt;
+
+&lt;p&gt;This widget works with the database we are building with &lt;a title=&#34;Helping Authors to be more visible&#34; href=&#34;http://www.elokenz.com&#34; target=&#34;_blank&#34;&gt;Elokenz&lt;/a&gt;. The first thing you need is to use the authorship tag. Then, depending on your installation, you can use the code we provide on &lt;a title=&#34;Elokenz Dashboard - Widget&#34; href=&#34;http://www.elokenz.com/dashboard/widgets/&#34; target=&#34;_blank&#34;&gt;our dashboard&lt;/a&gt; or the &lt;a title=&#34;Wordpress widget - Socially best articles&#34; href=&#34;http://wordpress.org/plugins/elokenz-most-shared-articles-for-authors/&#34; target=&#34;_blank&#34;&gt;wordpress plugin&lt;/a&gt; directly.&lt;/p&gt;
+
+&lt;p&gt;&lt;a title=&#34;Wordpress Elokenz Plugin&#34; href=&#34;http://wordpress.org/plugins/elokenz-most-shared-articles-for-authors/&#34; target=&#34;_blank&#34;&gt;&lt;img class=&#34;aligncenter wp-image-305&#34; src=&#34;http://blog.elokenz.com/wp-content/uploads/2014/07/elokenz_wordpress_plugin.png&#34; alt=&#34;elokenz_wordpress_plugin&#34; width=&#34;500&#34; height=&#34;348&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Once you have collected the good code (self hosted site) or the plugin, you have few settings to customize the display.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;aligncenter size-full wp-image-306&#34; src=&#34;http://blog.elokenz.com/wp-content/uploads/2014/07/screenshot-3.png&#34; alt=&#34;elokenz_widget_settings&#34; width=&#34;286&#34; height=&#34;660&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;First, the widget comes with two basic themes : &lt;strong&gt;bright&lt;/strong&gt; or &lt;strong&gt;dark&lt;/strong&gt;. Depending on your template you might need to have one or the other. If you need other colors, drop a comment below and we will publish an article to explain how to tune the CSS.&lt;/p&gt;
+
+&lt;p&gt;Second : you might want to display 1, 2 , 3 .. or up to 10 articles. That&amp;#8217;s pretty self-explanatory.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;ordering system&lt;/strong&gt; represent the algorithm that is applied to sort your articles. Do you focus on &lt;em&gt;Facebook likes&lt;/em&gt; or on &lt;em&gt;Twitter mentions&lt;/em&gt; ? You can change the order here, or keep the default : sum of Facebook likes + Twitter mentions + Google+ plus ones.&lt;/p&gt;
+
+&lt;p&gt;On WordPress we added an option to print links with a &amp;#8220;nofollow&amp;#8221; attribute. Depending on the blog where you install the widget, you might not want to have dofollow links (who knows&amp;#8230;)&lt;/p&gt;
+
+&lt;p&gt;Finally, comes the only required field, your G+ id. For the moment you still need to copy/paste your id number. In the future we might implement a system to convert your &amp;#8216;vanity url&amp;#8217; into the G+ id, but it&amp;#8217;s not yet the case.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_2&#34;&gt;Do you need the widget on a single page ?&lt;/h2&gt;
+
+&lt;p&gt;On WordPress we added a shortcode support recently. This means you can import the widget on a given page or post, instead of having it sitewide on your sidebar.&lt;/p&gt;
+
+&lt;p&gt;For this, you need to use the following syntax :&lt;/p&gt;
+
+&lt;p&gt;For that, you can add the following text when you are editing an article :&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;[elokenz_widget user_id=&amp;quot;113400244614302404694&amp;quot;]
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;(where &lt;code&gt;113400244614302404694&lt;/code&gt; is replaced by your Google+ id).&lt;/p&gt;
+
+&lt;p&gt;You can use several &lt;strong&gt;arguments&lt;/strong&gt; to configure the output :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;width&lt;/em&gt; [integer] : give the width in pixel. (Default : the widget will use all available space)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;follow&lt;/em&gt; [&amp;ldquo;do&amp;rdquo;/&amp;ldquo;no&amp;rdquo;] : use dofollow links or nofollow links. (Default : dofollow links)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;style&lt;/em&gt; [&amp;ldquo;bright&amp;rdquo;/&amp;ldquo;dark&amp;rdquo;] : use a bright or dark background. (Default : &amp;#8220;bright&amp;#8221;)&lt;/li&gt;
+&lt;li&gt;* item&lt;em&gt;_*number&lt;/em&gt; [integer &amp;lt; 10] : how many articles do you want to list here ? (Default : 5)&lt;/li&gt;
+&lt;li&gt;* network* [0,1,2 or 3] : which ordering system should we use ? (Default : 0) {0. sum of all metrics 1. Twitter 2. Facebook 3. Google+}&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Example&lt;/strong&gt; :&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;[elokenz_widget user_id=&amp;quot;113400244614302404694&amp;quot; follow=&amp;quot;no&amp;quot; item_number=&amp;quot;10&amp;quot; style=&amp;quot;dark&amp;quot; network=&amp;quot;1&amp;quot;]&lt;/code&gt;&lt;br /&gt;
+will output a list of 10 articles, with nofollow links, on a dark background, ordered according the number of RTs.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_3&#34;&gt;How can you contribute ?&lt;/h2&gt;
+
+&lt;p&gt;Since we had to change our name recently we lost all our nice statistics. If you use the widget and like it, you can help us in different ways :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a title=&#34;Tweet about the plugin&#34; href=&#34;https://twitter.com/home?status=I%20am%20using%20a%20new%20WP%20plugin%20to%20display%20my%20most%20shared%20articles%20:%20http://blog.elokenz.com/features/wordpress_widget&#34; target=&#34;_blank&#34;&gt;Tweet about it&lt;/a&gt; or share it on &lt;a title=&#34;Wordpress Widget&#34; href=&#34;https://www.facebook.com/sharer/sharer.php?u=http://blog.elokenz.com/features/wordpress_widget&#34; target=&#34;_blank&#34;&gt;Facebook&lt;/a&gt; or &lt;a title=&#34;Wordpress Widget&#34; href=&#34;https://plus.google.com/share?url=http://blog.elokenz.com/features/wordpress_widget&#34; target=&#34;_blank&#34;&gt;Google+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Try it, and leave us a comment or &lt;a title=&#34;Review Elokenz plugin&#34; href=&#34;http://wordpress.org/support/view/plugin-reviews/elokenz-most-shared-articles-for-authors?filter=5#postform&#34; target=&#34;_blank&#34;&gt;a review on the plugin page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Write an article about how you use the plugin and &lt;strong&gt;get featured here&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Do not hesitate if you find any bug, let us know (the easiest is to comment here) &amp;#8230; One of our early user &lt;a title=&#34;Didier J Mary&#34; href=&#34;https://plus.google.com/+DidierJMARY/about&#34; target=&#34;_blank&#34;&gt;Didier&lt;/a&gt; from &lt;a title=&#34;Kotonteej - African Music&#34; href=&#34;http://www.kotonteej.com/&#34; target=&#34;_blank&#34;&gt;KotonTeej&lt;/a&gt; was the first to discover a big flaw in in the previous version.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A wordpress widget to showcase your best articles</title>
+      <link>http://localhost:1313/features/wordpress-widget-showcase-best-articles</link>
+      <pubDate>Fri, 07 Mar 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/features/wordpress-widget-showcase-best-articles</guid>
+      <description>
+
+&lt;p&gt;So, as most of us, you have decided to use authorship attribution on your website. Of course you are not tagging only your own blog, but also guest posts on different domains. Now what if you want to &lt;strong&gt;display your best articles in one place&lt;/strong&gt; ?&lt;/p&gt;
+
+&lt;p&gt;This would have been tricky before, but thanks to Julio Potier (from &lt;a title=&#34;La Boite à Web&#34; href=&#34;http://boiteaweb.fr/&#34; target=&#34;_blank&#34;&gt;La boite à Web&lt;/a&gt;) , WordiZ developed a &lt;strong&gt;WordPress Plugin&lt;/strong&gt; that you can use to retrieve and display all your best articles in one place. Have a look at the following picture to understand :&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;aligncenter size-full wp-image-178&#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2014/03/Wordpress_Plugin_Best_articles2.png&#34; alt=&#34;Best articles based on authorship&#34; width=&#34;400&#34; height=&#34;364&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The plugin updates the scores weekly and allows you to showcase your most shared pieces of writing. Imagine that you are working as a copywriter, or as a pro blogger ; you can quickly provide an updated portfolio of content to your clients.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Download the plugin&lt;/h2&gt;
+
+&lt;p&gt;The plugin is available on WordPress : &lt;a title=&#34;Elokenz - WordPress plugin to display best articles&#34; href=&#34;http://wordpress.org/plugins/elokenz-most-shared-articles-for-authors/&#34; target=&#34;_blank&#34;&gt;Best articles tagged with authorship plugin&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;How to use it&lt;/h2&gt;
+
+&lt;p&gt;Download and install the plugin (I assume that you can do it, if you fail, leave a comment below). To use the plugin, just navigate to your *&lt;strong&gt;Appearance &amp;gt; Widgets&lt;/strong&gt; *menu. You will find a new widget called &amp;#8220;WordiZ Widget &amp;#8211; Authorship Best Articles&amp;#8221;. Add it to one of your sidebars.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;aligncenter size-full wp-image-180&#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2014/03/widget_add.png&#34; alt=&#34;Add WordiZ widget to your sidebar&#34; width=&#34;305&#34; height=&#34;244&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_2&#34;&gt;Configuration&lt;/h2&gt;
+
+&lt;p&gt;The configuration of the widget is rather simple.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;You can add a custom title to the widget in the field &lt;strong&gt;&lt;em&gt;Title&lt;/em&gt;&lt;/strong&gt;. By default, the title will be blank.&lt;/li&gt;
+&lt;li&gt;You can change the widget color theme on the second field &lt;strong&gt;&lt;em&gt;Display on bright or dark&lt;/em&gt;&lt;/strong&gt;* background***. The option here will change the overall appearance of the plugin so that it fits with your template.&lt;/li&gt;
+&lt;li&gt;Adjust the number of displayed items in the &lt;strong&gt;&lt;em&gt;Number of items&lt;/em&gt;&lt;/strong&gt; field&lt;/li&gt;
+&lt;li&gt;Do you want to add a nofollow attribute to the links displayed by the widget ? Change the settings in the field &lt;strong&gt;&lt;em&gt;Follow or *&lt;/em&gt;&lt;/strong&gt;Dofollow.***I suggest it to keep it to dofollow if you display your articles.&lt;/li&gt;
+&lt;li&gt;Finally add your Google+ id number in the field*** Google+ user id***.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img class=&#34;aligncenter size-full wp-image-181&#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2014/03/wordiz_widget_configuration.png&#34; alt=&#34;WordiZ Widget Configuration&#34; width=&#34;407&#34; height=&#34;626&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;To quickly get your Google+ user id, we have added a Google+ sign in button. When you use it, WordiZ will create an account for you and will show you your Google+ id number on a new page. Copy the number you found on the new page and paste it into the widget configuration.&lt;/p&gt;
+
+&lt;p&gt;Remember that the processing of your articles is made through WordiZ platform, so you need to have an account there to get the widget working correctly. That&amp;#8217;s the reason for the sign in button in the administration.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_3&#34;&gt;Feedback and Bugs&lt;/h2&gt;
+
+&lt;p&gt;Have you find any bug or do you have any feedback for improvement ? Let me know in the comment box below.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Where do people share your articles ?</title>
+      <link>http://localhost:1313/features/people-share-articles</link>
+      <pubDate>Wed, 05 Feb 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/features/people-share-articles</guid>
+      <description>
+
+&lt;p&gt;Alright, you have written dozen of articles on your blog now, and you successfully have tagged them as the official author. In addition to that, you got offered some guest blogging offers through your connexions and via &lt;a title=&#34;Find Guest Bloggers&#34; href=&#34;http://myblogguest.com/&#34; target=&#34;_blank&#34;&gt;MyBlogGuest&lt;/a&gt;.  So essentially you start running a** successful blogger life**, but you feel a unsatisfied with the standard analytics tools. You don&amp;#8217;t really WHO is reading your articles and how you can increase the number of readers.&lt;/p&gt;
+
+&lt;p&gt;That is the reason why we introduced a new feature on WordiZ some days ago. As you may know it was already possible to find &lt;a title=&#34;Find all the people who share your articles on Google+&#34; href=&#34;http://blog.wordiz.it/features/find-people-share-articles-google&#34; target=&#34;_blank&#34;&gt;who is sharing your articles on Google+&lt;/a&gt;. That&amp;#8217;s a really interesting feature, but we thought that we are somehow missing the big picture. In other words, &lt;strong&gt;where are you mostly cited ?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;On which network are you visible ?&lt;/h2&gt;
+
+&lt;p&gt;When you write an article, you will probably share it on Tiwtter, Google+ and/or Facebook and LinkedIn. But, once this step is done,** you don&amp;#8217;t really control what&amp;#8217;s happening next**. Overtime you might discover that you reach more fans on Twitter or on Facebook.&lt;/p&gt;
+
+&lt;p&gt;It is now possible to see that in a bird&amp;#8217;s eye view on you WordiZ profile. Have a look at the following picture (taken from &lt;a title=&#34;Jean-Christophe Lavocat&#34; href=&#34;http://www.wordiz.it/profile/jice.lavocat/&#34; target=&#34;_blank&#34;&gt;my profile&lt;/a&gt;) :&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;size-full wp-image-162 aligncenter&#34; alt=&#34;Social Network Visibility&#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2014/02/which_network_visible.png&#34; width=&#34;231&#34; height=&#34;269&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;What you see is really simple to explain. The &lt;strong&gt;more &amp;#8220;mentions&amp;#8221;&lt;/strong&gt; my articles get on a social network, the &lt;strong&gt;more &amp;#8220;visible&amp;#8221;&lt;/strong&gt; I am on this** social network**. Therefore, you can quickly see here that I am equally visible on G+ (39%) and Twitter (42%), but far less on Facebook (19%).&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;size-medium wp-image-171 aligncenter&#34; alt=&#34;social media community&#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2014/02/social-media-community-300x128.jpg&#34; width=&#34;300&#34; height=&#34;128&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;What is the best strategy to get visible ?&lt;/h2&gt;
+
+&lt;p&gt;Honestly, I cannot pretend that there is a best strategy. Some people tend to be very famous more or less equally on various social networks. That&amp;#8217;s not very often, but you have a nice example with &lt;a title=&#34;Torben Rick - Wordiz Profile&#34; href=&#34;http://www.wordiz.it/profile/torbenrick/&#34; target=&#34;_blank&#34;&gt;Torben Rick&lt;/a&gt; :&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.wordiz.it/profile/torbenrick/&#34;&gt;&lt;img class=&#34;size-full wp-image-167 aligncenter&#34; alt=&#34;Torben Rick visibility on social networks&#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2014/02/torben_rick_vis_weight.png&#34; width=&#34;242&#34; height=&#34;269&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Indeed most of the famous writers I have met on WordiZ have a** favorite social network**. Well, to be precise, let say that their fans are mostly active on a social network. That is the case for instance of &lt;a title=&#34;Mark Traphagen - WordiZ Profile&#34; href=&#34;http://www.wordiz.it/profile/trappermark/&#34; target=&#34;_blank&#34;&gt;Mark Traphagen&lt;/a&gt; or &lt;a title=&#34;Flavien Chantrel - WordiZ Profile&#34; href=&#34;http://www.wordiz.it/profile/whatsupnet/&#34; target=&#34;_blank&#34;&gt;Flavien Chantrel&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p style=&#34;text-align: center;&#34;&gt;
+  &lt;a href=&#34;http://www.wordiz.it/profile/whatsupnet/&#34;&gt;&lt;img class=&#34;alignnone size-full wp-image-164&#34; alt=&#34;Visibility on Social Networks for Flavien Chantrel&#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2014/02/flavien_chantrel_vis_weight.png&#34; width=&#34;237&#34; height=&#34;270&#34; /&gt;&lt;/a&gt; &lt;a href=&#34;http://www.wordiz.it/profile/trappermark/&#34;&gt;&lt;img class=&#34;alignnone size-medium wp-image-165&#34; alt=&#34;Visbility on social networks for Mark Traphagen&#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2014/02/mark_traphagen_vis_weight.png&#34; width=&#34;238&#34; height=&#34;271&#34; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;h2 style=&#34;text-align: left;&#34;&gt;
+  How do you improve then ?
+&lt;/h2&gt;
+
+&lt;p&gt;In order to improve your social visibility, you have two strategies. The first one is to fight on all fronts at the same time. However this is really time demanding and you might feel discouraged after some time since your efforts will initially lead to few results.&lt;/p&gt;
+
+&lt;p&gt;The second strategy is to &lt;strong&gt;concentrate on a dedicated social network&lt;/strong&gt;, possibly the one you know better, and the one where you have more friends and contacts. Try to become visible on this special social network, and the others will follow by themselves.&lt;/p&gt;
+
+&lt;p&gt;I cannot show you the result yet, but, take the case of &lt;a title=&#34;Mark Traphagen- Google+&#34; href=&#34;https://plus.google.com/+MarkTraphagen/&#34; target=&#34;_blank&#34;&gt;Mark&lt;/a&gt; for instance. He started on Google+, and slowly his visibility on Twitter followed. Mark really put a lot of efforts to sustain a constant activity on &lt;a title=&#34;Google+&#34; href=&#34;http://plus.google.com&#34; target=&#34;_blank&#34;&gt;Google+&lt;/a&gt; and to create long term friendships on the network.&lt;/p&gt;
+
+&lt;p&gt;So, here is my take : concentrate on one social network, and then, when you have some traction there, start focusing on a new social network.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Find all the people who share your articles on Google&#43;</title>
+      <link>http://localhost:1313/features/find-people-share-articles-google</link>
+      <pubDate>Mon, 18 Nov 2013 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/features/find-people-share-articles-google</guid>
+      <description>
+
+&lt;p&gt;Have you ever wonder how it was possible to build your** Google+ fan base** ? It is easy, of course, to find who have you in circle, but not to know** who has ever shared one of your article**. Say you are writing on several blogs and want to collect the list of people who shared it on Google+ , now an easy solution exists on &lt;a title=&#34;WordiZ.it - Discover author&#39;s visibility&#34; href=&#34;http://www.wordiz.it&#34; target=&#34;_blank&#34;&gt;WordiZ.it&lt;/a&gt; .&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Nurturing your Google+ fan base&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.wordiz.it/wp-content/uploads/2013/11/google_fanbase_author.png&#34;&gt;&lt;img class=&#34;alignleft  wp-image-152&#34; style=&#34;margin-left: 20px; margin-right: 20px;&#34; alt=&#34;Google+ Fanbase for author&#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2013/11/google_fanbase_author.png&#34; height=&#34;400&#34; /&gt;&lt;/a&gt;I am really excited to describe this new feature because I am using it quite extensively since it is available. I really think it helps your &lt;strong&gt;content marketing or social media strategy&lt;/strong&gt;. Basically, it does only one thing : showing the people who put a link to your article on Google+. That&amp;#8217;s it, nothing more, but there is a very deep scope behind that simple feature.&lt;/p&gt;
+
+&lt;p&gt;When you are writing an article on the web, you want to maximize mainly one thing : &lt;strong&gt;interactions&lt;/strong&gt;. Interactions on your post could be seen as &lt;em&gt;views&lt;/em&gt;,* number of comments&lt;em&gt;, *incoming links&lt;/em&gt; or &lt;em&gt;social media mentions&lt;/em&gt;. You cannot really do anything with the number of views, but you can engage people who create links, comment or share your post. That simple action will allow you to get more engaged readers and to turn them to ambassadors or fans.&lt;/p&gt;
+
+&lt;p&gt;So, you probably understand now how the new feature works. Publish on the web and WordiZ.it will collect automatically your articles and list all your Google+ sharers. Under your profile tab, you will find the link to this list. Open it, and you will be able to add any single fan to a dedicated circle, something like &amp;#8220;my G+ readers&amp;#8221; for instance.&lt;/p&gt;
+
+&lt;p&gt;Then, what to do next is up to you. You can either ping them when you publish something new, or just say &amp;#8220;thanks&amp;#8221; for their involvement &amp;#8230; You can also comment below and tell us how you would use this feature.&lt;/p&gt;
+
+&lt;p style=&#34;text-align: center;&#34;&gt;
+  &lt;a href=&#34;http://blog.wordiz.it/wp-content/uploads/2013/11/list_google_fans.png&#34;&gt;&lt;img class=&#34;aligncenter&#34; alt=&#34;List of Google+ fans&#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2013/11/list_google_fans.png&#34; width=&#34;400&#34; height=&#34;384&#34; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Connect with the people who shared your top articles&lt;/h2&gt;
+
+&lt;p&gt;In addition to an author-wise fan base, we also wanted to give you the opportunity to connect with &lt;strong&gt;people who shared a specific article&lt;/strong&gt;. So, for all your top articles, you will find a quick link to &amp;#8220;G+ fanbase&amp;#8221; to see who exactly shared this article.&lt;/p&gt;
+
+&lt;p style=&#34;text-align: left;&#34;&gt;
+  &lt;a href=&#34;http://blog.wordiz.it/wp-content/uploads/2013/11/google_fanbase_article_2.png&#34;&gt;&lt;img class=&#34;aligncenter  wp-image-153&#34; alt=&#34;Google+ Fanbase for Article&#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2013/11/google_fanbase_article_2.png&#34; width=&#34;400&#34; /&gt;&lt;/a&gt;This way, you will easily be able to see individually who helped you to get your articles to the top. That&amp;#8217;s a really great tool to create connections.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: left;&#34;&gt;
+   
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New ZImpact bar</title>
+      <link>http://localhost:1313/features/new-zimpact-bar</link>
+      <pubDate>Wed, 13 Nov 2013 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/features/new-zimpact-bar</guid>
+      <description>
+
+&lt;p&gt;&lt;img class=&#34;alignleft size-full wp-image-145&#34; alt=&#34;New WordiZ Impact Bar&#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2013/11/new_zimpact_bar.png&#34; width=&#34;264&#34; height=&#34;272&#34; /&gt;Initially, the display of your score has been made in a bubble like tooltip on top of your profile picture. But today, things have changed. The new ZImpact bar is out !&lt;/p&gt;
+
+&lt;p&gt;We are glad to roll out this new graphical bar that shows your level on a rainbow color scale bar. It&amp;#8217;s a great occasion for you to share your profile and get a higher score.&lt;/p&gt;
+
+&lt;p&gt;If your score is 12, it means that you have at least 12 articles with 12 shares on every social networks. You want to improve that value? Try to write a new post and get 13 shares on every social network&amp;#8230; but that&amp;#8217;s not all. You also need to have your 12 previous articles now being shared 13 times.&lt;/p&gt;
+
+&lt;p&gt;It is a tough work, but this is how you get to be famous and visible.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Help tooltips&lt;/h2&gt;
+
+&lt;p&gt;We also implemented new tooltips to help you understanding your profile page. So, check them out by rolling your mouse over the different numbers of your profile.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;aligncenter size-full wp-image-147&#34; alt=&#34;help_tooltip&#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2013/11/help_tooltip.png&#34; width=&#34;348&#34; height=&#34;144&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

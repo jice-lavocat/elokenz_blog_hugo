@@ -3,7 +3,8 @@ title: 'WordiZ Weekly &#8211; 15 September 2013'
 author: Jean-Christophe Lavocat
 layout: post
 date: 2013-09-15
-permalink: /content-marketing/wordiz-weekly-15-september-2013
+thumbnail: /wp-content/uploads/2013/09/dharmesh-head-shot1.jpg
+url: /content-marketing/wordiz-weekly-15-september-2013
 snapEdIT:
   - 1
 dsq_thread_id:

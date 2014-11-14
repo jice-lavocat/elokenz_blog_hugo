@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Best-Articles on Elokenz Blog </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://localhost:1313/tags/best-articles/index.xml/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Fri, 07 Mar 2014 00:00:00 UTC</updated>
+    
+    <item>
+      <title>A wordpress widget to showcase your best articles</title>
+      <link>http://localhost:1313/features/wordpress-widget-showcase-best-articles</link>
+      <pubDate>Fri, 07 Mar 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/features/wordpress-widget-showcase-best-articles</guid>
+      <description>
+
+&lt;p&gt;So, as most of us, you have decided to use authorship attribution on your website. Of course you are not tagging only your own blog, but also guest posts on different domains. Now what if you want to &lt;strong&gt;display your best articles in one place&lt;/strong&gt; ?&lt;/p&gt;
+
+&lt;p&gt;This would have been tricky before, but thanks to Julio Potier (from &lt;a title=&#34;La Boite à Web&#34; href=&#34;http://boiteaweb.fr/&#34; target=&#34;_blank&#34;&gt;La boite à Web&lt;/a&gt;) , WordiZ developed a &lt;strong&gt;WordPress Plugin&lt;/strong&gt; that you can use to retrieve and display all your best articles in one place. Have a look at the following picture to understand :&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;aligncenter size-full wp-image-178&#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2014/03/Wordpress_Plugin_Best_articles2.png&#34; alt=&#34;Best articles based on authorship&#34; width=&#34;400&#34; height=&#34;364&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The plugin updates the scores weekly and allows you to showcase your most shared pieces of writing. Imagine that you are working as a copywriter, or as a pro blogger ; you can quickly provide an updated portfolio of content to your clients.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Download the plugin&lt;/h2&gt;
+
+&lt;p&gt;The plugin is available on WordPress : &lt;a title=&#34;Elokenz - WordPress plugin to display best articles&#34; href=&#34;http://wordpress.org/plugins/elokenz-most-shared-articles-for-authors/&#34; target=&#34;_blank&#34;&gt;Best articles tagged with authorship plugin&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;How to use it&lt;/h2&gt;
+
+&lt;p&gt;Download and install the plugin (I assume that you can do it, if you fail, leave a comment below). To use the plugin, just navigate to your *&lt;strong&gt;Appearance &amp;gt; Widgets&lt;/strong&gt; *menu. You will find a new widget called &amp;#8220;WordiZ Widget &amp;#8211; Authorship Best Articles&amp;#8221;. Add it to one of your sidebars.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;aligncenter size-full wp-image-180&#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2014/03/widget_add.png&#34; alt=&#34;Add WordiZ widget to your sidebar&#34; width=&#34;305&#34; height=&#34;244&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_2&#34;&gt;Configuration&lt;/h2&gt;
+
+&lt;p&gt;The configuration of the widget is rather simple.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;You can add a custom title to the widget in the field &lt;strong&gt;&lt;em&gt;Title&lt;/em&gt;&lt;/strong&gt;. By default, the title will be blank.&lt;/li&gt;
+&lt;li&gt;You can change the widget color theme on the second field &lt;strong&gt;&lt;em&gt;Display on bright or dark&lt;/em&gt;&lt;/strong&gt;* background***. The option here will change the overall appearance of the plugin so that it fits with your template.&lt;/li&gt;
+&lt;li&gt;Adjust the number of displayed items in the &lt;strong&gt;&lt;em&gt;Number of items&lt;/em&gt;&lt;/strong&gt; field&lt;/li&gt;
+&lt;li&gt;Do you want to add a nofollow attribute to the links displayed by the widget ? Change the settings in the field &lt;strong&gt;&lt;em&gt;Follow or *&lt;/em&gt;&lt;/strong&gt;Dofollow.***I suggest it to keep it to dofollow if you display your articles.&lt;/li&gt;
+&lt;li&gt;Finally add your Google+ id number in the field*** Google+ user id***.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img class=&#34;aligncenter size-full wp-image-181&#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2014/03/wordiz_widget_configuration.png&#34; alt=&#34;WordiZ Widget Configuration&#34; width=&#34;407&#34; height=&#34;626&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;To quickly get your Google+ user id, we have added a Google+ sign in button. When you use it, WordiZ will create an account for you and will show you your Google+ id number on a new page. Copy the number you found on the new page and paste it into the widget configuration.&lt;/p&gt;
+
+&lt;p&gt;Remember that the processing of your articles is made through WordiZ platform, so you need to have an account there to get the widget working correctly. That&amp;#8217;s the reason for the sign in button in the administration.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_3&#34;&gt;Feedback and Bugs&lt;/h2&gt;
+
+&lt;p&gt;Have you find any bug or do you have any feedback for improvement ? Let me know in the comment box below.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

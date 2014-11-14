@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Visibility on Elokenz Blog </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://localhost:1313/tags/visibility/index.xml/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Wed, 05 Feb 2014 00:00:00 UTC</updated>
+    
+    <item>
+      <title>Where do people share your articles ?</title>
+      <link>http://localhost:1313/features/people-share-articles</link>
+      <pubDate>Wed, 05 Feb 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/features/people-share-articles</guid>
+      <description>
+
+&lt;p&gt;Alright, you have written dozen of articles on your blog now, and you successfully have tagged them as the official author. In addition to that, you got offered some guest blogging offers through your connexions and via &lt;a title=&#34;Find Guest Bloggers&#34; href=&#34;http://myblogguest.com/&#34; target=&#34;_blank&#34;&gt;MyBlogGuest&lt;/a&gt;.  So essentially you start running a** successful blogger life**, but you feel a unsatisfied with the standard analytics tools. You don&amp;#8217;t really WHO is reading your articles and how you can increase the number of readers.&lt;/p&gt;
+
+&lt;p&gt;That is the reason why we introduced a new feature on WordiZ some days ago. As you may know it was already possible to find &lt;a title=&#34;Find all the people who share your articles on Google+&#34; href=&#34;http://blog.wordiz.it/features/find-people-share-articles-google&#34; target=&#34;_blank&#34;&gt;who is sharing your articles on Google+&lt;/a&gt;. That&amp;#8217;s a really interesting feature, but we thought that we are somehow missing the big picture. In other words, &lt;strong&gt;where are you mostly cited ?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;On which network are you visible ?&lt;/h2&gt;
+
+&lt;p&gt;When you write an article, you will probably share it on Tiwtter, Google+ and/or Facebook and LinkedIn. But, once this step is done,** you don&amp;#8217;t really control what&amp;#8217;s happening next**. Overtime you might discover that you reach more fans on Twitter or on Facebook.&lt;/p&gt;
+
+&lt;p&gt;It is now possible to see that in a bird&amp;#8217;s eye view on you WordiZ profile. Have a look at the following picture (taken from &lt;a title=&#34;Jean-Christophe Lavocat&#34; href=&#34;http://www.wordiz.it/profile/jice.lavocat/&#34; target=&#34;_blank&#34;&gt;my profile&lt;/a&gt;) :&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;size-full wp-image-162 aligncenter&#34; alt=&#34;Social Network Visibility&#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2014/02/which_network_visible.png&#34; width=&#34;231&#34; height=&#34;269&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;What you see is really simple to explain. The &lt;strong&gt;more &amp;#8220;mentions&amp;#8221;&lt;/strong&gt; my articles get on a social network, the &lt;strong&gt;more &amp;#8220;visible&amp;#8221;&lt;/strong&gt; I am on this** social network**. Therefore, you can quickly see here that I am equally visible on G+ (39%) and Twitter (42%), but far less on Facebook (19%).&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;size-medium wp-image-171 aligncenter&#34; alt=&#34;social media community&#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2014/02/social-media-community-300x128.jpg&#34; width=&#34;300&#34; height=&#34;128&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;What is the best strategy to get visible ?&lt;/h2&gt;
+
+&lt;p&gt;Honestly, I cannot pretend that there is a best strategy. Some people tend to be very famous more or less equally on various social networks. That&amp;#8217;s not very often, but you have a nice example with &lt;a title=&#34;Torben Rick - Wordiz Profile&#34; href=&#34;http://www.wordiz.it/profile/torbenrick/&#34; target=&#34;_blank&#34;&gt;Torben Rick&lt;/a&gt; :&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.wordiz.it/profile/torbenrick/&#34;&gt;&lt;img class=&#34;size-full wp-image-167 aligncenter&#34; alt=&#34;Torben Rick visibility on social networks&#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2014/02/torben_rick_vis_weight.png&#34; width=&#34;242&#34; height=&#34;269&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Indeed most of the famous writers I have met on WordiZ have a** favorite social network**. Well, to be precise, let say that their fans are mostly active on a social network. That is the case for instance of &lt;a title=&#34;Mark Traphagen - WordiZ Profile&#34; href=&#34;http://www.wordiz.it/profile/trappermark/&#34; target=&#34;_blank&#34;&gt;Mark Traphagen&lt;/a&gt; or &lt;a title=&#34;Flavien Chantrel - WordiZ Profile&#34; href=&#34;http://www.wordiz.it/profile/whatsupnet/&#34; target=&#34;_blank&#34;&gt;Flavien Chantrel&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p style=&#34;text-align: center;&#34;&gt;
+  &lt;a href=&#34;http://www.wordiz.it/profile/whatsupnet/&#34;&gt;&lt;img class=&#34;alignnone size-full wp-image-164&#34; alt=&#34;Visibility on Social Networks for Flavien Chantrel&#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2014/02/flavien_chantrel_vis_weight.png&#34; width=&#34;237&#34; height=&#34;270&#34; /&gt;&lt;/a&gt; &lt;a href=&#34;http://www.wordiz.it/profile/trappermark/&#34;&gt;&lt;img class=&#34;alignnone size-medium wp-image-165&#34; alt=&#34;Visbility on social networks for Mark Traphagen&#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2014/02/mark_traphagen_vis_weight.png&#34; width=&#34;238&#34; height=&#34;271&#34; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;h2 style=&#34;text-align: left;&#34;&gt;
+  How do you improve then ?
+&lt;/h2&gt;
+
+&lt;p&gt;In order to improve your social visibility, you have two strategies. The first one is to fight on all fronts at the same time. However this is really time demanding and you might feel discouraged after some time since your efforts will initially lead to few results.&lt;/p&gt;
+
+&lt;p&gt;The second strategy is to &lt;strong&gt;concentrate on a dedicated social network&lt;/strong&gt;, possibly the one you know better, and the one where you have more friends and contacts. Try to become visible on this special social network, and the others will follow by themselves.&lt;/p&gt;
+
+&lt;p&gt;I cannot show you the result yet, but, take the case of &lt;a title=&#34;Mark Traphagen- Google+&#34; href=&#34;https://plus.google.com/+MarkTraphagen/&#34; target=&#34;_blank&#34;&gt;Mark&lt;/a&gt; for instance. He started on Google+, and slowly his visibility on Twitter followed. Mark really put a lot of efforts to sustain a constant activity on &lt;a title=&#34;Google+&#34; href=&#34;http://plus.google.com&#34; target=&#34;_blank&#34;&gt;Google+&lt;/a&gt; and to create long term friendships on the network.&lt;/p&gt;
+
+&lt;p&gt;So, here is my take : concentrate on one social network, and then, when you have some traction there, start focusing on a new social network.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

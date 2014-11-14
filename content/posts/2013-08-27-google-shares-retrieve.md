@@ -3,7 +3,8 @@ title: 'What are the &#8216;Google+ shares&#8217; and how to retrieve them?'
 author: Jean-Christophe Lavocat
 layout: post
 date: 2013-08-27
-permalink: /content-marketing/google-shares-retrieve
+thumbnail: /wp-content/uploads/2013/08/ripples.png
+url: /content-marketing/google-shares-retrieve
 dsq_thread_id:
   - 1653819002
 snapEdIT:

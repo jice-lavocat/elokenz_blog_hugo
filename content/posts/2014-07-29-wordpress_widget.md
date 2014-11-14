@@ -3,7 +3,8 @@ title: How to display your best articles on the web ?
 author: Jean-Christophe Lavocat
 layout: post
 date: 2014-07-29
-permalink: /features/wordpress_widget
+thumbnail: /wp-content/uploads/2014/07/elokenz_wordpress_plugin.png
+url: /features/wordpress_widget
 dsq_thread_id:
   - 2882937903
 categories:

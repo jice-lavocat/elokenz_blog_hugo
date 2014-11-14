@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+  <title> What are the &amp;#8216;Google&#43; shares&amp;#8217; and how to retrieve them? // Elokenz Blog </title>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="author" content="Jean-Christophe Lavocat">
+
+  <meta property="og:title" content="What are the &amp;#8216;Google&#43; shares&amp;#8217; and how to retrieve them?" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="website" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:url" content="http://localhost:1313/posts/2013-08-27-google-shares-retrieve/" />
+
+
+  
+  <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.5.0/base-min.css">
+  <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.5.0/pure-min.css">
+  
+  
+    <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.5.0/grids-responsive-min.css">
+  
+  
+
+  <link rel="stylesheet" href="http://localhost:1313/css/redlounge.css">
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+  <link href='http://fonts.googleapis.com/css?family=Raleway:400,200,100,700,300,500,600,800' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Libre+Baskerville:400,700,400italic' rel='stylesheet' type='text/css'>
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/touch-icon-144-precomposed.png">
+  <link rel="shortcut icon" href="/favicon.png">
+
+  
+  <link href="" rel="alternate" type="application/rss+xml" title="Elokenz Blog" />
+
+  
+  <link rel="stylesheet" href="https://yandex.st/highlightjs/8.0/styles/tomorrow-night-bright.min.css">
+  <script src="https://yandex.st/highlightjs/8.0/highlight.min.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script>
+
+  
+
+  
+
+  
+</head>
+
+<body>
+	
+
+	<div id="layout" class="pure-g">
+    <div class="sidebar pure-u-1 pure-u-md-1-4">
+  <div class="header">
+    
+
+    <h1 class="brand-title">Elokenz Blog</h1>
+    <h2 class="brand-tagline">Content Marketing for bloggers and journalists</h2>
+
+    <nav class="nav">
+      <ul class="nav-list">
+        <li class="nav-item"><span class="nav-item-separator">//</span><a href="http://localhost:1313">Home</a></li>
+        
+          <li class="nav-item"><span class="nav-item-separator">//</span><a href="/posts">Blog</a></li>
+        
+      </ul>
+    </nav>
+
+    
+    <div class="social-buttons">
+      
+        
+        <a href="http://www.twitter.com/Elokenz_com" target="_blank"><i class='fa fa-twitter'></i></a>
+        
+      
+        
+        <a href="https://plus.google.com/118224579909815053416" target="_blank"><i class='fa fa-google-plus'></i></a>
+        
+      
+      
+    </div>
+    
+
+  </div>
+</div>
+
+	
+	
+
+    <div class="content pure-u-1 pure-u-md-3-4">
+		<a name="top"></a>
+		
+
+		
+			
+		    <div id="toc" class="pure-u-1 pure-u-md-1-4">
+				<small class="toc-label">Contents</small>
+		   	 	<nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li><a href="#toc_0">The different metrics on Google+ : comments, +1 and shares</a></li>
+<li><a href="#toc_1">Shares on Google+ , why is this so complicated ? The SID bug</a></li>
+<li><a href="#toc_2">How to get some &#8216;Ghost&#8217; shares ?</a></li>
+<li><a href="#toc_3">Share and pictures/media</a></li>
+<li><a href="#toc_4">Google can&#8217;t add</a></li>
+<li><a href="#toc_5">Post with several links</a></li>
+<li><a href="#toc_6">How to retrieve the number of Google+ shares</a>
+<ul>
+<li><a href="#toc_7">Python</a></li>
+<li><a href="#toc_8">Php</a></li>
+</ul></li>
+<li><a href="#toc_9">Share me</a></li>
+<li><a href="#toc_10">Other metrics</a></li>
+</ul></li>
+</ul>
+</nav>
+		    </div>
+		    
+	    
+  		<section class="post">
+            <h1 class="post-title">
+              <a href="/posts/2013-08-27-google-shares-retrieve/">What are the &amp;#8216;Google&#43; shares&amp;#8217; and how to retrieve them?</a>
+            </h1>
+            <h3 class="post-subtitle">
+            	
+            </h3>
+            
+            	<span class="post-date">
+                	<span class="post-date-day"><sup>27</sup></span><span class="post-date-separator">/</span><span class="post-date-month">Aug</span> <span class="post-date-year">2013</span>
+            	</span>
+            	
+            
+            	
+            		<span class="post-author-single">By <a class="post-author"  target="">Jean-Christophe Lavocat</a></span>
+            		
+
+
+
+            	
+            
+
+			
+				<div class="post-categories">
+				
+					<a class="post-category post-category-Content-Marketing" href="/categories/Content-Marketing">Content Marketing</a> 
+				
+				</div>
+			
+
+			
+
+			
+
+            
+
+<p>Social networks all have different metrics. On Twitter, you can look for the number or retweets, on Pinterest, the number of &#8216;pinned&#8217; pictures, on LinkedIn, the number of &#8216;shares&#8217;, etc. Facebook is by far the more precise because you can get a number of likes, shares and comments. On Google+, the picture is not so clear yet. In this article we try to understand the different** available metrics from Google+** and we give you some code to** import the number of Google+ shares** in python and PHP.</p>
+
+<h2 id="toc_0">The different metrics on Google+ : comments, +1 and shares</h2>
+
+<p>On Google+ there is apparently three levels of engagement : sharing, agreeing (+1) and commenting. People can share, +1 or comment** a post** on Google+ or <strong>any external website</strong>. Google has also released a <a title="Google+ +1 button for your site" href="https://developers.google.com/+/web/+1button/" target="_blank">button</a> to allow +1 directly from a remote place, and you can use <a title="Add Google+ comments to your site" href="http://googlesystem.blogspot.com/2013/04/add-google-comments-to-any-web-page.html" target="_blank">some javascript</a> to embed Google+ comments on your website.</p>
+
+<p>Surprisingly, to our knowledge, there isn&#8217;t a tool to show all these numbers in one same place yet. You can get the number of +1 on <a title="Shared Count" href="http://sharedcount.com/" target="_blank">SharedCount</a>, the number of comments on <em>Terry Simmonds</em>&#8216; <a title="Get number of comments" href="http://www.sim64.co.uk/shared/" target="_blank">tool</a> and the number of shares using <a title="Google Ripples" href="https://support.google.com/plus/answer/1713320?hl=en" target="_blank">Google Ripples</a>.</p>
+
+<p style="text-align: center;">
+  <img class="aligncenter  wp-image-60" alt="Google Ripples" src="http://blog.wordiz.it/wp-content/uploads/2013/08/ripples.png" width="450" />
+</p>
+
+<p>While the displayed +1 number on your website <a title="Google +1 aggregates +1 and shares" href="https://plus.google.com/107022061436866576067/posts/1jW7NJZCiHJ" target="_blank">aggregates all possible social events</a> (plus, reshares), the comments and shares reflects stronger interactions. Typically, the number of comments will include the number of shares and the number of comments made on your post or on a share, whereas, the number of shares will be limited to shares and re-shares only. The +1 signal is really easy to get growing whereas it is more difficult to have a high number of shares/comment without a great content.</p>
+
+<p>In summary :</p>
+
+<ul>
+<li><strong>+1</strong> are the sum of
+
+<ul>
+<li>Number of direct +1 received on a page</li>
+<li>Number of shares and reshares</li>
+</ul></li>
+<li><strong>Comments</strong> are the sum of
+
+<ul>
+<li>Shares and reshares</li>
+<li>Comments and replies posted on G+ or on the website</li>
+</ul></li>
+<li><strong>Shares</strong> is only the number of shares and reshares</li>
+</ul>
+
+<h2 id="toc_1">Shares on Google+ , why is this so complicated ? The SID bug</h2>
+
+<p>Some month ago, a small <strong>bug</strong> impacting on Google+ comments has been <a title="Bug Google+ comments" href="https://plus.google.com/107547897649550914425/posts/CLWDRR14N35" target="_blank">discovered</a> by <em>Terry Simmons</em> who contacted the Google+ team for a fix which <a title="Fix for the _sid=0 bug on G+ comments" href="https://plus.google.com/107547897649550914425/posts/U66AsMMHCja" target="_blank">arrived</a> some time later. However this bug seems to be still active when you use Ripples.</p>
+
+<p>It is usually pretty easy to use <strong>Ripples</strong> to get the number of shares : <a title="Using Ripples" href="https://plus.google.com/u/0/ripples/details?url=[your_url]" target="_blank"><a href="https://plus.google.com/u/0/ripples/details?url=[your_url">https://plus.google.com/u/0/ripples/details?url=[your_url</a>]</a> but because of the bug, your website URL might not be the one saved correctly when it is shared on G+ by someone. When someone posts a link on Google+, an extra parameter (sid) is sometimes added.</p>
+
+<p>If you cannot find all the expected shares, you should try adding a parameter at the end of your URL : %23__sid%3D0 (#__sid=0) or %23__sid%3D3 (#__sid=3) . On the URL I used for a test, I can find shares for <a title="Ripples with sid=0" href="https://plus.google.com/u/0/ripples/details?url=http%3A%2F%2Fwww.presstor.fr%2Ftechnologie%2Fmichelin-encourage-l-utilisation-de-puces-rfid-dans-pneus-188%23__sid%3D0" target="_blank">sid=0</a> and for <a title="Ripples sid3" href="https://plus.google.com/u/0/ripples/details?url=http%3A%2F%2Fwww.presstor.fr%2Ftechnologie%2Fmichelin-encourage-l-utilisation-de-puces-rfid-dans-pneus-188%23__sid%3D3" target="_blank">sid=3</a> and no shares for the <a title="Ripples without sid" href="https://plus.google.com/u/0/ripples/details?url=http%3A%2F%2Fwww.presstor.fr%2Ftechnologie%2Fmichelin-encourage-l-utilisation-de-puces-rfid-dans-pneus-188" target="_blank">standard url</a>.</p>
+
+<h2 id="toc_2">How to get some &#8216;Ghost&#8217; shares ?</h2>
+
+<p>When you submit a post on G+, only the initial content is saved on Ripples. If you later** edit your post** and remove or edit the initial url, <strong>it will NOT be updated in Ripples</strong>. While doing my tests I thought that a bug was present and tried the following : first sending a post with my URL to G+, then removing the URL, and later asked some friends to share the edited post. I expected to see the number of shares growing. But finally it&#8217;s not the case.</p>
+
+<p>You cannot get &#8216;fake shares&#8217; but you can however share a post with a ghost link. That is the reason why I re-named this section &#8216;<strong>ghost share</strong>&#8216;.</p>
+
+<div id="attachment_42" style="width: 298px" class="wp-caption aligncenter">
+  <img class="size-full wp-image-42" alt="Fake shares" src="http://blog.wordiz.it/wp-content/uploads/2013/08/fake_share.png" width="288" height="244" />
+  
+  <p class="wp-caption-text">
+    Here, the initial link was heading to www.presstor.fr. After the edit, the message contains a link to www.example.com
+  </p>
+</div>
+
+<h2 id="toc_3">Share and pictures/media</h2>
+
+<p>If you post a link together with a picture (first put the link, wait until the excerpt is loaded then removed the excerpt) you can get more attention from readers, and more reshares and +1. The number of +1 will be attributed to your link, but it is not the same story for shares.</p>
+
+<p>In the case of a share, your URL has to be the only &#8216;rich element&#8217; present in the body of the post. If you have a link with a picture, it will not count as a share (because you have remove the link&#8217;s description to put the picture). So to get some reshares, you need some** great content** .</p>
+
+<h2 id="toc_4">Google can&#8217;t add</h2>
+
+<p>When you check on Ripples a post, you can get the number of public shares but also the number of private shares, namely the <a title="Total number of shares on G+" href="https://plus.google.com/u/0/ripples/details?activityid=z12bdfgzpwjjjrbg504celxqizrqc3fxllw0k" target="_blank">total shares</a>.</p>
+
+<p>In the case of URLs, only the number of public shares is provided.  Google states clearly &#8220;we don&#8217;t show private shares&#8221; and probably does not take them into account to avoid spam.** Be sure to always share your link publicly**.</p>
+
+<p>During my tests, I found a really funny situation and I don&#8217;t know how to interpret it. For one of my <a title="Ripples and incorrect numbers ?" href="https://plus.google.com/u/0/ripples/details?url=http%3A%2F%2Fwww.presstor.fr%2Ftechnologie%2Fmichelin-encourage-l-utilisation-de-puces-rfid-dans-pneus-188%23__sid%3D0" target="_blank">test link</a>, there was two contradicting data : the number of shares (indicated on the left) and the list of shares on the right, which was clearly not equal to the number indicated on the left.</p>
+
+<div id="attachment_40" style="width: 560px" class="wp-caption aligncenter">
+  <a href="http://blog.wordiz.it/wp-content/uploads/2013/08/google_plus-shares-ripples_cannot_count.png"><img class=" wp-image-40 " alt="Google+ Ripples - Cannot count the total shares correctly" src="http://blog.wordiz.it/wp-content/uploads/2013/08/google_plus-shares-ripples_cannot_count.png" width="550" /></a>
+  
+  <p class="wp-caption-text">
+    How many shares can you count on the right? Four or five?
+  </p>
+</div>
+
+<p>If someone understands this point, I am really curious to get your opinion as a comment below.</p>
+
+<h2 id="toc_5">Post with several links</h2>
+
+<p>What happens if you send a post with several links? For the sake of fairness, I was expecting to see a share added for every single URL, but this does not seem to be the case. I did not spend too much time on this test, but you are welcome to post your results in a comment below.</p>
+
+<p>So, to summarize, <strong>when you share a post with several links, only the first one receive a share</strong> ! When I write the &#8220;first one&#8221;, I mean one from which Google+ extracted the content/picture for the small excerpt at the bottom of your post.</p>
+
+<h2 id="toc_6">How to retrieve the number of Google+ shares</h2>
+
+<p>One can easily retrieve the number of shares given by Google Ripples. By using the same URL that Ripples use, you can extract all the share information you like (the people who reshared your post, the time etc). I give you to sample of <strong>code to extract the number of shares in PHP and in Python</strong> (hat tip to Regis Montoya, creator of the nice google app <a title="C SIP Simple" href="https://play.google.com/store/apps/details?id=com.csipsimple&hl=en" target="_blank">CSIPSimple</a> for the python version) :</p>
+
+<h3 id="toc_7">Python</h3>
+
+<pre class="brush: python; title: ; notranslate" title="">import urllib,urllib2,json
+target_url="http://www.wordiz.it"
+target=urllib.quote_plus(target_url+"#__sid=0") #url-friendly
+data = 'f.req=%5B%22'+target+'%22%2Cnull%5D&'
+url = "https://plus.google.com/u/0/ripple/update"
+req = urllib2.Request(url, data, {'Content-Type': 'application/x-www-form-urlencoded'})
+f = urllib2.urlopen(req)
+response = f.read()
+f.close()
+response=response[6:] #remove some bad characters
+
+# Remove ",," (non valid json) and replace with ,null, (
+# Do that twice because re do not take into account overlapping matches)
+response_json_str = response.replace(",,", ",null,").replace(",,", ",null,")
+datas = json.loads(response_json_str)
+
+# Find relevant data -- might need to be changed depending on possible incoming format
+# Maybe need some recursive func searching for list with first item "orr.c"
+orr_c = datas[0][1][-3]
+print str(orr_c)+" share(s) pour "+target_url
+
+</pre>
+
+<h3 id="toc_8">Php</h3>
+
+<pre class="brush: php; title: ; notranslate" title="">&lt;?php
+
+$target="http://www.wordiz.it";
+$data="f.req=%5B%22".$target."%22%2Cnull%5D&";
+$url = "https://plus.google.com/u/0/ripple/update";
+
+$ch = curl_init();
+curl_setopt($ch, CURLOPT_URL, $url);
+curl_setopt($ch, CURLOPT_POST, 1);
+curl_setopt($ch, CURLOPT_POSTFIELDS, $data);
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+curl_setopt($ch, CURLOPT_HTTPHEADER, array('application/x-www-form-urlencoded'));
+
+$curl_results = curl_exec ($ch);
+curl_close ($ch);
+//echo $curl_results;
+$curl_results=substr($curl_results,6);
+$curl_results = str_replace(",,",",null,", $curl_results);
+$curl_results = str_replace(",,",",null,", $curl_results);
+// print_r($curl_results);
+
+$parsed_results = json_decode($curl_results, true);
+echo($parsed_results[0][1][4])." Google shares on ".$target;
+
+?&gt;
+</pre>
+
+<h2 id="toc_9">Share me</h2>
+
+<p>Now, if you enjoyed the article, please help us and share this article on Google+. Remember, to do it correctly :</p>
+
+<ol>
+<li>Put the link to the article first (in case you have other links)</li>
+<li>Don&#8217;t add an extra image</li>
+<li>You can modify the text afterwards, it will not affect</li>
+</ol>
+
+<p>Simple !</p>
+
+<h2 id="toc_10">Other metrics</h2>
+
+<p>Let&#8217;s say you are a blogger and want more data about your articles. You can check all your posts one by one or you can try using <a href="http://www.wordiz.it" title="WordiZ">WordiZ</a>. There you will <strong>get more metrics associated with your articles</strong> (the ones you tagged with rel=&#8221;author&#8221;). <a title="Signup on WordiZ" href="http://wordiz.it/accounts/login/google-oauth2/" target="_blank">Signup now</a> for an early invitation, we need some extra members to launch our beta.</p>
+
+<blockquote>
+<p>Hat Tip to <a title="Mark Traphagen" href="https://plus.google.com/+MarkTraphagen/posts" target="_blank">+Mark Traphagen</a> for the initial idea for the post</p>
+</blockquote>
+
+	
+			
+
+			
+				<div class="tags-list">
+					<span class="dark-red">Tags</span><span class="decorative-marker">//</span>
+					
+	                <a class="post-tag post-tag-1" href="/tags/1">1</a>, 
+	                
+	                <a class="post-tag post-tag-Comments" href="/tags/Comments">Comments</a>, 
+	                
+	                <a class="post-tag post-tag-Google" href="/tags/Google">Google&#43;</a>, 
+	                
+	                <a class="post-tag post-tag-Ripples" href="/tags/Ripples">Ripples</a>, 
+	                
+	                <a class="post-tag post-tag-Shares" href="/tags/Shares">Shares</a>, 
+	                
+				</div>
+			
+
+			
+				<div class="paging">
+					<span class="paging-label">More Reading</span>
+					
+					<div class="paging-newer">
+						<span class="dark-red">Newer</span><span class="decorative-marker">//</span>
+						<a class="paging-link" href="/posts/2013-09-08-wordiz-weekly-08092013/">WordiZ Weekly &amp;#8211; 08/09/2013</a>
+		            </div>
+		            
+
+					
+					<div class="paging-older">
+						<span class="dark-red">Older</span><span class="decorative-marker">//</span>
+			            <a class="paging-link" href="/posts/2013-08-16-welcome-to-wordiz/">Welcome to WordiZ</a>
+		            </div>
+		            
+	            </div>
+            
+          </section>
+          
+          	<div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'wordiz';
+    var disqus_identifier = 'http:\/\/localhost:1313\/posts\/2013-08-27-google-shares-retrieve\/';
+    var disqus_title = 'What are the \x26#8216;Google\x2b shares\x26#8217; and how to retrieve them?';
+    var disqus_url = 'http:\/\/localhost:1313\/posts\/2013-08-27-google-shares-retrieve\/';
+
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+          
+        
+      <div class="footer">
+	<hr class="thin" />
+	<div class="pure-menu pure-menu-horizontal pure-menu-open">
+		<ul class="footer-menu">
+		
+			<li><a href="/posts">Blog</a></li>
+		
+		</ul>
+	</div>
+
+	<p>&copy; 2014. All rights reserved. </p>
+</div>
+    </div>
+  </div>
+	
+
+	
+
+  
+<script>document.write('<script src="http://'
+        + (location.host || 'localhost').split(':')[0]
+		+ ':1313/livereload.js?mindelay=10"></'
+        + 'script>')</script></body>
+</html>

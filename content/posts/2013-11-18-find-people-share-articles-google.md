@@ -3,7 +3,8 @@ title: Find all the people who share your articles on Google+
 author: Jean-Christophe Lavocat
 layout: post
 date: 2013-11-18
-permalink: /features/find-people-share-articles-google
+thumbnail: /wp-content/uploads/2013/11/list_google_fans.png
+url: /features/find-people-share-articles-google
 dsq_thread_id:
   - 1976016284
 snapEdIT:

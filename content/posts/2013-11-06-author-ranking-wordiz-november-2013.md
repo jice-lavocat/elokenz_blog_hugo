@@ -3,7 +3,8 @@ title: 'Author ranking on WordiZ &#8211; November 2013'
 author: Jean-Christophe Lavocat
 layout: post
 date: 2013-11-06
-permalink: /authorship/author-ranking-wordiz-november-2013
+thumbnail: /wp-content/uploads/2013/11/ranking.jpg
+url: /authorship/author-ranking-wordiz-november-2013
 snapEdIT:
   - 1
 dsq_thread_id:

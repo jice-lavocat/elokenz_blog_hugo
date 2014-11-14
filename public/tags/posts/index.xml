@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Posts on Elokenz Blog </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://localhost:1313/tags/posts/index.xml/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Wed, 10 Sep 2014 00:00:00 UTC</updated>
+    
+    <item>
+      <title>Google&#43; URL posting : 4 Facts to optimize SEO and Social Trust</title>
+      <link>http://localhost:1313/search-engine-optimization/google-url-posting-4-facts-optimize-seo-social-trust</link>
+      <pubDate>Wed, 10 Sep 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/search-engine-optimization/google-url-posting-4-facts-optimize-seo-social-trust</guid>
+      <description>
+
+&lt;p&gt;Writing an appealing and interesting** Google+ post** is not the only thing one might know when posting an URL on the social network. In this post I detail several technical facts that you should keep in mind when posting to** increase your SEO and enforce social trust**. You will learn which URL can be indexed from a Google+ post and the impact on your social metrics.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Increase social trust&lt;/h2&gt;
+
+&lt;p&gt;Google+ has become an obvious place to share/post links to increase your online visibility. Many articles are describing &lt;a title=&#34;Perfect G+ post&#34; href=&#34;http://dustn.tv/perfect-post/&#34; target=&#34;_blank&#34;&gt;how to write a good G+ post&lt;/a&gt; and it often boils down to writing a valuable piece of content in your post, with a title, inserting bold text and adding some media together with optional hashtags. Here is a summary from Dustin Stout :&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://dustn.tv/perfect-post/&#34;&gt;&lt;img class=&#34;aligncenter&#34; src=&#34;http://dustn.tv/wp-content/uploads/2013/08/anatomy-of-a-perfect-google-plus-post.jpg?b5580d&#34; alt=&#34;&#34; width=&#34;478&#34; height=&#34;375&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;However, a post on Google+ has external consequences, especially on the number of views, +1, comments and shares your URL will receive. Depending on your inclination, you might believe that these metrics are important or not. I will not argue on that point, and will just give you few takeaways about how to share an URL in different contexts.&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_1&#34;&gt;Sharing an URL and receive a share&lt;/h3&gt;
+
+&lt;p&gt;First things first, I call a (public or private) share an URL that is mentioned on Google Ripples : see our previous articles &amp;#8220;&lt;a title=&#34;Google Shares&#34; href=&#34;http://blog.elokenz.com/content-marketing/google-shares-retrieve&#34; target=&#34;_blank&#34;&gt;What are Google+ Shares and how to retrieve them ?&lt;/a&gt;&amp;#8221; . Google makes the distinction between private and public shares : in the former case, the URL is shared among a restricted number of people while in the latter, the URL is shared publicly (pretty obvious, isn&amp;#8217;t it?).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;To count as a share, you URL needs to appear in the preview snippet bellow your post&lt;/strong&gt;. If you share several URLs, only the one appearing in the preview area will receive a share count. If you share your URL together with a media (image/video) your post will not count as a share for this URL. See the picture below for a summary :&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.elokenz.com/wp-content/uploads/2014/09/google_url_shares.png&#34;&gt;&lt;img class=&#34;aligncenter size-full wp-image-331&#34; src=&#34;http://blog.elokenz.com/wp-content/uploads/2014/09/google_url_shares.png&#34; alt=&#34;How to share URLs via a Google+ Post (via @elokenz)&#34; width=&#34;600&#34; height=&#34;2842&#34; data-wp-pid=&#34;331&#34; /&gt;&lt;/a&gt;Depending on your strategy you might use one of the previous three cases. If your goal is too** share and collect reshares** for a URL you might use the first and second example. Be aware that if you share several links in the same post (example 2), only &lt;strong&gt;the one appearing in the preview snippet&lt;/strong&gt; will receive shares ans reshares.&lt;/p&gt;
+
+&lt;p&gt;If you aim at** &amp;#8216;hiding&amp;#8217; a share&lt;strong&gt;, then you should use the third example.  However, you should realize that you are loosing the potential of virality. In this example,&lt;/strong&gt; Cyrus Shepard lost 23 shares** by posting his link like he did.&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_2&#34;&gt;Don&amp;#8217;t look too spammy&lt;/h3&gt;
+
+&lt;p&gt;You might wonder why people would like to &amp;#8220;hide&amp;#8221; shares. Well, the answer is pretty obvious :** sharing too much is a bit spammy**. I have a concrete example to give you.&lt;/p&gt;
+
+&lt;p&gt;When I post an article on G+, I usually post it on my own stream and then on 2 or 3 targeted communities. To avoid being flagged as a spammer, I usually decide beforehand which location will be more subject to reshares (my own stream or a community). I then post my link only in this place, paying attention that the preview summary got activated. Finally, I post my article to other locations with a picture instead of the URL preview. By doing this I am &amp;#8216;hiding&amp;#8217; the share and I don&amp;#8217;t look like a bad spammer.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.elokenz.com/wp-content/uploads/2014/09/sharing_duplicates.png&#34;&gt;&lt;img class=&#34;aligncenter wp-image-334&#34; src=&#34;http://blog.elokenz.com/wp-content/uploads/2014/09/sharing_duplicates.png&#34; alt=&#34;Cross posting links on Google+ (via @elokenz)&#34; width=&#34;600&#34; height=&#34;382&#34; data-wp-pid=&#34;334&#34; /&gt;&lt;/a&gt;When &amp;#8216;hiding&amp;#8217; the link in the content of your post, your readers still have the possibility to click it and read your post.&lt;/p&gt;
+
+&lt;p&gt;Another good reason to hide shares is when you are using the** Google+ comment box** on your own site. Of course it is not an official widget, but many webmasters are using it in order to increase visibility : whenever someone comments using this box, the comment can be shared directly on the user G+ stream. I am often using it on my blogs to increase the amount of reshares.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.elokenz.com/wp-content/uploads/2014/09/google_plus_comments.png&#34;&gt;&lt;img class=&#34;aligncenter  wp-image-336&#34; src=&#34;http://blog.elokenz.com/wp-content/uploads/2014/09/google_plus_comments.png&#34; alt=&#34;Google+ Comment Box&#34; width=&#34;399&#34; height=&#34;619&#34; data-wp-pid=&#34;336&#34; /&gt;&lt;/a&gt;Though this comment box is one of the best techniques to increase sharing of your articles on Google+, it is really a nightmare for cross posters. Look at what it looks like when the owner is posting on several communities while sharing its link in the preview snippet (click to see the full picture) :&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.elokenz.com/wp-content/uploads/2014/09/spam_comment_gplus.png&#34;&gt;&lt;img class=&#34;aligncenter  wp-image-337&#34; src=&#34;http://blog.elokenz.com/wp-content/uploads/2014/09/spam_comment_gplus-104x300.png&#34; alt=&#34;G+ comment spam (via @elokenz)&#34; width=&#34;135&#34; height=&#34;363&#34; data-wp-pid=&#34;337&#34; /&gt;&lt;/a&gt;Therefore, if you want to** use this comment box&lt;strong&gt;, please, **pay attention to the way you are sharing your links on Google+&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you optimize your posts, you might be able to receive more shares while preventing spammy behavior.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_3&#34;&gt;Increase the SEO effect&lt;/h2&gt;
+
+&lt;p&gt;Alright, so we covered the social aspects of URL sharing on Google+. Let&amp;#8217;s now look at the SEO side. This section is based on experiments I ran in April 2014, thus results might have changed.&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_4&#34;&gt;Link indexation&lt;/h3&gt;
+
+&lt;p&gt;As we just have seen, you can share an URL in a G+ post with a preview or without the preview. Before running my tests I thought that the URLs shared without a preview would not be indexed by Google and that URLs shared with a preview would get indexed.&lt;/p&gt;
+
+&lt;p&gt;I decided to run a test to verify these assumptions. I also wanted to see what was the difference between a private and a public share for the indexation. Four pages were created with random unique content , a valid layout (title, headings) and an image. Each page was containing a unique word like &amp;#8220;apolintruc&amp;#8221;.&lt;/p&gt;
+
+&lt;p&gt;I submitted two of these pages in public posts and two pages in private posts. In each case, I posted one URL with the preview box, and the other URL with an image box and the link in the text of my post. Here are the two public posts I created :&lt;br /&gt;
+&amp;lt;!&amp;ndash; Place this tag where you want the widget to render. &amp;ndash;&amp;gt;&lt;/p&gt;
+
+&lt;div class=&#34;g-post&#34; data-href=&#34;https://plus.google.com/113400244614302404694/posts/Q3sLSsEXiMe&#34;&gt;
+&lt;/div&gt;
+
+&lt;!-- Place this tag where you want the widget to render. --&gt;
+
+&lt;div class=&#34;g-post&#34; data-href=&#34;https://plus.google.com/113400244614302404694/posts/j3J824kMnfV&#34;&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;The final outcome is really not what I expected. Eventually,** the two public posts had their URLs indexed**, while the private ones were not indexed at all, not even the post with the link preview.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.elokenz.com/wp-content/uploads/2014/09/Razominawo.png&#34;&gt;&lt;img class=&#34;aligncenter size-medium wp-image-338&#34; src=&#34;http://blog.elokenz.com/wp-content/uploads/2014/09/Razominawo-300x148.png&#34; alt=&#34;URL shared with a Public Post on G+ are indexed (via @elokenz)&#34; width=&#34;300&#34; height=&#34;148&#34; data-wp-pid=&#34;338&#34; /&gt;&lt;/a&gt;&lt;br /&gt;
+&amp;lt;!&amp;ndash; Place this tag in your head or just before your close body tag. &amp;ndash;&amp;gt;Therefore, if you want to&lt;/p&gt;
+
+&lt;p&gt;** gain some SEO juice, always post links in a public way** ! That might have seemed obvious for some of you, but I have not read it elsewhere before.&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_5&#34;&gt;Some facts about posting a link on G+&lt;/h3&gt;
+
+&lt;p&gt;When posting a link that will appear in the preview box, Google is sending its &amp;#8220;snippetbot&amp;#8221; to retrieve a picture and a summary for your link. So, the first spider you will receive has no real name and looks like this :&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;173.245.54.83 - - [08/Apr/2014:12:11:06 +0200] &amp;quot;GET /test/atraminouita.html HTTP/1.1&amp;quot; 200 1615 &amp;quot;-&amp;quot; &amp;quot;Mozilla/5.0 (Windows NT 6.1; rv:6.0) Gecko/20110814 Firefox/6.0 Google (+https://developers.google.com/+/web/snippet/)&amp;quot;&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;The documention sends you to the &lt;a title=&#34;Web Snipper&#34; href=&#34;https://developers.google.com/+/web/snippet/&#34; target=&#34;_blank&#34;&gt;Snippet documentation&lt;/a&gt; and there not much to say about that except that (of course) you won&amp;#8217;t receive it if your link was not pre loaded in the preview snippet.&lt;/p&gt;
+
+&lt;p&gt;Then , whenever one link is shared in the content of a post, you will receive the visit of an old friend, Google Feedfetcher :&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;173.245.54.83 - - [08/Apr/2014:12:13:22 +0200] &amp;quot;GET /test/atraminouita.html HTTP/1.1&amp;quot; 200 1615 &amp;quot;-&amp;quot; &amp;quot;Mozilla/5.0 (compatible) Feedfetcher-Google;(+http://www.google.com/feedfetcher.html)&amp;quot;&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;This is the real guy who will ignite the indexation of your page. I don&amp;#8217;t really know what triggers the indexation since the &lt;a title=&#34;FeedFetcher&#34; href=&#34;https://support.google.com/webmasters/answer/178852&#34; target=&#34;_blank&#34;&gt;documentation&lt;/a&gt; is rather vague about it, but, the fact is that at some point, GoogleBot came on my pages to index them (it took actually so long, that I could not find it in my logs).&lt;/p&gt;
+
+&lt;p&gt;It&amp;#8217;s interesting to note that &lt;strong&gt;Feedfetcher&lt;/strong&gt; did not disappear with Google Reader !&lt;/p&gt;
+
+&lt;p&gt;A very last note (since this article already passed the 1K words) about G+ Urls. You probably know that Google records the number of views on your profile. Guess what, it also records the number of clicks on the URLs you are posting. Look at this apache log for instance :&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;173.245.56.68 - - [08/Apr/2014:22:45:23 +0200] &amp;quot;GET /test/razominawo.html HTTP/1.1&amp;quot; 200 1799 &amp;quot;http://plus.url.google.com/url?sa=z&amp;amp;n=1396989924414&amp;amp;url=http%3A%2F%2Fwww.graphemeride.com%2Ftest%2Frazominawo.html&amp;amp;usg=DymRAVdehswUyvEh0bzZypqGlOI.&amp;quot; &amp;quot;Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36&amp;quot;&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Here you see the IP of my visitor &lt;em&gt;173.245.56.68&lt;/em&gt; and the referrer &lt;a href=&#34;http://plus.url.google.com/url?sa=z&amp;amp;n=1396989924414&amp;amp;url=http%3A%2F%2Fwww.graphemeride.com%2Ftest%2Frazominawo.html&amp;amp;usg=DymRAVdehswUyvEh0bzZypqGlOI.&#34;&gt;http://plus.url.google.com/url?sa=z&amp;amp;n=1396989924414&amp;amp;url=http%3A%2F%2Fwww.graphemeride.com%2Ftest%2Frazominawo.html&amp;amp;usg=DymRAVdehswUyvEh0bzZypqGlOI.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Interesting parameters :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;n=1396989924414 : the timestamp of the click (in millisecond)&lt;/li&gt;
+&lt;li&gt;url : the url clicked&lt;/li&gt;
+&lt;li&gt;usg : I could not reverse engineer this one, but I would love to see it being the user who clicked.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_6&#34;&gt;Posting wisely&lt;/h2&gt;
+
+&lt;p&gt;Starting from today you can now post in wiser way on Google+ :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;If you want to get more shares, pay attention to the preview snippet and have your link description loaded there.&lt;/li&gt;
+&lt;li&gt;If you want to hide your sharing activities (duplicate posts in time, cross posting) : use a media with your post to prevent the preview snippet to show your URL&lt;/li&gt;
+&lt;li&gt;If you want your Backlinks to count for Google index, post publicly on Google+&lt;/li&gt;
+&lt;li&gt;Finally, since every click counts (and Google records that), post an appealing content together with your link. Your followers will anyway prefer that.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Did I miss something ? Do you have other suggestions ? Please, drop a comment below and engage the discussion &lt;img src=&#34;http://blog.elokenz.com/wp-includes/images/smilies/icon_smile.gif&#34; alt=&#34;:-)&#34; class=&#34;wp-smiley&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

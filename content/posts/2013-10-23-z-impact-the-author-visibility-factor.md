@@ -3,7 +3,8 @@ title: 'Explaining the Z-Impact &#8211; The Author Visibility Factor'
 author: Jean-Christophe Lavocat
 layout: post
 date: 2013-10-23
-permalink: /questions/z-impact-the-author-visibility-factor
+thumbnail: /wp-content/uploads/2013/10/Z_impact_score_profile_picture.png
+url: /questions/z-impact-the-author-visibility-factor
 dsq_thread_id:
   - 1889658788
 snapEdIT:

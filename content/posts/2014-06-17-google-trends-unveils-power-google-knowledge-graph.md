@@ -3,7 +3,8 @@ title: Google Trends unveils the power of Google Knowledge Graph
 author: Jean-Christophe Lavocat
 layout: post
 date: 2014-06-17
-permalink: /search-engine-optimization/google-trends-unveils-power-google-knowledge-graph
+thumbnail: /wp-content/uploads/2014/06/sarko_vs_holland.png
+url: /search-engine-optimization/google-trends-unveils-power-google-knowledge-graph
 dsq_thread_id:
   - 2771751560
 alternate:

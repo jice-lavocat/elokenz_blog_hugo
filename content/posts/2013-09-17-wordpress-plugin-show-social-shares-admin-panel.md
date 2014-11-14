@@ -3,7 +3,8 @@ title: WordPress plugin to show social shares in your admin panel
 author: Jean-Christophe Lavocat
 layout: post
 date: 2013-09-17
-permalink: /content-marketing/wordpress-plugin-show-social-shares-admin-panel
+thumbnail: /wp-content/uploads/2013/09/banner-772x250.png
+url: /content-marketing/wordpress-plugin-show-social-shares-admin-panel
 snapEdIT:
   - 1
 dsq_thread_id:

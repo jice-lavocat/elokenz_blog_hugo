@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Zimpact-Score on Elokenz Blog </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://localhost:1313/tags/zimpact-score/index.xml/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Wed, 13 Nov 2013 00:00:00 UTC</updated>
+    
+    <item>
+      <title>New ZImpact bar</title>
+      <link>http://localhost:1313/features/new-zimpact-bar</link>
+      <pubDate>Wed, 13 Nov 2013 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/features/new-zimpact-bar</guid>
+      <description>
+
+&lt;p&gt;&lt;img class=&#34;alignleft size-full wp-image-145&#34; alt=&#34;New WordiZ Impact Bar&#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2013/11/new_zimpact_bar.png&#34; width=&#34;264&#34; height=&#34;272&#34; /&gt;Initially, the display of your score has been made in a bubble like tooltip on top of your profile picture. But today, things have changed. The new ZImpact bar is out !&lt;/p&gt;
+
+&lt;p&gt;We are glad to roll out this new graphical bar that shows your level on a rainbow color scale bar. It&amp;#8217;s a great occasion for you to share your profile and get a higher score.&lt;/p&gt;
+
+&lt;p&gt;If your score is 12, it means that you have at least 12 articles with 12 shares on every social networks. You want to improve that value? Try to write a new post and get 13 shares on every social network&amp;#8230; but that&amp;#8217;s not all. You also need to have your 12 previous articles now being shared 13 times.&lt;/p&gt;
+
+&lt;p&gt;It is a tough work, but this is how you get to be famous and visible.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Help tooltips&lt;/h2&gt;
+
+&lt;p&gt;We also implemented new tooltips to help you understanding your profile page. So, check them out by rolling your mouse over the different numbers of your profile.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;aligncenter size-full wp-image-147&#34; alt=&#34;help_tooltip&#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2013/11/help_tooltip.png&#34; width=&#34;348&#34; height=&#34;144&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

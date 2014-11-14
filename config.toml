@@ -1,3 +1,26 @@
-baseurl = "http://yourSiteHere"
+baseurl = "http://blog.elokenz.com"
 languageCode = "en-us"
-title = "my new hugo site"
+title = "Elokenz Blog"
+disqusShortname = "wordiz"
+[params]
+    sidebartitle = "Elokenz Blog"
+    sidebartagline = "Content Marketing for bloggers and journalists"
+[[menu.main]]
+    name = "Blog"
+    url = "/posts"
+[[menu.main]]
+    name = "Jice"
+    url = "http://jice.lavocat.name"
+    
+[[menu.social]]
+    pre = "<i class='fa fa-twitter'></i>"
+    url = "http://www.twitter.com/Elokenz_com"
+    identifier = "twitter"
+[[menu.social]]
+    pre = "<i class='fa fa-google-plus'></i>"
+    url = "https://plus.google.com/118224579909815053416"
+    identifier = "google"
+    
+[[menu.footer]]
+    name = "Blog"
+    url = "/posts"

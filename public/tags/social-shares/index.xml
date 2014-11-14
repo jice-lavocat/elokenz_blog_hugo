@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Social-Shares on Elokenz Blog </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://localhost:1313/tags/social-shares/index.xml/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Tue, 17 Sep 2013 00:00:00 UTC</updated>
+    
+    <item>
+      <title>WordPress plugin to show social shares in your admin panel</title>
+      <link>http://localhost:1313/content-marketing/wordpress-plugin-show-social-shares-admin-panel</link>
+      <pubDate>Tue, 17 Sep 2013 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/content-marketing/wordpress-plugin-show-social-shares-admin-panel</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://blog.wordiz.it/wp-content/uploads/2013/09/banner-772x250.png&#34;&gt;&lt;img class=&#34;aligncenter  wp-image-106&#34; alt=&#34;WordiZ Admin Social Shares&#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2013/09/banner-772x250.png&#34; width=&#34;500&#34; /&gt;&lt;/a&gt;If you have ever wondered how you can quickly sort out buzzing articles from your wordpress articles, WordiZ has developed a plugin to help you. &lt;a href=&#34;http://blog.wordiz.it/plugins/wordpress-admin-shares/&#34; title=&#34;Wordpress Admin Social Shares &#34;&gt;WordiZ Admin Social Shares&lt;/a&gt; is a &lt;strong&gt;wordpress extenssion&lt;/strong&gt; that will allow you to see the number of shares of your article directly from the backend administration panel.&lt;/p&gt;
+
+&lt;p&gt;After the installation, the listing of your articles will show three new columns : one for Facebook &lt;strong&gt;likes&lt;/strong&gt;, one for &lt;strong&gt;retweets&lt;/strong&gt; and the last one for Google &lt;strong&gt;+1&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.wordiz.it/wp-content/uploads/2013/08/screenshot-1.png&#34;&gt;&lt;img class=&#34;aligncenter size-full wp-image-80&#34; alt=&#34;Admin with Admin Social Shares installed&#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2013/08/screenshot-1.png&#34; width=&#34;861&#34; height=&#34;673&#34; /&gt;&lt;/a&gt;At the moment, one important feature is really missing : sorting articles by shares. Hopefully we will get some time soon to add the feature to the project. If you are a developer, you can also fork the project on github.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

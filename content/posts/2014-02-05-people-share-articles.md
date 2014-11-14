@@ -3,7 +3,8 @@ title: Where do people share your articles ?
 author: Jean-Christophe Lavocat
 layout: post
 date: 2014-02-05
-permalink: /features/people-share-articles
+thumbnail: /wp-content/uploads/2014/02/which_network_visible.png
+url: /features/people-share-articles
 dsq_thread_id:
   - 2224961999
 categories:

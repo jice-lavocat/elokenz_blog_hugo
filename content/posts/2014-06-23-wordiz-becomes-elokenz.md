@@ -3,7 +3,8 @@ title: WordiZ becomes Elokenz
 author: Jean-Christophe Lavocat
 layout: post
 date: 2014-06-23
-permalink: /questions/wordiz-becomes-elokenz
+thumbnail: /wp-content/uploads/2014/06/wordiz_devient_elokenz.png
+url: /questions/wordiz-becomes-elokenz
 dsq_thread_id:
   - 2789178506
 categories:

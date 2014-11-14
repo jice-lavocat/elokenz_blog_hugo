@@ -1,0 +1,1167 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Posts on Elokenz Blog </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://localhost:1313/posts/index.xml/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Wed, 10 Sep 2014 00:00:00 UTC</updated>
+    
+    <item>
+      <title>Google&#43; URL posting : 4 Facts to optimize SEO and Social Trust</title>
+      <link>http://localhost:1313/search-engine-optimization/google-url-posting-4-facts-optimize-seo-social-trust</link>
+      <pubDate>Wed, 10 Sep 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/search-engine-optimization/google-url-posting-4-facts-optimize-seo-social-trust</guid>
+      <description>
+
+&lt;p&gt;Writing an appealing and interesting** Google+ post** is not the only thing one might know when posting an URL on the social network. In this post I detail several technical facts that you should keep in mind when posting to** increase your SEO and enforce social trust**. You will learn which URL can be indexed from a Google+ post and the impact on your social metrics.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Increase social trust&lt;/h2&gt;
+
+&lt;p&gt;Google+ has become an obvious place to share/post links to increase your online visibility. Many articles are describing &lt;a title=&#34;Perfect G+ post&#34; href=&#34;http://dustn.tv/perfect-post/&#34; target=&#34;_blank&#34;&gt;how to write a good G+ post&lt;/a&gt; and it often boils down to writing a valuable piece of content in your post, with a title, inserting bold text and adding some media together with optional hashtags. Here is a summary from Dustin Stout :&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://dustn.tv/perfect-post/&#34;&gt;&lt;img class=&#34;aligncenter&#34; src=&#34;http://dustn.tv/wp-content/uploads/2013/08/anatomy-of-a-perfect-google-plus-post.jpg?b5580d&#34; alt=&#34;&#34; width=&#34;478&#34; height=&#34;375&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;However, a post on Google+ has external consequences, especially on the number of views, +1, comments and shares your URL will receive. Depending on your inclination, you might believe that these metrics are important or not. I will not argue on that point, and will just give you few takeaways about how to share an URL in different contexts.&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_1&#34;&gt;Sharing an URL and receive a share&lt;/h3&gt;
+
+&lt;p&gt;First things first, I call a (public or private) share an URL that is mentioned on Google Ripples : see our previous articles &amp;#8220;&lt;a title=&#34;Google Shares&#34; href=&#34;http://blog.elokenz.com/content-marketing/google-shares-retrieve&#34; target=&#34;_blank&#34;&gt;What are Google+ Shares and how to retrieve them ?&lt;/a&gt;&amp;#8221; . Google makes the distinction between private and public shares : in the former case, the URL is shared among a restricted number of people while in the latter, the URL is shared publicly (pretty obvious, isn&amp;#8217;t it?).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;To count as a share, you URL needs to appear in the preview snippet bellow your post&lt;/strong&gt;. If you share several URLs, only the one appearing in the preview area will receive a share count. If you share your URL together with a media (image/video) your post will not count as a share for this URL. See the picture below for a summary :&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.elokenz.com/wp-content/uploads/2014/09/google_url_shares.png&#34;&gt;&lt;img class=&#34;aligncenter size-full wp-image-331&#34; src=&#34;http://blog.elokenz.com/wp-content/uploads/2014/09/google_url_shares.png&#34; alt=&#34;How to share URLs via a Google+ Post (via @elokenz)&#34; width=&#34;600&#34; height=&#34;2842&#34; data-wp-pid=&#34;331&#34; /&gt;&lt;/a&gt;Depending on your strategy you might use one of the previous three cases. If your goal is too** share and collect reshares** for a URL you might use the first and second example. Be aware that if you share several links in the same post (example 2), only &lt;strong&gt;the one appearing in the preview snippet&lt;/strong&gt; will receive shares ans reshares.&lt;/p&gt;
+
+&lt;p&gt;If you aim at** &amp;#8216;hiding&amp;#8217; a share&lt;strong&gt;, then you should use the third example.  However, you should realize that you are loosing the potential of virality. In this example,&lt;/strong&gt; Cyrus Shepard lost 23 shares** by posting his link like he did.&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_2&#34;&gt;Don&amp;#8217;t look too spammy&lt;/h3&gt;
+
+&lt;p&gt;You might wonder why people would like to &amp;#8220;hide&amp;#8221; shares. Well, the answer is pretty obvious :** sharing too much is a bit spammy**. I have a concrete example to give you.&lt;/p&gt;
+
+&lt;p&gt;When I post an article on G+, I usually post it on my own stream and then on 2 or 3 targeted communities. To avoid being flagged as a spammer, I usually decide beforehand which location will be more subject to reshares (my own stream or a community). I then post my link only in this place, paying attention that the preview summary got activated. Finally, I post my article to other locations with a picture instead of the URL preview. By doing this I am &amp;#8216;hiding&amp;#8217; the share and I don&amp;#8217;t look like a bad spammer.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.elokenz.com/wp-content/uploads/2014/09/sharing_duplicates.png&#34;&gt;&lt;img class=&#34;aligncenter wp-image-334&#34; src=&#34;http://blog.elokenz.com/wp-content/uploads/2014/09/sharing_duplicates.png&#34; alt=&#34;Cross posting links on Google+ (via @elokenz)&#34; width=&#34;600&#34; height=&#34;382&#34; data-wp-pid=&#34;334&#34; /&gt;&lt;/a&gt;When &amp;#8216;hiding&amp;#8217; the link in the content of your post, your readers still have the possibility to click it and read your post.&lt;/p&gt;
+
+&lt;p&gt;Another good reason to hide shares is when you are using the** Google+ comment box** on your own site. Of course it is not an official widget, but many webmasters are using it in order to increase visibility : whenever someone comments using this box, the comment can be shared directly on the user G+ stream. I am often using it on my blogs to increase the amount of reshares.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.elokenz.com/wp-content/uploads/2014/09/google_plus_comments.png&#34;&gt;&lt;img class=&#34;aligncenter  wp-image-336&#34; src=&#34;http://blog.elokenz.com/wp-content/uploads/2014/09/google_plus_comments.png&#34; alt=&#34;Google+ Comment Box&#34; width=&#34;399&#34; height=&#34;619&#34; data-wp-pid=&#34;336&#34; /&gt;&lt;/a&gt;Though this comment box is one of the best techniques to increase sharing of your articles on Google+, it is really a nightmare for cross posters. Look at what it looks like when the owner is posting on several communities while sharing its link in the preview snippet (click to see the full picture) :&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.elokenz.com/wp-content/uploads/2014/09/spam_comment_gplus.png&#34;&gt;&lt;img class=&#34;aligncenter  wp-image-337&#34; src=&#34;http://blog.elokenz.com/wp-content/uploads/2014/09/spam_comment_gplus-104x300.png&#34; alt=&#34;G+ comment spam (via @elokenz)&#34; width=&#34;135&#34; height=&#34;363&#34; data-wp-pid=&#34;337&#34; /&gt;&lt;/a&gt;Therefore, if you want to** use this comment box&lt;strong&gt;, please, **pay attention to the way you are sharing your links on Google+&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you optimize your posts, you might be able to receive more shares while preventing spammy behavior.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_3&#34;&gt;Increase the SEO effect&lt;/h2&gt;
+
+&lt;p&gt;Alright, so we covered the social aspects of URL sharing on Google+. Let&amp;#8217;s now look at the SEO side. This section is based on experiments I ran in April 2014, thus results might have changed.&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_4&#34;&gt;Link indexation&lt;/h3&gt;
+
+&lt;p&gt;As we just have seen, you can share an URL in a G+ post with a preview or without the preview. Before running my tests I thought that the URLs shared without a preview would not be indexed by Google and that URLs shared with a preview would get indexed.&lt;/p&gt;
+
+&lt;p&gt;I decided to run a test to verify these assumptions. I also wanted to see what was the difference between a private and a public share for the indexation. Four pages were created with random unique content , a valid layout (title, headings) and an image. Each page was containing a unique word like &amp;#8220;apolintruc&amp;#8221;.&lt;/p&gt;
+
+&lt;p&gt;I submitted two of these pages in public posts and two pages in private posts. In each case, I posted one URL with the preview box, and the other URL with an image box and the link in the text of my post. Here are the two public posts I created :&lt;br /&gt;
+&amp;lt;!&amp;ndash; Place this tag where you want the widget to render. &amp;ndash;&amp;gt;&lt;/p&gt;
+
+&lt;div class=&#34;g-post&#34; data-href=&#34;https://plus.google.com/113400244614302404694/posts/Q3sLSsEXiMe&#34;&gt;
+&lt;/div&gt;
+
+&lt;!-- Place this tag where you want the widget to render. --&gt;
+
+&lt;div class=&#34;g-post&#34; data-href=&#34;https://plus.google.com/113400244614302404694/posts/j3J824kMnfV&#34;&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;The final outcome is really not what I expected. Eventually,** the two public posts had their URLs indexed**, while the private ones were not indexed at all, not even the post with the link preview.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.elokenz.com/wp-content/uploads/2014/09/Razominawo.png&#34;&gt;&lt;img class=&#34;aligncenter size-medium wp-image-338&#34; src=&#34;http://blog.elokenz.com/wp-content/uploads/2014/09/Razominawo-300x148.png&#34; alt=&#34;URL shared with a Public Post on G+ are indexed (via @elokenz)&#34; width=&#34;300&#34; height=&#34;148&#34; data-wp-pid=&#34;338&#34; /&gt;&lt;/a&gt;&lt;br /&gt;
+&amp;lt;!&amp;ndash; Place this tag in your head or just before your close body tag. &amp;ndash;&amp;gt;Therefore, if you want to&lt;/p&gt;
+
+&lt;p&gt;** gain some SEO juice, always post links in a public way** ! That might have seemed obvious for some of you, but I have not read it elsewhere before.&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_5&#34;&gt;Some facts about posting a link on G+&lt;/h3&gt;
+
+&lt;p&gt;When posting a link that will appear in the preview box, Google is sending its &amp;#8220;snippetbot&amp;#8221; to retrieve a picture and a summary for your link. So, the first spider you will receive has no real name and looks like this :&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;173.245.54.83 - - [08/Apr/2014:12:11:06 +0200] &amp;quot;GET /test/atraminouita.html HTTP/1.1&amp;quot; 200 1615 &amp;quot;-&amp;quot; &amp;quot;Mozilla/5.0 (Windows NT 6.1; rv:6.0) Gecko/20110814 Firefox/6.0 Google (+https://developers.google.com/+/web/snippet/)&amp;quot;&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;The documention sends you to the &lt;a title=&#34;Web Snipper&#34; href=&#34;https://developers.google.com/+/web/snippet/&#34; target=&#34;_blank&#34;&gt;Snippet documentation&lt;/a&gt; and there not much to say about that except that (of course) you won&amp;#8217;t receive it if your link was not pre loaded in the preview snippet.&lt;/p&gt;
+
+&lt;p&gt;Then , whenever one link is shared in the content of a post, you will receive the visit of an old friend, Google Feedfetcher :&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;173.245.54.83 - - [08/Apr/2014:12:13:22 +0200] &amp;quot;GET /test/atraminouita.html HTTP/1.1&amp;quot; 200 1615 &amp;quot;-&amp;quot; &amp;quot;Mozilla/5.0 (compatible) Feedfetcher-Google;(+http://www.google.com/feedfetcher.html)&amp;quot;&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;This is the real guy who will ignite the indexation of your page. I don&amp;#8217;t really know what triggers the indexation since the &lt;a title=&#34;FeedFetcher&#34; href=&#34;https://support.google.com/webmasters/answer/178852&#34; target=&#34;_blank&#34;&gt;documentation&lt;/a&gt; is rather vague about it, but, the fact is that at some point, GoogleBot came on my pages to index them (it took actually so long, that I could not find it in my logs).&lt;/p&gt;
+
+&lt;p&gt;It&amp;#8217;s interesting to note that &lt;strong&gt;Feedfetcher&lt;/strong&gt; did not disappear with Google Reader !&lt;/p&gt;
+
+&lt;p&gt;A very last note (since this article already passed the 1K words) about G+ Urls. You probably know that Google records the number of views on your profile. Guess what, it also records the number of clicks on the URLs you are posting. Look at this apache log for instance :&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;173.245.56.68 - - [08/Apr/2014:22:45:23 +0200] &amp;quot;GET /test/razominawo.html HTTP/1.1&amp;quot; 200 1799 &amp;quot;http://plus.url.google.com/url?sa=z&amp;amp;n=1396989924414&amp;amp;url=http%3A%2F%2Fwww.graphemeride.com%2Ftest%2Frazominawo.html&amp;amp;usg=DymRAVdehswUyvEh0bzZypqGlOI.&amp;quot; &amp;quot;Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36&amp;quot;&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Here you see the IP of my visitor &lt;em&gt;173.245.56.68&lt;/em&gt; and the referrer &lt;a href=&#34;http://plus.url.google.com/url?sa=z&amp;amp;n=1396989924414&amp;amp;url=http%3A%2F%2Fwww.graphemeride.com%2Ftest%2Frazominawo.html&amp;amp;usg=DymRAVdehswUyvEh0bzZypqGlOI.&#34;&gt;http://plus.url.google.com/url?sa=z&amp;amp;n=1396989924414&amp;amp;url=http%3A%2F%2Fwww.graphemeride.com%2Ftest%2Frazominawo.html&amp;amp;usg=DymRAVdehswUyvEh0bzZypqGlOI.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Interesting parameters :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;n=1396989924414 : the timestamp of the click (in millisecond)&lt;/li&gt;
+&lt;li&gt;url : the url clicked&lt;/li&gt;
+&lt;li&gt;usg : I could not reverse engineer this one, but I would love to see it being the user who clicked.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_6&#34;&gt;Posting wisely&lt;/h2&gt;
+
+&lt;p&gt;Starting from today you can now post in wiser way on Google+ :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;If you want to get more shares, pay attention to the preview snippet and have your link description loaded there.&lt;/li&gt;
+&lt;li&gt;If you want to hide your sharing activities (duplicate posts in time, cross posting) : use a media with your post to prevent the preview snippet to show your URL&lt;/li&gt;
+&lt;li&gt;If you want your Backlinks to count for Google index, post publicly on Google+&lt;/li&gt;
+&lt;li&gt;Finally, since every click counts (and Google records that), post an appealing content together with your link. Your followers will anyway prefer that.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Did I miss something ? Do you have other suggestions ? Please, drop a comment below and engage the discussion &lt;img src=&#34;http://blog.elokenz.com/wp-includes/images/smilies/icon_smile.gif&#34; alt=&#34;:-)&#34; class=&#34;wp-smiley&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to display your best articles on the web ?</title>
+      <link>http://localhost:1313/features/wordpress_widget</link>
+      <pubDate>Tue, 29 Jul 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/features/wordpress_widget</guid>
+      <description>
+
+&lt;p&gt;We already presented our WordPress widget to &lt;a title=&#34;Elokenz Widget for WordPress&#34; href=&#34;http://blog.elokenz.com/features/wordpress-widget-showcase-best-articles&#34; target=&#34;_blank&#34;&gt;showcase your best articles&lt;/a&gt;. We made some improvement to the basic widget and want to share with you the new features. The widget is useful for authors who are using the G+ authorship system. It takes in input your Google+ id and list your most shared articles on the social networks.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Who could gain from this widget ?&lt;/h2&gt;
+
+&lt;p&gt;Before entering into details, let&amp;#8217;s see who is likely to use this widget. Take my friend &lt;a title=&#34;Ann Smarty&#34; href=&#34;http://www.seosmarty.com/&#34; target=&#34;_blank&#34;&gt;Ann Smarty&lt;/a&gt; she is frequently writing on &lt;a title=&#34;Social Media Examiner&#34; href=&#34;http://www.socialmediaexaminer.com&#34; target=&#34;_blank&#34;&gt;several&lt;/a&gt; &lt;a title=&#34;Search Engine Journal&#34; href=&#34;http://www.searchenginejournal.com/&#34; target=&#34;_blank&#34;&gt;websites&lt;/a&gt;. Her various writings are often covering complementary topics but his audience sometime does not know he is writing on other websites.&lt;/p&gt;
+
+&lt;p&gt;She had recently published a viral article on one of these websites, but this cannot be reflected on her personal blog. On this private blog she wanted to showcase her best articles from all over the web, not only from her own blog.&lt;/p&gt;
+
+&lt;p&gt;When Ann heard about our widget she was one of the first to use it. It allowed her to &lt;strong&gt;collect automatically the articles&lt;/strong&gt; which have been** most shared on social networks** and to display these numbers on her personal blog for self promotion. This is what is displayed on her website these days :&lt;img class=&#34;aligncenter wp-image-304 size-full&#34; src=&#34;http://blog.elokenz.com/wp-content/uploads/2014/07/ann_smarty_best_articles.png&#34; alt=&#34;Elokenz - Widget best articles example - (via @elokenz)&#34; width=&#34;275&#34; height=&#34;335&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;So, if you are like her, and write on several places around the web, you might want to display your &amp;#8216;content portfolio&amp;#8217; too. Enters the &lt;strong&gt;Elokenz widget&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;How to install the widget ?&lt;/h2&gt;
+
+&lt;p&gt;This widget works with the database we are building with &lt;a title=&#34;Helping Authors to be more visible&#34; href=&#34;http://www.elokenz.com&#34; target=&#34;_blank&#34;&gt;Elokenz&lt;/a&gt;. The first thing you need is to use the authorship tag. Then, depending on your installation, you can use the code we provide on &lt;a title=&#34;Elokenz Dashboard - Widget&#34; href=&#34;http://www.elokenz.com/dashboard/widgets/&#34; target=&#34;_blank&#34;&gt;our dashboard&lt;/a&gt; or the &lt;a title=&#34;Wordpress widget - Socially best articles&#34; href=&#34;http://wordpress.org/plugins/elokenz-most-shared-articles-for-authors/&#34; target=&#34;_blank&#34;&gt;wordpress plugin&lt;/a&gt; directly.&lt;/p&gt;
+
+&lt;p&gt;&lt;a title=&#34;Wordpress Elokenz Plugin&#34; href=&#34;http://wordpress.org/plugins/elokenz-most-shared-articles-for-authors/&#34; target=&#34;_blank&#34;&gt;&lt;img class=&#34;aligncenter wp-image-305&#34; src=&#34;http://blog.elokenz.com/wp-content/uploads/2014/07/elokenz_wordpress_plugin.png&#34; alt=&#34;elokenz_wordpress_plugin&#34; width=&#34;500&#34; height=&#34;348&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Once you have collected the good code (self hosted site) or the plugin, you have few settings to customize the display.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;aligncenter size-full wp-image-306&#34; src=&#34;http://blog.elokenz.com/wp-content/uploads/2014/07/screenshot-3.png&#34; alt=&#34;elokenz_widget_settings&#34; width=&#34;286&#34; height=&#34;660&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;First, the widget comes with two basic themes : &lt;strong&gt;bright&lt;/strong&gt; or &lt;strong&gt;dark&lt;/strong&gt;. Depending on your template you might need to have one or the other. If you need other colors, drop a comment below and we will publish an article to explain how to tune the CSS.&lt;/p&gt;
+
+&lt;p&gt;Second : you might want to display 1, 2 , 3 .. or up to 10 articles. That&amp;#8217;s pretty self-explanatory.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;ordering system&lt;/strong&gt; represent the algorithm that is applied to sort your articles. Do you focus on &lt;em&gt;Facebook likes&lt;/em&gt; or on &lt;em&gt;Twitter mentions&lt;/em&gt; ? You can change the order here, or keep the default : sum of Facebook likes + Twitter mentions + Google+ plus ones.&lt;/p&gt;
+
+&lt;p&gt;On WordPress we added an option to print links with a &amp;#8220;nofollow&amp;#8221; attribute. Depending on the blog where you install the widget, you might not want to have dofollow links (who knows&amp;#8230;)&lt;/p&gt;
+
+&lt;p&gt;Finally, comes the only required field, your G+ id. For the moment you still need to copy/paste your id number. In the future we might implement a system to convert your &amp;#8216;vanity url&amp;#8217; into the G+ id, but it&amp;#8217;s not yet the case.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_2&#34;&gt;Do you need the widget on a single page ?&lt;/h2&gt;
+
+&lt;p&gt;On WordPress we added a shortcode support recently. This means you can import the widget on a given page or post, instead of having it sitewide on your sidebar.&lt;/p&gt;
+
+&lt;p&gt;For this, you need to use the following syntax :&lt;/p&gt;
+
+&lt;p&gt;For that, you can add the following text when you are editing an article :&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;[elokenz_widget user_id=&amp;quot;113400244614302404694&amp;quot;]
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;(where &lt;code&gt;113400244614302404694&lt;/code&gt; is replaced by your Google+ id).&lt;/p&gt;
+
+&lt;p&gt;You can use several &lt;strong&gt;arguments&lt;/strong&gt; to configure the output :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;width&lt;/em&gt; [integer] : give the width in pixel. (Default : the widget will use all available space)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;follow&lt;/em&gt; [&amp;ldquo;do&amp;rdquo;/&amp;ldquo;no&amp;rdquo;] : use dofollow links or nofollow links. (Default : dofollow links)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;style&lt;/em&gt; [&amp;ldquo;bright&amp;rdquo;/&amp;ldquo;dark&amp;rdquo;] : use a bright or dark background. (Default : &amp;#8220;bright&amp;#8221;)&lt;/li&gt;
+&lt;li&gt;* item&lt;em&gt;_*number&lt;/em&gt; [integer &amp;lt; 10] : how many articles do you want to list here ? (Default : 5)&lt;/li&gt;
+&lt;li&gt;* network* [0,1,2 or 3] : which ordering system should we use ? (Default : 0) {0. sum of all metrics 1. Twitter 2. Facebook 3. Google+}&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Example&lt;/strong&gt; :&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;[elokenz_widget user_id=&amp;quot;113400244614302404694&amp;quot; follow=&amp;quot;no&amp;quot; item_number=&amp;quot;10&amp;quot; style=&amp;quot;dark&amp;quot; network=&amp;quot;1&amp;quot;]&lt;/code&gt;&lt;br /&gt;
+will output a list of 10 articles, with nofollow links, on a dark background, ordered according the number of RTs.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_3&#34;&gt;How can you contribute ?&lt;/h2&gt;
+
+&lt;p&gt;Since we had to change our name recently we lost all our nice statistics. If you use the widget and like it, you can help us in different ways :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a title=&#34;Tweet about the plugin&#34; href=&#34;https://twitter.com/home?status=I%20am%20using%20a%20new%20WP%20plugin%20to%20display%20my%20most%20shared%20articles%20:%20http://blog.elokenz.com/features/wordpress_widget&#34; target=&#34;_blank&#34;&gt;Tweet about it&lt;/a&gt; or share it on &lt;a title=&#34;Wordpress Widget&#34; href=&#34;https://www.facebook.com/sharer/sharer.php?u=http://blog.elokenz.com/features/wordpress_widget&#34; target=&#34;_blank&#34;&gt;Facebook&lt;/a&gt; or &lt;a title=&#34;Wordpress Widget&#34; href=&#34;https://plus.google.com/share?url=http://blog.elokenz.com/features/wordpress_widget&#34; target=&#34;_blank&#34;&gt;Google+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Try it, and leave us a comment or &lt;a title=&#34;Review Elokenz plugin&#34; href=&#34;http://wordpress.org/support/view/plugin-reviews/elokenz-most-shared-articles-for-authors?filter=5#postform&#34; target=&#34;_blank&#34;&gt;a review on the plugin page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Write an article about how you use the plugin and &lt;strong&gt;get featured here&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Do not hesitate if you find any bug, let us know (the easiest is to comment here) &amp;#8230; One of our early user &lt;a title=&#34;Didier J Mary&#34; href=&#34;https://plus.google.com/+DidierJMARY/about&#34; target=&#34;_blank&#34;&gt;Didier&lt;/a&gt; from &lt;a title=&#34;Kotonteej - African Music&#34; href=&#34;http://www.kotonteej.com/&#34; target=&#34;_blank&#34;&gt;KotonTeej&lt;/a&gt; was the first to discover a big flaw in in the previous version.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>12 MozCon 2014 recaps for those who missed the event</title>
+      <link>http://localhost:1313/search-engine-optimization/12-mozcon2014-recaps</link>
+      <pubDate>Thu, 17 Jul 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/search-engine-optimization/12-mozcon2014-recaps</guid>
+      <description>
+
+&lt;p&gt;I always enjoy the opportunity to attend &lt;a title=&#34;MozCon&#34; href=&#34;http://moz.com/mozcon&#34; target=&#34;_blank&#34;&gt;MozCon&lt;/a&gt; and to hear from some of the leading industry experts in &lt;strong&gt;SEO, social media, content marketing, anaytics&lt;/strong&gt;, and &lt;strong&gt;brand and community building&lt;/strong&gt;. The sessions are always jam packed with actionable tips, insights, and the after hours events provide ample opportunity to meet and network with fellow digital marketers&lt;/p&gt;
+
+&lt;p&gt;MozCon 2014 delivered in full with presentations from* Justin Cutroni, Phil Nottingham, Annie Cushing, Mike Ramsey, Richard Millington, Wil Reynolds* and much more (scroll to the end of the article for the full list). I hope you enjoy reading these recaps as much as I enjoyed writing them!&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_0&#34;&gt;Welcome to MozCon 2014 with Rand Fishkin&lt;/h3&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;div class=&#34;g-post&#34; data-href=&#34;https://plus.google.com/100938619255397146926/posts/jG2JZgZo4mg&#34;&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Circle &lt;a href=&#34;https://plus.google.com/u/0/+RandFishkin&#34; target=&#34;_blank&#34;&gt;+Rand Fishkin&lt;/a&gt; on Google+&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_1&#34;&gt;How to Use Social Science to Build Addictive Communities with Richard Millington&lt;/h3&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;div class=&#34;g-post&#34; data-href=&#34;https://plus.google.com/100938619255397146926/posts/QRbTWVARMSX&#34;&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Circle &lt;a href=&#34;https://plus.google.com/104216451950362476819&#34; target=&#34;_blank&#34;&gt;+Richard Millington&lt;/a&gt; on Google+&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_2&#34;&gt;Local Lessons from Small Town USA with Mike Ramsey&lt;/h3&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;div class=&#34;g-post&#34; data-href=&#34;https://plus.google.com/100938619255397146926/posts/eiSs8sLtwJd&#34;&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Circle &lt;a href=&#34;https://plus.google.com/+MikeRamsey/posts&#34; target=&#34;_blank&#34;&gt;+Mike Ramsey&lt;/a&gt; on Google+&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_3&#34;&gt;Top 10 PR Tactics and Strategies of Successful Content and Link Building with Lexi Mills&lt;/h3&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;div class=&#34;g-post&#34; data-href=&#34;https://plus.google.com/100938619255397146926/posts/WAG9REYnvnC&#34;&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Circle &lt;a href=&#34;https://plus.google.com/+LexiMills/&#34; target=&#34;_blank&#34;&gt;+Lexi Mills&lt;/a&gt; on Google+&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_4&#34;&gt;YouTube: The Most Important Search Engine You Haven&amp;#8217;t Optimized For with Phil Nottingham&lt;/h3&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;div class=&#34;g-post&#34; data-href=&#34;https://plus.google.com/100938619255397146926/posts/eJBPigX6Kb9&#34;&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Circle &lt;a href=&#34;https://plus.google.com/u/0/+PhilNottingham/posts&#34; target=&#34;_blank&#34;&gt;+Phil Nottingham&lt;/a&gt; on Google+&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_5&#34;&gt;Supercharging Your Digital Analytics! with Justin Cutroni&lt;/h3&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;div class=&#34;g-post&#34; data-href=&#34;https://plus.google.com/100938619255397146926/posts/VXVe1XgVwvQ&#34;&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Circle &lt;a href=&#34;https://plus.google.com/u/0/+justincutroni/&#34; target=&#34;_blank&#34;&gt;+Justin Cutroni&lt;/a&gt; on Google+&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_6&#34;&gt;How to Never Run Out of Great Ideas with Pete Meyers&lt;/h3&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;div class=&#34;g-post&#34; data-href=&#34;https://plus.google.com/100938619255397146926/posts/CRTVG2V5Nd6&#34;&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Circle &lt;a href=&#34;https://plus.google.com/u/0/+PeteMeyers/posts&#34; target=&#34;_blank&#34;&gt;+Pete Meyers&lt;/a&gt; on Google+&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_7&#34;&gt;Google+ Game of Thrones: Claiming Your Kingdom for Brand Dominance with Mark Traphagen&lt;/h3&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;div class=&#34;g-post&#34; data-href=&#34;https://plus.google.com/100938619255397146926/posts/YBXMdyEDjae&#34;&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Circle &lt;a href=&#34;https://plus.google.com/u/0/+MarkTraphagen/posts&#34; target=&#34;_blank&#34;&gt;+Mark Traphagen&lt;/a&gt; on Google+&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_8&#34;&gt;MozCon 2014: A Mozzy View with Sarah Bird and John Cook&lt;/h3&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;div class=&#34;g-post&#34; data-href=&#34;https://plus.google.com/100938619255397146926/posts/7uuYwqq1XMW&#34;&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Circle &lt;a href=&#34;https://plus.google.com/110973530370769824942/posts&#34; target=&#34;_blank&#34;&gt;+Sarah Bird&lt;/a&gt; and &lt;a href=&#34;https://plus.google.com/+JohnCookGeekWire/posts&#34; target=&#34;_blank&#34;&gt;+John Cook&lt;/a&gt; on Google+&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_9&#34;&gt;Demystifying Data Visualization for Marketers with Annie Cushing&lt;/h3&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;div class=&#34;g-post&#34; data-href=&#34;https://plus.google.com/100938619255397146926/posts/LEh7QA3231j&#34;&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Circle &lt;a href=&#34;https://plus.google.com/+AnnieCushing/posts&#34; target=&#34;_blank&#34;&gt;+Annie Cushing&lt;/a&gt; on Google+&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_10&#34;&gt;The Psychology of Persuasive Content for &amp;#8220;Boring&amp;#8221; Industries with Nathalie Nahai&lt;/h3&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;div class=&#34;g-post&#34; data-href=&#34;https://plus.google.com/100938619255397146926/posts/gZSa2Evjj2J&#34;&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Circle &lt;a href=&#34;https://plus.google.com/+NathalieNahai/posts&#34; target=&#34;_blank&#34;&gt;+Nathalie Nahai&lt;/a&gt; on Google+&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_11&#34;&gt;Mad Science Experiments in SEO &amp;amp; Social Media with Rand Fishkin&lt;/h3&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;div class=&#34;g-post&#34; data-href=&#34;https://plus.google.com/100938619255397146926/posts/a3rryKC97Hy&#34;&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Circle &lt;a href=&#34;https://plus.google.com/u/0/+RandFishkin&#34; target=&#34;_blank&#34;&gt;+Rand Fishkin&lt;/a&gt; on Google+&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_12&#34;&gt;The other recaps&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a title=&#34;Mobiles SEO Geekout&#34; href=&#34;https://plus.google.com/100938619255397146926/posts/GKcpqy2iuNn&#34; target=&#34;_blank&#34;&gt;Mobile SEO Geekout: Key Strategies and Concepts&lt;/a&gt; with &lt;a href=&#34;https://plus.google.com/u/0/115965793837898995983/posts&#34; target=&#34;_blank&#34;&gt;+Cindy Krum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&#34;Broken Brand Promises: The Disconnect Between Marketing and Customer Experience&#34; href=&#34;https://plus.google.com/100938619255397146926/posts/aE54yAr2tMW&#34; target=&#34;_blank&#34;&gt;Broken Brand Promises: The Disconnect Between Marketing and Customer Experience &lt;/a&gt; with &lt;a href=&#34;https://plus.google.com/116184221185887676994/posts&#34; target=&#34;_blank&#34;&gt;+Kerry Bodine&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&#34; Improve Your SEO by Mastering These Core Principles &#34; href=&#34;https://plus.google.com/100938619255397146926/posts/F2hm3BZaBuZ&#34; target=&#34;_blank&#34;&gt;Improve Your SEO by Mastering These Core Principles&lt;/a&gt; with &lt;a href=&#34;https://plus.google.com/+LindsayWassell/posts&#34; target=&#34;_blank&#34;&gt;+Lindsay Wassell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&#34;Architecting Great Experiments&#34; href=&#34;https://plus.google.com/100938619255397146926/posts/YmVxHR4iFEa&#34; target=&#34;_blank&#34;&gt;Architecting Great Experiments&lt;/a&gt; with &lt;a href=&#34;https://plus.google.com/+KyleRush/posts&#34; target=&#34;_blank&#34;&gt;+Kyle Rush&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&#34;Scaling Creativity: Making Content Marketing More Efficient&#34; href=&#34;https://plus.google.com/100938619255397146926/posts/6xJxGedJxjZ&#34; target=&#34;_blank&#34;&gt;Scaling Creativity: Making Content Marketing More Efficient&lt;/a&gt; with &lt;a href=&#34;https://plus.google.com/+StaceyCavanagh/posts&#34; target=&#34;_blank&#34;&gt;+Stacey Cavanagh&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&#34;Localizing your international content&#34; href=&#34;https://plus.google.com/100938619255397146926/posts/Y2KzG93DEUC&#34; target=&#34;_blank&#34;&gt;Localizing your international content&lt;/a&gt; with &lt;a href=&#34;https://plus.google.com/+ZephSnapp13/posts&#34; target=&#34;_blank&#34;&gt;+Zeph Snapp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&#34;Taking about conversational search&#34; href=&#34;https://plus.google.com/100938619255397146926/posts/4p2AzGJjEUS&#34; target=&#34;_blank&#34;&gt;Taking about conversational search&lt;/a&gt; with &lt;a class=&#34;g-profile&#34; href=&#34;https://plus.google.com/+JustinBriggs/posts&#34; target=&#34;_blank&#34; data-gapiattached=&#34;true&#34; data-onload=&#34;true&#34; data-gapiscan=&#34;true&#34;&gt;+Justin Briggs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&#34;Keep the Focus on the Doughnuts&#34; href=&#34;https://plus.google.com/100938619255397146926/posts/hjaEdxXapAo&#34; target=&#34;_blank&#34;&gt;Keep the Focus on the Doughnuts&lt;/a&gt; with &lt;a class=&#34;g-profile&#34; href=&#34;https://plus.google.com/+MarshallSimmonds/posts&#34; target=&#34;_blank&#34; data-gapiattached=&#34;true&#34; data-onload=&#34;true&#34; data-gapiscan=&#34;true&#34;&gt;+Marshall Simmonds&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&#34;Dare to Fail: How the Best Lessons Come in the Form of Defeat&#34; href=&#34;https://plus.google.com/100938619255397146926/posts/T9BHuCP1cA5&#34; target=&#34;_blank&#34;&gt;Dare to Fail: How the Best Lessons Come in the Form of Defeat&lt;/a&gt; with &lt;a class=&#34;g-profile&#34; href=&#34;https://plus.google.com/113576564010545610491&#34; target=&#34;_blank&#34; data-gapiattached=&#34;true&#34; data-onload=&#34;true&#34; data-gapiscan=&#34;true&#34;&gt;+Jeremy Bloom&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&#34;You Are so Much More than an SEO&#34; href=&#34;https://plus.google.com/100938619255397146926/posts/XypDm1aRFPd&#34; target=&#34;_blank&#34;&gt;You Are so Much More than an SEO&lt;/a&gt; with &lt;a class=&#34;g-profile&#34; href=&#34;https://plus.google.com/+WilReynolds1/posts&#34; target=&#34;_blank&#34; data-gapiattached=&#34;true&#34; data-onload=&#34;true&#34; data-gapiscan=&#34;true&#34;&gt;+Wil Reynolds&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&#34;Beyond SEO - Tactics for Delivering an Integrated Marketing &#34; href=&#34;https://plus.google.com/100938619255397146926/posts/MqZ4HZtJCKB&#34; target=&#34;_blank&#34;&gt;Beyond SEO &amp;#8211; Tactics for Delivering an Integrated Marketing &lt;/a&gt; with &lt;a class=&#34;g-profile&#34; href=&#34;https://plus.google.com/104334957300160196129/posts&#34; target=&#34;_blank&#34; data-gapiattached=&#34;true&#34; data-onload=&#34;true&#34; data-gapiscan=&#34;true&#34;&gt;+Paddy Moogan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&#34;Developing Your Own Great Interactive Content - What You&#39;ll Need to Know&#34; href=&#34;https://plus.google.com/100938619255397146926/posts/QEfTVBib4Wj&#34; target=&#34;_blank&#34;&gt;Developing Your Own Great Interactive Content &amp;#8211; What You&amp;#8217;ll Need to Know&lt;/a&gt; with &lt;a class=&#34;g-profile&#34; href=&#34;https://plus.google.com/+RichardBaxterSEO/posts&#34; target=&#34;_blank&#34; data-gapiattached=&#34;true&#34; data-onload=&#34;true&#34; data-gapiscan=&#34;true&#34;&gt;+Richard Baxter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&#34;Prove Your Value&#34; href=&#34;https://plus.google.com/100938619255397146926/posts/KbW2F9YZBLG&#34; target=&#34;_blank&#34;&gt;Prove Your Value&lt;/a&gt; with &lt;a class=&#34;g-profile&#34; href=&#34;https://plus.google.com/+DanaDiTomaso/posts&#34; target=&#34;_blank&#34; data-gapiattached=&#34;true&#34; data-onload=&#34;true&#34; data-gapiscan=&#34;true&#34;&gt;+Dana DiTomaso&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_13&#34;&gt;All the speakers in one circle&lt;/h2&gt;
+
+&lt;p&gt;If you want to follow all the speakers from MozCon 2014, you can circle these people :&lt;/p&gt;
+
+&lt;div class=&#34;g-post&#34; data-href=&#34;https://plus.google.com/113400244614302404694/posts/13aAGs3kwFX&#34;&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Twitter Chat with @jice_lavocat during #VCBuzz on July 15</title>
+      <link>http://localhost:1313/content-marketing/twitter-chat-jice_lavocat-vcbuzz-july-15</link>
+      <pubDate>Mon, 14 Jul 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/content-marketing/twitter-chat-jice_lavocat-vcbuzz-july-15</guid>
+      <description>
+
+&lt;p&gt;Join us on Twitter to discuss &lt;strong&gt;Google Authorship &lt;/strong&gt;and the** engagement of your readers** on a special &lt;a title=&#34;Twitter Chat - VCBuzz&#34; href=&#34;http://twchat.com/hashtag/vcbuzz&#34; target=&#34;_blank&#34;&gt;#VCBuzz Twitter chat&lt;/a&gt; next Tuesday (July 15). The title is &lt;strong&gt;&lt;em&gt;Make the Most of Google Plus Interactions&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a title=&#34;Twitter Chat - VCBuzz&#34; href=&#34;http://twchat.com/hashtag/vcbuzz&#34; target=&#34;_blank&#34;&gt;&lt;img class=&#34;aligncenter wp-image-242&#34; src=&#34;http://blog.elokenz.com/wp-content/uploads/2014/07/flyer2.png&#34; alt=&#34;VCBuzz - Elokenz - Engagement&#34; width=&#34;550&#34; height=&#34;501&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;During this Twitter Chat, &lt;a title=&#34;Ann Smarty&#34; href=&#34;https://twitter.com/seosmarty&#34; target=&#34;_blank&#34;&gt;Ann Smarty&lt;/a&gt; and the folks from &lt;a title=&#34;Viral Content Buzz&#34; href=&#34;http://viralcontentbuzz.com&#34; target=&#34;_blank&#34;&gt;VCBuzz&lt;/a&gt; will ask &lt;a title=&#34;Jean-Christophe Lavocat&#34; href=&#34;https://twitter.com/Jice_Lavocat&#34; target=&#34;_blank&#34;&gt;Jean-Christophe Lavocat &lt;/a&gt;about Google Plus, Elokenz, the Authorship system, and how marketers and bloggers can make the most of these tools. The discussion will be live during more or less one hour.&lt;/p&gt;
+
+&lt;p style=&#34;text-align: center;&#34;&gt;
+  &lt;a class=&#34;twitter-follow-button&#34; href=&#34;https://twitter.com/Elokenz_com&#34; data-show-count=&#34;false&#34; data-size=&#34;large&#34; data-dnt=&#34;true&#34;&gt;Follow @Elokenz_com&lt;/a&gt;&lt;br /&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;How to join us ?&lt;/h2&gt;
+
+&lt;p&gt;If you have never join a twitter chat before, do not worry, it&amp;#8217;s** like a regular Twitter discussion** but with a &lt;strong&gt;guest&lt;/strong&gt;, a &lt;strong&gt;predefined topic&lt;/strong&gt;, some &lt;strong&gt;moderators&lt;/strong&gt;, and many public attending it, and retweeting it. You will be interacting with a guest and following a semi guided discussion. One thing extra you need to know :** a twitter chat goes super extra fast**. So, if you want to enjoy it, it&amp;#8217;s often better to use &lt;a title=&#34;Twitter Chat - VCBuzz&#34; href=&#34;http://twchat.com/hashtag/vcbuzz&#34; target=&#34;_blank&#34;&gt;Twchat&lt;/a&gt; to mute some noise and echo.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;When to join ?&lt;/h2&gt;
+
+&lt;p&gt;The chat will be held at 12PM EDT / 4PM GMT. So if you live in Paris (or a related time zone) you should be on Twitter at 6PM just before the end of office hours. If you live on the East coast of the US, you need to prepare a sandwich to enjoy during the chat which will be at noon.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_2&#34;&gt;How to enjoy it ?&lt;/h2&gt;
+
+&lt;p&gt;To better enjoy the event, we recommend you the following. First &lt;strong&gt;save the date and book a free hour&lt;/strong&gt;. The chat activity is so intense that if you had an important task to perform during the same time, you will probably not be able to focus on both the chat and your task.&lt;/p&gt;
+
+&lt;p&gt;Second, don&amp;#8217;t forget that the chat is public and that you can** interact with everyone** to &lt;strong&gt;create connections&lt;/strong&gt; and find people with similar interests to you.&lt;img style=&#34;display: none;&#34; src=&#34;http://inbound.org/articles/vote?article_id=145969&amp;value=1&#34; alt=&#34;&#34; width=&#34;1&#34; height=&#34;1&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Third, &lt;strong&gt;if you want to organize a Twitter chat&lt;/strong&gt;, you can find a lot of tips from Ann Smarty&amp;#8217;s guide : &lt;a title=&#34;Hosting a Twitter Chat&#34; href=&#34;http://www.socialmediaexaminer.com/twitter-chat-guide/&#34; target=&#34;_blank&#34;&gt;5 Steps to Hosting Successful Twitter Chats&lt;/a&gt; (if you read French, you can also check &lt;a title=&#34;Graphemeride - Twitter Chat&#34; href=&#34;http://www.graphemeride.com/blog/pourquoi-ne-pas-utiliser-twitter-chat&#34; target=&#34;_blank&#34;&gt;this post on Graphemeride&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Finally, as a chat is always better when there is people to chat with, &lt;strong&gt;we would love if you could share the news&lt;/strong&gt; about it. So you can either &lt;a href=&#34;http://twitter.com/intent/tweet?url=http://blog.elokenz.com/content-marketing/twitter-chat-jice_lavocat-vcbuzz-july-15&amp;text=Join%20the%20%23VCBuzz%20Twitter%20Chat%20on%20July%2015%20with%20@elokenz_com%20%23content_marketing%20%23blogging%20%23engagement&amp;via=jice_lavocat&amp;related=elokenz_com&#34; target=&#34;_blank&#34;&gt;Tweet about it&lt;/a&gt;, put a &lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=http://blog.elokenz.com/content-marketing/twitter-chat-jice_lavocat-vcbuzz-july-15&#34; target=&#34;_blank&#34;&gt;comment on Facebook&lt;/a&gt; or a &lt;a href=&#34;https://plus.google.com/share?url=http://blog.elokenz.com/content-marketing/twitter-chat-jice_lavocat-vcbuzz-july-15&#34; target=&#34;_blank&#34;&gt;post on Google+&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_3&#34;&gt;Official event page&lt;/h2&gt;
+
+&lt;p&gt;You can find the official event page (where a summary will be posted) here : &lt;a title=&#34;Twitter Chat with Jean-Christophe Lavocat&#34; href=&#34;http://viralcontentbuzz.com/index.php/make-the-most-of-google-plus-interactions-twitter-chat-with-jice_lavocat-vcbuzz/&#34; target=&#34;_blank&#34;&gt;&lt;a href=&#34;http://viralcontentbuzz.com/index.php/make-the-most-of-google-plus-interactions-twitter-chat-with-jice_lavocat-vcbuzz/&#34;&gt;http://viralcontentbuzz.com/index.php/make-the-most-of-google-plus-interactions-twitter-chat-with-jice_lavocat-vcbuzz/&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>WordiZ becomes Elokenz</title>
+      <link>http://localhost:1313/questions/wordiz-becomes-elokenz</link>
+      <pubDate>Mon, 23 Jun 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/questions/wordiz-becomes-elokenz</guid>
+      <description>
+
+&lt;p&gt;When this blog was initially started it was covering news for our previous platform &amp;#8220;WordiZ&amp;#8221;. The service was initially thought just to be an** author rank system**. We were aggregating your articles and judging on social signals we were able to discover the category of blogger you were belonging to : casual blogger, experienced blogger, professional web journalist&amp;#8230; and so on.&lt;/p&gt;
+
+&lt;p&gt;However, we realized that we could do so much more than that. &lt;strong&gt;Ranking people is nice, but there is always so many things you can do on top of that.&lt;/strong&gt; Hence, we decided to go for the more creative way, and to build a new set of tools for &lt;strong&gt;bloggers, web journalists and community managers&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Our team took some time in brainstorming sessions and we decided that the first goal we wanted to achieve was to** help online authors to engage with more readers&lt;strong&gt;. Why would we do that ? Actually, with WordiZ we realized that the main difference between famous bloggers and the rest of the crowd was the&lt;/strong&gt; level of engagement**. Famous bloggers take time to answer the most insignificant comment on their blog and to follow discussions on social media.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;aligncenter size-medium wp-image-227&#34; src=&#34;http://blog.elokenz.com/wp-content/uploads/2014/06/brainstorming-300x285.jpg&#34; alt=&#34;Brainstorming session&#34; width=&#34;300&#34; height=&#34;285&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As a consequence, the solution comes under the shape of an &amp;#8220;&lt;strong&gt;engagement management platform&lt;/strong&gt;&amp;#8221; (does it sounds too geeky ?). We will progressively release tools to help you managing your readers, engage conversation and transform them into evangelist of your blog, journal or product.&lt;/p&gt;
+
+&lt;p&gt;So our application changes its name and becomes &lt;a href=&#34;http://mandrillapp.com/track/click.php?u=30143833&amp;id=d200d6d3617849b0875a79d828584ee6&amp;url=http%3A%2F%2Fwww.elokenz.com&amp;url_id=4559e54bc8cdea7bba40a33f6184f7b766904836&#34; target=&#34;_blank&#34;&gt;Elokenz&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;
+  &lt;img class=&#34;aligncenter size-full wp-image-222&#34; src=&#34;http://blog.elokenz.com/wp-content/uploads/2014/06/wordiz_devient_elokenz.png&#34; alt=&#34;Wordiz becomes Elokenz&#34; width=&#34;502&#34; height=&#34;55&#34; /&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Give a Try to Elokenz&lt;/h2&gt;
+
+&lt;p&gt;We have worked hard during the past weeks to release the first tools and we are already pretty happy about the result. If you are &lt;strong&gt;tagging your articles with the authorship markup&lt;/strong&gt;, you can already use our tool. Take a step in and be my guest, connect to our brand new dashboard :&lt;/p&gt;
+
+&lt;p&gt;&lt;a title=&#34;Sign in Elokenz&#34; href=&#34;http://www.elokenz.com/accounts/login/google-oauth2/&#34; target=&#34;_blank&#34;&gt;&lt;img class=&#34;aligncenter  wp-image-224&#34; src=&#34;http://blog.elokenz.com/wp-content/uploads/2014/06/sign-in-button-1024x192.png&#34; alt=&#34;Google+ signin&#34; width=&#34;171&#34; height=&#34;35&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The UX might not be optimal at the moment and few things might be missing to have a top star product, but if we manage to validate the product and get some initial customers, be sure that this will evolve pretty quickly.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Help us&lt;/h2&gt;
+
+&lt;p&gt;As this service is still really young let us know if you find any bug or if you have any suggestion. We need you to make the application better. Drop a comment below or contact us through &lt;a title=&#34;Reddit support page for Elokenz&#34; href=&#34;http://www.reddit.com/r/elokenz/&#34; target=&#34;_blank&#34;&gt;Reddit&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you want to follow us, you can subscribe to our &lt;a href=&#34;http://blog.elokenz.com/feed/&#34; title=&#34;Elokenz RSS feed&#34;&gt;feed&lt;/a&gt;, &lt;a title=&#34;Elokenz on Twitter&#34; href=&#34;https://twitter.com/elokenz_com&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt;, &lt;a title=&#34;Elokenz on Google+&#34; href=&#34;https://www.google.com/+Elokenz&#34; target=&#34;_blank&#34;&gt;Google+&lt;/a&gt;, &lt;a title=&#34;Elokenz on Facebook&#34; href=&#34;https://www.facebook.com/elokenz&#34; target=&#34;_blank&#34;&gt;Facebook&lt;/a&gt;, &lt;a title=&#34;Reddit support page for Elokenz&#34; href=&#34;http://www.reddit.com/r/elokenz/&#34; target=&#34;_blank&#34;&gt;Reddit&lt;/a&gt;, &lt;a title=&#34;Elokenz on LinkedIn&#34; href=&#34;https://www.linkedin.com/company/elokenz&#34; target=&#34;_blank&#34;&gt;LinkedIn&lt;/a&gt; &amp;#8230;&lt;/p&gt;
+
+&lt;p&gt;A last word : at this stage we have worked a lot and don&amp;#8217;t know the interest for the product yet. So,** if you like the idea** and think it is &lt;strong&gt;worth sharing it around&lt;/strong&gt;, please do it. We would be really glad to read stories about Elokenz on the web. If you do so, please send us the link. We will love to share it in return.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Google Trends unveils the power of Google Knowledge Graph</title>
+      <link>http://localhost:1313/search-engine-optimization/google-trends-unveils-power-google-knowledge-graph</link>
+      <pubDate>Tue, 17 Jun 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/search-engine-optimization/google-trends-unveils-power-google-knowledge-graph</guid>
+      <description>
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  This article has initially been &lt;a title=&#34;Google Trends dévoile la puissance de Google Knowledge Graph&#34; href=&#34;http://www.graphemeride.com/blog/google-trends-leve-voile-sur-puissance-de-google-knowledge-graph&#34; target=&#34;_blank&#34;&gt;written in French&lt;/a&gt; to explain how Google Trends was receiving more and more advanced semantic features. It&amp;#8217;s never easy to translate, so I will try my best to adapt my original copy to English.
+&lt;/p&gt;
+
+&lt;h2 style=&#34;text-align: justify;&#34;&gt;
+  Google is semantic and will be even more
+&lt;/h2&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;img class=&#34;alignleft&#34; title=&#34;David Amerland&#34; src=&#34;http://www.graphemeride.com/sites/graphemeride.com/files/images/blog/semantic/amerland.jpg&#34; alt=&#34;David Amerland&#34; width=&#34;46&#34; height=&#34;46&#34; /&gt;In 2014, the advantage is that we don&amp;#8217;t need to ask whether &lt;strong&gt;the web of the future will be semantic &lt;/strong&gt;or not. Google answered brilliantly with its &lt;a title=&#34;David Amerland&#39;s Google’s Hummingbird Deepens Semantic Search Results &#34; href=&#34;http://davidamerland.com/seo-tips/925-google-hummingbird-deepens-semantic-search-results.html&#34; target=&#34;_blank&#34;&gt;Hummingbird algorithm&lt;/a&gt; which has greatly enriched the search results. In addition to a better understanding of the users queries, Google can now often answer directly to questions by displaying the answer on top of the SERP (not really cool for webmasters&amp;#8230; but I will come back to this at the end of the post). To catch the whole picture, I strongly advice you to buy &lt;a title=&#34;David Amerland&#34; href=&#34;http://davidamerland.com/&#34; target=&#34;_blank&#34;&gt;David Amerland&lt;/a&gt;&amp;#8216;s book on the topic (you can also &lt;a title=&#34;David Amerland on Google+&#34; href=&#34;https://plus.google.com/+DavidAmerland&#34; target=&#34;_blank&#34;&gt;follow David on Google+&lt;/a&gt;) :
+&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  If you don&amp;#8217;t know what this update / algorithm is about, here is a quick summary. With Hummingbird, Google is now able to better understand natural language and questions you may ask directly. It has a restricted source of trusted resources (like &lt;a title=&#34;Wikipedia&#34; href=&#34;http://www.wikipedia.org/&#34; target=&#34;_blank&#34;&gt;Wikipedia&lt;/a&gt; or the &lt;a title=&#34;USDA&#34; href=&#34;http://www.usda.gov/wps/portal/usda/usdahome&#34; target=&#34;_blank&#34;&gt;USDA&lt;/a&gt; for instance) from where it can extract answers for you. Here is an example of one such answer :
+&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.elokenz.com/wp-content/uploads/2014/06/how_old_is_president.png&#34;&gt;&lt;img class=&#34;aligncenter size-large wp-image-190&#34; src=&#34;http://blog.elokenz.com/wp-content/uploads/2014/06/how_old_is_president-1024x477.png&#34; alt=&#34;How old is the president ?&#34; width=&#34;590&#34; height=&#34;274&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  This &amp;#8216;answering machine&amp;#8217; is obviously smarter when you ask questions in English, but a lot of answers are also given in other languages (I can tell you that basic questions about people are answered in French too).
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  When the request is not a question, it is also frequent to receive a lot of meaningful data (often that will occur when you type the race of an animal or a plant, a monument or some famous people name). On the following example you can see that the nutritive values from mussels are displayed and extracted from the &lt;a title=&#34;USDA&#34; href=&#34;http://www.usda.gov/wps/portal/usda/usdahome&#34; target=&#34;_blank&#34;&gt;USDA&lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;a href=&#34;http://blog.elokenz.com/wp-content/uploads/2014/06/google_semantic_mussels.png&#34;&gt;&lt;img class=&#34;aligncenter size-full wp-image-191&#34; src=&#34;http://blog.elokenz.com/wp-content/uploads/2014/06/google_semantic_mussels.png&#34; alt=&#34;Google Semantic Mussels&#34; width=&#34;940&#34; height=&#34;837&#34; /&gt;&lt;/a&gt;I am not going to explain any further because it has already been described a lot &lt;a title=&#34;Hummingbird described&#34; href=&#34;http://www.steamfeed.com/google-hummingbird-mean-future-seo/&#34; target=&#34;_blank&#34;&gt;elsewhere&lt;/a&gt; and you probably have already see it by yourself. The main question that remain unsolved now is :&lt;strong&gt; is there any reward for knowledge-oriented  websites if Google answer questions in place of them&lt;/strong&gt;? Should webmasters keep publishing websites that bring common knowledge to people or is it a waste of efforts? If you want to give your opinion, please use the comment form below. My point of view is quiet extreme, I think that this update will probably kill the smallest content producers : their website will attract less interest over time since answers are given directly by Google.
+&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Named entites coming from Freebase&lt;/h2&gt;
+
+&lt;p&gt;Answers from Google are generated via a system called &lt;a title=&#34;Knowledge graph&#34; href=&#34;http://en.wikipedia.org/wiki/Knowledge_Graph&#34; target=&#34;_blank&#34;&gt;Google Knowledge Graph&lt;/a&gt; which is heavily linked to the &lt;a title=&#34;Freebase&#34; href=&#34;http://www.freebase.com/&#34; target=&#34;_blank&#34;&gt;Freebase platform&lt;/a&gt;. Freebase is a kind of data base where knowledge about things are saved as &lt;strong&gt;named entities&lt;/strong&gt;. Several entities can carry the same name and convey different meaning (homonyms). For instance, in France, the word &amp;#8220;Hollande&amp;#8221; is used to express either the current President (&lt;a title=&#34;François Hollande&#34; href=&#34;http://francoishollande.fr&#34; target=&#34;_blank&#34;&gt;François Hollande&lt;/a&gt;) or the country Holland. Thanks to Freebase, it is possible to find homonyms by looking up a term : the different named entities will be displayed in the auto-completed form.  To give you another example, the expression &amp;#8220;La vie en rose&amp;#8221; gave me a surprising list. I only knew about the famous song from Piaf, but look &lt;a title=&#34;Freebase - La vie en rose&#34; href=&#34;http://www.freebase.com/search?query=la+vie+en+rose&amp;lang=en&amp;any=%2Fcommon%2Ftopic&amp;scoring=entity&amp;prefixed=true&#34; target=&#34;_blank&#34;&gt;what I found&lt;/a&gt; :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The original song from Piaf&lt;/li&gt;
+&lt;li&gt;A biographical film about Edith Piaf&lt;/li&gt;
+&lt;li&gt;A lingerie retailer&lt;/li&gt;
+&lt;li&gt;&amp;#8230; many other versions of the song by diverse singers&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;img title=&#34;Les différentes versions de &amp;quot;la vie en rose&amp;quot;&#34; src=&#34;http://www.graphemeride.com/sites/graphemeride.com/files/images/blog/semantic/freebase_piaf.png&#34; alt=&#34;Les différentes versions de &amp;quot;la vie en rose&amp;quot;&#34; width=&#34;600&#34; height=&#34;757&#34; /&gt; Alright, so none of this is new, let&amp;#8217;s move on to the real core of this article : Google Trends.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Google Trends reveals Google knowledge&amp;#8217;s functionnalities&lt;/h2&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Google Trends is a very useful tool to discover search volumes associated to given keywords. You can for instance compare the crowd interest for &amp;#8220;Hollande&amp;#8221; versus &amp;#8220;Sarkozy&amp;#8221; and see the time evolution. For that, you will use the followingg URL : &lt;a title=&#34;Google Trends&#34; href=&#34;https://www.google.com/trends/explore&#34; target=&#34;_blank&#34;&gt;https://www.google.com/trends/explore&lt;/a&gt; .
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img title=&#34;Sarkozy versu Holland&#34; src=&#34;http://www.graphemeride.com/sites/graphemeride.com/files/images/blog/semantic/sarko_vs_holland.png&#34; alt=&#34;Sarkozy versu Holland&#34; width=&#34;600&#34; height=&#34;390&#34; /&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  The tool is really useful to discover (guess what&amp;#8230;)&lt;strong&gt; trends&lt;/strong&gt; in time. You can also track down which countries show more interest for a topic. Until now, nothing is new for most webmarketers. But what was really disruptive at the time of the original post (March 12th 2014) is that &lt;strong&gt;Google Trends is now linked to the Knowledge Graph and Freebase&lt;/strong&gt;. This relationship is really more visible on Trends than on the classical search. For instance, you can come across related searches for the query &amp;#8216;&lt;a title=&#34;François Hollande sur Trends&#34; href=&#34;https://www.google.com/trends/explore#q=%2Fm%2F02qg4z&amp;cmpt=q&#34; target=&#34;_blank&#34;&gt;François Hollande&lt;/a&gt;&amp;#8216;.&lt;br /&gt; As Trends offers the possibility to embed the code, I&amp;#8217;m trying it below so you don&amp;#8217;t have to visit Trends at all :
+&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;If you have hovered over the previous link  (&lt;a href=&#34;https://www.google.com/trends/explore#q=%2Fm%2F02qg4z&#34;&gt;https://www.google.com/trends/explore#q=%2Fm%2F02qg4z&lt;/a&gt;) you might have noticed that it does not contain the keyword &amp;#8220;François Hollande&amp;#8221; but a strange string &amp;#8220;&lt;strong&gt;%2Fm%2F02qg4z&lt;/strong&gt;&amp;#8221; which is the HTML equivalent of &amp;#8220;&lt;strong&gt;/m/02qg4z&lt;/strong&gt;&amp;#8220;. Curious isn&amp;#8217;t it ? Not really, for those of you who took the time to visit Freebase, you might have recognize the syntax used for named entitites. For instance, here is the page about Hollande on Freebase : &lt;a title=&#34;François Hollande sur Freebase&#34; href=&#34;http://www.freebase.com/m/02qg4z&#34; target=&#34;_blank&#34;&gt;&lt;a href=&#34;http://www.freebase.com/m/02qg4z&#34;&gt;http://www.freebase.com/m/02qg4z&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt; There is a lot of data about Holland on Freebase, you can find his previous wife (Ségolène Royal) and partener (Valérie Trierweiler) , but nothing about this &amp;#8220;Julie Gayet&amp;#8221;. So why is Google Trends showing us her name here ? Well, here is the innovation :** Google Trends is able to discover the link between two named entities** ! Of course, it uses frequent searches and is able to discover that at some point of time the queries &amp;#8220;Holland&amp;#8221; and &amp;#8220;Gayet&amp;#8221; were often used in combination. But is also added a semantic layer and decided that these terms were related to the French politics scene.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;(Note : Julie Gayet was famous few month ago when &amp;#8216;Closer&amp;#8217; a gossip magazine made public that Holland had an affair with the actress Julie Gayet during his 2nd year of presidential term).&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Trends can now differentiate two homonyms with distinct topics. Remember the &amp;#8216;La vie en Rose&amp;#8217; example ? It is now easy to differentiate the different meanings and to display the search evolution of each distinct term in function of a semantic context :&lt;/p&gt;
+
+&lt;p&gt;&lt;img title=&#34;La vie en rose, oui, mais laquelle ?&#34; src=&#34;http://www.graphemeride.com/sites/graphemeride.com/files/images/blog/semantic/lavieenrose_trends.png&#34; alt=&#34;La vie en rose, oui, mais laquelle ?&#34; width=&#34;600&#34; height=&#34;392&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I guess that this example is not the clearest, and that here it might be difficult to decorrelate most of the queries, but it&amp;#8217;s clear that people started to ask Google about the movie in 2007.&lt;/p&gt;
+
+&lt;p&gt;The most striking feature of Trends/Knowledge comes from terms disambiguation.  Try it on various keywords you know have homonyms. Whereas on Freebase you will have a very detailled list of homonyms, Trends only keep the most important ones.&lt;/p&gt;
+
+&lt;p&gt;&lt;img title=&#34;Différents sens&#34; src=&#34;http://www.graphemeride.com/sites/graphemeride.com/files/images/blog/semantic/la_vie_en_rose_term_disambiguition.png&#34; alt=&#34;Différents sens&#34; width=&#34;500&#34; height=&#34;211&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Hum &amp;#8230; a last bonus for those of you who are coding. Information about these named entities are openly transferred from Google to your browser. So with 3 or 4 lines of code you can fetch the suggestions that appear on the previous picture. Here is for instance what was exchanged :&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;{&amp;#8220;entityList&amp;#8221;:[{&amp;ldquo;mid&amp;rdquo;:&amp;ldquo;/m/02q6gfp&amp;rdquo;,&amp;ldquo;title&amp;rdquo;:&amp;ldquo;La Vie en Rose&amp;rdquo;,&amp;ldquo;type&amp;rdquo;:&amp;ldquo;2007 Film&amp;rdquo;},{&amp;ldquo;mid&amp;rdquo;:&amp;ldquo;/m/0b7vwz&amp;rdquo;,&amp;ldquo;title&amp;rdquo;:&amp;ldquo;La Vie en rose&amp;rdquo;,&amp;ldquo;type&amp;rdquo;:&amp;ldquo;Song&amp;rdquo;},{&amp;ldquo;mid&amp;rdquo;:&amp;ldquo;/m/01wdzm_&amp;ldquo;,&amp;ldquo;title&amp;rdquo;:&amp;ldquo;Édith Piaf&amp;rdquo;,&amp;ldquo;type&amp;rdquo;:&amp;ldquo;Singer&amp;rdquo;},{&amp;ldquo;mid&amp;rdquo;:&amp;ldquo;/m/0h95zw7&amp;rdquo;,&amp;ldquo;title&amp;rdquo;:&amp;ldquo;La Vie en Rose&amp;rdquo;,&amp;ldquo;type&amp;rdquo;:&amp;ldquo;Retail company&amp;rdquo;}]}&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;So, coders can quickly create a tool to gather a lot of information about Edith Piaf for instance.&lt;/p&gt;
+
+&lt;h2 style=&#34;text-align: justify;&#34;&gt;
+  Is the new semantic Google the end of SEO ?
+&lt;/h2&gt;
+
+&lt;p&gt;With the Hummingbird&amp;#8217;s update, content editor will face more and more troubles. If answers are directly offered by Google, users will not need to visit your site anymore. It&amp;#8217;s easy to bet that it will become harder and harder for knowledge based website to survive.&lt;/p&gt;
+
+&lt;p&gt;And even if you manage to survive, be aware that you now &lt;a title=&#34;Google discovers the Truth&#34; href=&#34;http://davidamerland.com/seo-tips/936-how-google-will-know-if-you-re-lying.html&#34; target=&#34;_blank&#34;&gt;need to tell the truth to your readers&lt;/a&gt; &amp;#8230;&lt;/p&gt;
+
+&lt;p&gt;Search Engine Optimization might be dying, but for sure &lt;strong&gt;Semantic Engine Optimization&lt;/strong&gt; is on the rise !&lt;/p&gt;
+
+&lt;p&gt;&lt;img style=&#34;width: 32px; height: 32px; float: left; margin-right: 10px;&#34; src=&#34;https://lh6.googleusercontent.com/-6WgymaDs7Kw/AAAAAAAAAAI/AAAAAAAAA9Y/gUtqjwb1nlc/s46-c-k-no/photo.jpg&#34; alt=&#34;&#34; /&gt;If you want to adapt this article to your own langugage and publish it somewhere, I strongly support that. Send me an email or post a comment here when it&amp;#8217;s published and I&amp;#8217;ll add the link here.&lt;/p&gt;
+
+&lt;!-- Place this tag in your head or just before your close body tag. --&gt;
+
+&lt;!-- Place this tag where you want the widget to render. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A wordpress widget to showcase your best articles</title>
+      <link>http://localhost:1313/features/wordpress-widget-showcase-best-articles</link>
+      <pubDate>Fri, 07 Mar 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/features/wordpress-widget-showcase-best-articles</guid>
+      <description>
+
+&lt;p&gt;So, as most of us, you have decided to use authorship attribution on your website. Of course you are not tagging only your own blog, but also guest posts on different domains. Now what if you want to &lt;strong&gt;display your best articles in one place&lt;/strong&gt; ?&lt;/p&gt;
+
+&lt;p&gt;This would have been tricky before, but thanks to Julio Potier (from &lt;a title=&#34;La Boite à Web&#34; href=&#34;http://boiteaweb.fr/&#34; target=&#34;_blank&#34;&gt;La boite à Web&lt;/a&gt;) , WordiZ developed a &lt;strong&gt;WordPress Plugin&lt;/strong&gt; that you can use to retrieve and display all your best articles in one place. Have a look at the following picture to understand :&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;aligncenter size-full wp-image-178&#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2014/03/Wordpress_Plugin_Best_articles2.png&#34; alt=&#34;Best articles based on authorship&#34; width=&#34;400&#34; height=&#34;364&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The plugin updates the scores weekly and allows you to showcase your most shared pieces of writing. Imagine that you are working as a copywriter, or as a pro blogger ; you can quickly provide an updated portfolio of content to your clients.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Download the plugin&lt;/h2&gt;
+
+&lt;p&gt;The plugin is available on WordPress : &lt;a title=&#34;Elokenz - WordPress plugin to display best articles&#34; href=&#34;http://wordpress.org/plugins/elokenz-most-shared-articles-for-authors/&#34; target=&#34;_blank&#34;&gt;Best articles tagged with authorship plugin&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;How to use it&lt;/h2&gt;
+
+&lt;p&gt;Download and install the plugin (I assume that you can do it, if you fail, leave a comment below). To use the plugin, just navigate to your *&lt;strong&gt;Appearance &amp;gt; Widgets&lt;/strong&gt; *menu. You will find a new widget called &amp;#8220;WordiZ Widget &amp;#8211; Authorship Best Articles&amp;#8221;. Add it to one of your sidebars.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;aligncenter size-full wp-image-180&#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2014/03/widget_add.png&#34; alt=&#34;Add WordiZ widget to your sidebar&#34; width=&#34;305&#34; height=&#34;244&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_2&#34;&gt;Configuration&lt;/h2&gt;
+
+&lt;p&gt;The configuration of the widget is rather simple.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;You can add a custom title to the widget in the field &lt;strong&gt;&lt;em&gt;Title&lt;/em&gt;&lt;/strong&gt;. By default, the title will be blank.&lt;/li&gt;
+&lt;li&gt;You can change the widget color theme on the second field &lt;strong&gt;&lt;em&gt;Display on bright or dark&lt;/em&gt;&lt;/strong&gt;* background***. The option here will change the overall appearance of the plugin so that it fits with your template.&lt;/li&gt;
+&lt;li&gt;Adjust the number of displayed items in the &lt;strong&gt;&lt;em&gt;Number of items&lt;/em&gt;&lt;/strong&gt; field&lt;/li&gt;
+&lt;li&gt;Do you want to add a nofollow attribute to the links displayed by the widget ? Change the settings in the field &lt;strong&gt;&lt;em&gt;Follow or *&lt;/em&gt;&lt;/strong&gt;Dofollow.***I suggest it to keep it to dofollow if you display your articles.&lt;/li&gt;
+&lt;li&gt;Finally add your Google+ id number in the field*** Google+ user id***.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img class=&#34;aligncenter size-full wp-image-181&#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2014/03/wordiz_widget_configuration.png&#34; alt=&#34;WordiZ Widget Configuration&#34; width=&#34;407&#34; height=&#34;626&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;To quickly get your Google+ user id, we have added a Google+ sign in button. When you use it, WordiZ will create an account for you and will show you your Google+ id number on a new page. Copy the number you found on the new page and paste it into the widget configuration.&lt;/p&gt;
+
+&lt;p&gt;Remember that the processing of your articles is made through WordiZ platform, so you need to have an account there to get the widget working correctly. That&amp;#8217;s the reason for the sign in button in the administration.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_3&#34;&gt;Feedback and Bugs&lt;/h2&gt;
+
+&lt;p&gt;Have you find any bug or do you have any feedback for improvement ? Let me know in the comment box below.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Where do people share your articles ?</title>
+      <link>http://localhost:1313/features/people-share-articles</link>
+      <pubDate>Wed, 05 Feb 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/features/people-share-articles</guid>
+      <description>
+
+&lt;p&gt;Alright, you have written dozen of articles on your blog now, and you successfully have tagged them as the official author. In addition to that, you got offered some guest blogging offers through your connexions and via &lt;a title=&#34;Find Guest Bloggers&#34; href=&#34;http://myblogguest.com/&#34; target=&#34;_blank&#34;&gt;MyBlogGuest&lt;/a&gt;.  So essentially you start running a** successful blogger life**, but you feel a unsatisfied with the standard analytics tools. You don&amp;#8217;t really WHO is reading your articles and how you can increase the number of readers.&lt;/p&gt;
+
+&lt;p&gt;That is the reason why we introduced a new feature on WordiZ some days ago. As you may know it was already possible to find &lt;a title=&#34;Find all the people who share your articles on Google+&#34; href=&#34;http://blog.wordiz.it/features/find-people-share-articles-google&#34; target=&#34;_blank&#34;&gt;who is sharing your articles on Google+&lt;/a&gt;. That&amp;#8217;s a really interesting feature, but we thought that we are somehow missing the big picture. In other words, &lt;strong&gt;where are you mostly cited ?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;On which network are you visible ?&lt;/h2&gt;
+
+&lt;p&gt;When you write an article, you will probably share it on Tiwtter, Google+ and/or Facebook and LinkedIn. But, once this step is done,** you don&amp;#8217;t really control what&amp;#8217;s happening next**. Overtime you might discover that you reach more fans on Twitter or on Facebook.&lt;/p&gt;
+
+&lt;p&gt;It is now possible to see that in a bird&amp;#8217;s eye view on you WordiZ profile. Have a look at the following picture (taken from &lt;a title=&#34;Jean-Christophe Lavocat&#34; href=&#34;http://www.wordiz.it/profile/jice.lavocat/&#34; target=&#34;_blank&#34;&gt;my profile&lt;/a&gt;) :&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;size-full wp-image-162 aligncenter&#34; alt=&#34;Social Network Visibility&#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2014/02/which_network_visible.png&#34; width=&#34;231&#34; height=&#34;269&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;What you see is really simple to explain. The &lt;strong&gt;more &amp;#8220;mentions&amp;#8221;&lt;/strong&gt; my articles get on a social network, the &lt;strong&gt;more &amp;#8220;visible&amp;#8221;&lt;/strong&gt; I am on this** social network**. Therefore, you can quickly see here that I am equally visible on G+ (39%) and Twitter (42%), but far less on Facebook (19%).&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;size-medium wp-image-171 aligncenter&#34; alt=&#34;social media community&#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2014/02/social-media-community-300x128.jpg&#34; width=&#34;300&#34; height=&#34;128&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;What is the best strategy to get visible ?&lt;/h2&gt;
+
+&lt;p&gt;Honestly, I cannot pretend that there is a best strategy. Some people tend to be very famous more or less equally on various social networks. That&amp;#8217;s not very often, but you have a nice example with &lt;a title=&#34;Torben Rick - Wordiz Profile&#34; href=&#34;http://www.wordiz.it/profile/torbenrick/&#34; target=&#34;_blank&#34;&gt;Torben Rick&lt;/a&gt; :&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.wordiz.it/profile/torbenrick/&#34;&gt;&lt;img class=&#34;size-full wp-image-167 aligncenter&#34; alt=&#34;Torben Rick visibility on social networks&#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2014/02/torben_rick_vis_weight.png&#34; width=&#34;242&#34; height=&#34;269&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Indeed most of the famous writers I have met on WordiZ have a** favorite social network**. Well, to be precise, let say that their fans are mostly active on a social network. That is the case for instance of &lt;a title=&#34;Mark Traphagen - WordiZ Profile&#34; href=&#34;http://www.wordiz.it/profile/trappermark/&#34; target=&#34;_blank&#34;&gt;Mark Traphagen&lt;/a&gt; or &lt;a title=&#34;Flavien Chantrel - WordiZ Profile&#34; href=&#34;http://www.wordiz.it/profile/whatsupnet/&#34; target=&#34;_blank&#34;&gt;Flavien Chantrel&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p style=&#34;text-align: center;&#34;&gt;
+  &lt;a href=&#34;http://www.wordiz.it/profile/whatsupnet/&#34;&gt;&lt;img class=&#34;alignnone size-full wp-image-164&#34; alt=&#34;Visibility on Social Networks for Flavien Chantrel&#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2014/02/flavien_chantrel_vis_weight.png&#34; width=&#34;237&#34; height=&#34;270&#34; /&gt;&lt;/a&gt; &lt;a href=&#34;http://www.wordiz.it/profile/trappermark/&#34;&gt;&lt;img class=&#34;alignnone size-medium wp-image-165&#34; alt=&#34;Visbility on social networks for Mark Traphagen&#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2014/02/mark_traphagen_vis_weight.png&#34; width=&#34;238&#34; height=&#34;271&#34; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;h2 style=&#34;text-align: left;&#34;&gt;
+  How do you improve then ?
+&lt;/h2&gt;
+
+&lt;p&gt;In order to improve your social visibility, you have two strategies. The first one is to fight on all fronts at the same time. However this is really time demanding and you might feel discouraged after some time since your efforts will initially lead to few results.&lt;/p&gt;
+
+&lt;p&gt;The second strategy is to &lt;strong&gt;concentrate on a dedicated social network&lt;/strong&gt;, possibly the one you know better, and the one where you have more friends and contacts. Try to become visible on this special social network, and the others will follow by themselves.&lt;/p&gt;
+
+&lt;p&gt;I cannot show you the result yet, but, take the case of &lt;a title=&#34;Mark Traphagen- Google+&#34; href=&#34;https://plus.google.com/+MarkTraphagen/&#34; target=&#34;_blank&#34;&gt;Mark&lt;/a&gt; for instance. He started on Google+, and slowly his visibility on Twitter followed. Mark really put a lot of efforts to sustain a constant activity on &lt;a title=&#34;Google+&#34; href=&#34;http://plus.google.com&#34; target=&#34;_blank&#34;&gt;Google+&lt;/a&gt; and to create long term friendships on the network.&lt;/p&gt;
+
+&lt;p&gt;So, here is my take : concentrate on one social network, and then, when you have some traction there, start focusing on a new social network.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Find all the people who share your articles on Google&#43;</title>
+      <link>http://localhost:1313/features/find-people-share-articles-google</link>
+      <pubDate>Mon, 18 Nov 2013 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/features/find-people-share-articles-google</guid>
+      <description>
+
+&lt;p&gt;Have you ever wonder how it was possible to build your** Google+ fan base** ? It is easy, of course, to find who have you in circle, but not to know** who has ever shared one of your article**. Say you are writing on several blogs and want to collect the list of people who shared it on Google+ , now an easy solution exists on &lt;a title=&#34;WordiZ.it - Discover author&#39;s visibility&#34; href=&#34;http://www.wordiz.it&#34; target=&#34;_blank&#34;&gt;WordiZ.it&lt;/a&gt; .&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Nurturing your Google+ fan base&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.wordiz.it/wp-content/uploads/2013/11/google_fanbase_author.png&#34;&gt;&lt;img class=&#34;alignleft  wp-image-152&#34; style=&#34;margin-left: 20px; margin-right: 20px;&#34; alt=&#34;Google+ Fanbase for author&#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2013/11/google_fanbase_author.png&#34; height=&#34;400&#34; /&gt;&lt;/a&gt;I am really excited to describe this new feature because I am using it quite extensively since it is available. I really think it helps your &lt;strong&gt;content marketing or social media strategy&lt;/strong&gt;. Basically, it does only one thing : showing the people who put a link to your article on Google+. That&amp;#8217;s it, nothing more, but there is a very deep scope behind that simple feature.&lt;/p&gt;
+
+&lt;p&gt;When you are writing an article on the web, you want to maximize mainly one thing : &lt;strong&gt;interactions&lt;/strong&gt;. Interactions on your post could be seen as &lt;em&gt;views&lt;/em&gt;,* number of comments&lt;em&gt;, *incoming links&lt;/em&gt; or &lt;em&gt;social media mentions&lt;/em&gt;. You cannot really do anything with the number of views, but you can engage people who create links, comment or share your post. That simple action will allow you to get more engaged readers and to turn them to ambassadors or fans.&lt;/p&gt;
+
+&lt;p&gt;So, you probably understand now how the new feature works. Publish on the web and WordiZ.it will collect automatically your articles and list all your Google+ sharers. Under your profile tab, you will find the link to this list. Open it, and you will be able to add any single fan to a dedicated circle, something like &amp;#8220;my G+ readers&amp;#8221; for instance.&lt;/p&gt;
+
+&lt;p&gt;Then, what to do next is up to you. You can either ping them when you publish something new, or just say &amp;#8220;thanks&amp;#8221; for their involvement &amp;#8230; You can also comment below and tell us how you would use this feature.&lt;/p&gt;
+
+&lt;p style=&#34;text-align: center;&#34;&gt;
+  &lt;a href=&#34;http://blog.wordiz.it/wp-content/uploads/2013/11/list_google_fans.png&#34;&gt;&lt;img class=&#34;aligncenter&#34; alt=&#34;List of Google+ fans&#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2013/11/list_google_fans.png&#34; width=&#34;400&#34; height=&#34;384&#34; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Connect with the people who shared your top articles&lt;/h2&gt;
+
+&lt;p&gt;In addition to an author-wise fan base, we also wanted to give you the opportunity to connect with &lt;strong&gt;people who shared a specific article&lt;/strong&gt;. So, for all your top articles, you will find a quick link to &amp;#8220;G+ fanbase&amp;#8221; to see who exactly shared this article.&lt;/p&gt;
+
+&lt;p style=&#34;text-align: left;&#34;&gt;
+  &lt;a href=&#34;http://blog.wordiz.it/wp-content/uploads/2013/11/google_fanbase_article_2.png&#34;&gt;&lt;img class=&#34;aligncenter  wp-image-153&#34; alt=&#34;Google+ Fanbase for Article&#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2013/11/google_fanbase_article_2.png&#34; width=&#34;400&#34; /&gt;&lt;/a&gt;This way, you will easily be able to see individually who helped you to get your articles to the top. That&amp;#8217;s a really great tool to create connections.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: left;&#34;&gt;
+   
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New ZImpact bar</title>
+      <link>http://localhost:1313/features/new-zimpact-bar</link>
+      <pubDate>Wed, 13 Nov 2013 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/features/new-zimpact-bar</guid>
+      <description>
+
+&lt;p&gt;&lt;img class=&#34;alignleft size-full wp-image-145&#34; alt=&#34;New WordiZ Impact Bar&#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2013/11/new_zimpact_bar.png&#34; width=&#34;264&#34; height=&#34;272&#34; /&gt;Initially, the display of your score has been made in a bubble like tooltip on top of your profile picture. But today, things have changed. The new ZImpact bar is out !&lt;/p&gt;
+
+&lt;p&gt;We are glad to roll out this new graphical bar that shows your level on a rainbow color scale bar. It&amp;#8217;s a great occasion for you to share your profile and get a higher score.&lt;/p&gt;
+
+&lt;p&gt;If your score is 12, it means that you have at least 12 articles with 12 shares on every social networks. You want to improve that value? Try to write a new post and get 13 shares on every social network&amp;#8230; but that&amp;#8217;s not all. You also need to have your 12 previous articles now being shared 13 times.&lt;/p&gt;
+
+&lt;p&gt;It is a tough work, but this is how you get to be famous and visible.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Help tooltips&lt;/h2&gt;
+
+&lt;p&gt;We also implemented new tooltips to help you understanding your profile page. So, check them out by rolling your mouse over the different numbers of your profile.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;aligncenter size-full wp-image-147&#34; alt=&#34;help_tooltip&#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2013/11/help_tooltip.png&#34; width=&#34;348&#34; height=&#34;144&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Author ranking on WordiZ &amp;#8211; November 2013</title>
+      <link>http://localhost:1313/authorship/author-ranking-wordiz-november-2013</link>
+      <pubDate>Wed, 06 Nov 2013 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/authorship/author-ranking-wordiz-november-2013</guid>
+      <description>&lt;p&gt;The number of users on &lt;a href=&#34;http://www.wordiz.it&#34; title=&#34;WordiZ&#34;&gt;WordiZ.it&lt;/a&gt; went over 260 in November, which makes more or less &lt;strong&gt;16 000 articles&lt;/strong&gt; saved in our database. It is really great and we are proud of your engagement. Because this little community also allow us to give out some statistics, here is the top 10 authors on WordiZ.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a title=&#34;Jean-Marc Manach on WordiZ&#34; href=&#34;http://www.wordiz.it/profile/jmmanach/&#34; target=&#34;_blank&#34;&gt;Jean-Marc Manach&lt;/a&gt; : French journalist &amp;#8211; ZImpact score = 45&lt;/li&gt;
+&lt;li&gt;&lt;a title=&#34;David Amerland&#34; href=&#34;http://www.wordiz.it/profile/davidamerland/&#34; target=&#34;_blank&#34;&gt;David Amerland&lt;/a&gt; : British Author/Speaker &amp;#8211; ZImpact score = 44&lt;/li&gt;
+&lt;li&gt;&lt;a title=&#34;Olivier Duffez&#34; href=&#34;http://www.wordiz.it/profile/webrankinfo.com/&#34; target=&#34;_blank&#34;&gt;Olivier Duffez&lt;/a&gt; : French SEO consultant &amp;#8211; ZImpact score = 41&lt;/li&gt;
+&lt;li&gt;&lt;a title=&#34;Mark Traphagen&#34; href=&#34;http://www.wordiz.it/profile/trappermark/&#34; target=&#34;_blank&#34;&gt;Mark Traphagen&lt;/a&gt; : American SEO/Webmarketing consultant &amp;#8211; ZImpact score = 38&lt;/li&gt;
+&lt;li&gt;&lt;a title=&#34;Haydée Bouscasse&#34; href=&#34;http://www.wordiz.it/profile/haydee.bouscasse/&#34; target=&#34;_blank&#34;&gt;Haydée Bouscasse&lt;/a&gt; : French Travel Blogger &amp;#8211; ZImpact score = 32&lt;/li&gt;
+&lt;li&gt;&lt;a title=&#34;Ann Smarty&#34; href=&#34;http://www.wordiz.it/profile/seosmarty/&#34; target=&#34;_blank&#34;&gt;Ann Smarty&lt;/a&gt; : American Blogger and SEO Consultant &amp;#8211; ZImpact Score = 30&lt;/li&gt;
+&lt;li&gt;&lt;a title=&#34;Fatima Martinez Lopez on WordiZ&#34; href=&#34;http://www.wordiz.it/profile/fmglobalia/&#34; target=&#34;_blank&#34;&gt;Fatima Martinez Lopez&lt;/a&gt; : Spanish Social Media Speaker/Teacher &amp;#8211; ZImpact Score = 29&lt;/li&gt;
+&lt;li&gt;&lt;a title=&#34;Jeremy Benmoussa&#34; href=&#34;http://www.wordiz.it/profile/jeremy.benmoussa.plus&#34; target=&#34;_blank&#34;&gt;Jeremy Benmoussa&lt;/a&gt; : French Social Media Blogger &amp;#8211; ZImpact score = 25&lt;/li&gt;
+&lt;li&gt;&lt;a title=&#34;Carlos Pizcos&#34; href=&#34;http://www.wordiz.it/profile/malpizcos/&#34; target=&#34;_blank&#34;&gt;Carlos Pizcos&lt;/a&gt; : Spanish Social Media Teacher &amp;#8211; ZImpact score = 24&lt;/li&gt;
+&lt;li&gt;&lt;a title=&#34;Gabriel Dabi-Schwebel&#34; href=&#34;http://www.wordiz.it/profile/gdabischwebel/&#34; target=&#34;_blank&#34;&gt;Gabriel Dabi-Schwebel&lt;/a&gt;  : French Webmarketing Consultant &amp;#8211; ZImpact Score = 23&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Congratulation to all of you.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;aligncenter size-full wp-image-139&#34; alt=&#34;ranking&#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2013/11/ranking.jpg&#34; width=&#34;238&#34; height=&#34;211&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This ranking is only temporary&amp;#8230; we still have three weeks before the next one. Do you want to challenge the best influencers and compare your score ? Sign on &lt;a title=&#34;Blogger Influence&#34; href=&#34;http://www.wordiz.it&#34; target=&#34;_blank&#34;&gt;WordiZ.it&lt;/a&gt; and just wait until we crawl your websites&amp;#8230;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Explaining the Z-Impact &amp;#8211; The Author Visibility Factor</title>
+      <link>http://localhost:1313/questions/z-impact-the-author-visibility-factor</link>
+      <pubDate>Wed, 23 Oct 2013 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/questions/z-impact-the-author-visibility-factor</guid>
+      <description>
+
+&lt;p&gt;When we made the first released WordiZ last week, we only included two features : a listing of your top articles (on twitter, google and facebook) and the display of average likes/RTs/+1 of your articles. We are proud to announce that you now have access to a Z-Impact score which is shown on your profile page too.&lt;/p&gt;
+
+&lt;p&gt;Let me explain a bit more in detail the current information available on your &lt;a href=&#34;http://www.wordiz.it&#34; title=&#34;WordiZ&#34;&gt;WordiZ profile&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Z-Impact Score : the WordiZ visibility index&lt;/h2&gt;
+
+&lt;p&gt;The most significant number available on your profile is called the &lt;strong&gt;Z-Impact Score&lt;/strong&gt; (for WordiZ Impact Score). At the moment, it&amp;#8217;s located above your profile picture :&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;aligncenter size-full wp-image-124&#34; alt=&#34;ZImpact Score on a profile &#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2013/10/Z_impact_score_profile_picture.png&#34; width=&#34;203&#34; height=&#34;218&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The** Z-Impact is on a 100 scale&lt;strong&gt;. The&lt;/strong&gt; higher value** you get, the &lt;strong&gt;more visible&lt;/strong&gt; your posts and articles are. The calculation is fairly easy at the moment. To give you a brief explanation, if you score is 40, it means that you have at least 40 articles than have been shared on Facebook and Google+ and tweeted at least 40 times. The calculation is easy,&lt;a title=&#34;Jean-Marc Manach on WordiZ&#34; href=&#34;http://www.wordiz.it/profile/jmmanach/&#34; target=&#34;_blank&#34;&gt; Jean-Marc Manach&lt;/a&gt; had (at least) 40 x 40 x 3 = 4800 total citations for his best articles.&lt;/p&gt;
+
+&lt;p&gt;The score will be updated on monthly basis to take into account your last articles, and we will also remove posts older than two years to account for novelty.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Average citations&lt;/h2&gt;
+
+&lt;p&gt;Your profile also contains a list of average citations on Facebook, Google and Twitter :&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.wordiz.it/wp-content/uploads/2013/10/average_citations.png&#34;&gt;&lt;img class=&#34;aligncenter size-full wp-image-125&#34; alt=&#34;Average Citations on WordiZ&#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2013/10/average_citations.png&#34; width=&#34;219&#34; height=&#34;142&#34; /&gt;&lt;/a&gt;It is the average of times all your articles have been liked on the different social networks. In the example above, if the author had 100 articles in the database, then, it means that he has a total of&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;390 tweets&lt;/li&gt;
+&lt;li&gt;280 +1&lt;/li&gt;
+&lt;li&gt;90 likes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This value is** not really accurate** and does not mean : if you publish an article you will probably get 3.9 tweets and 2.8 +1. Indeed, an average value does not reflect a trend. Consider the following case :&lt;/p&gt;
+
+&lt;p&gt;Tom has written 5 posts on his blog, and none of them received attention except the first one when he announced the launch of his company and asked friends to share the news. Here is the number of shares he got on his blog and the averaged value :&lt;/p&gt;
+
+&lt;table style=&#34;width: 90%;&#34; border=&#34;0&#34;&gt;
+  &lt;tr&gt;
+    &lt;th&gt;
+      Name
+    &lt;/th&gt;
+    
+    &lt;th&gt;
+      Facebook
+    &lt;/th&gt;
+    
+    &lt;th&gt;
+      Twitter
+    &lt;/th&gt;
+    
+    &lt;th&gt;
+      Google+
+    &lt;/th&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      Article 1
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+       100
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      100
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      100
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      Article 2
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+       1
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      2
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      5
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      Article 3
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+       1
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      3
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      4
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      Article 4
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+       1
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      1
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      2
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      Article 5
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+       1
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      2
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      1
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      Average
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+       20.8
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+       21.6
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      22.4
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;You see that it does not really reflects the trend of Tom&amp;#8217;s blog. However it gives some hindsight when you have many articles so we decided to keep this number on your profile page.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_2&#34;&gt;List of your top articles&lt;/h2&gt;
+
+&lt;p&gt;The last feature available on your profile page is the listing of your top articles. You will find 4 categories :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Top Global : The list of article where you received the maximum number of RT, +1 and likes accumulated&lt;/li&gt;
+&lt;li&gt;Top Google : The list of article where you received the maximum number of +1&lt;/li&gt;
+&lt;li&gt;Top Facebook : &amp;#8230; same thing for likes&lt;/li&gt;
+&lt;li&gt;Top Twitter : &amp;#8230; same thing for RTs&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p style=&#34;text-align: center;&#34;&gt;
+  &lt;a href=&#34;http://blog.wordiz.it/wp-content/uploads/2013/10/list_top_articles_wordiz.png&#34;&gt;&lt;img class=&#34;aligncenter  wp-image-130&#34; alt=&#34;Top articles on WordiZ&#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2013/10/list_top_articles_wordiz.png&#34; width=&#34;500&#34; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: left;&#34;&gt;
+  We find it is an easy way to quickly show your best posts to friends, clients or colleagues.Any additional question? Drop us a comment
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>WordPress plugin to show social shares in your admin panel</title>
+      <link>http://localhost:1313/content-marketing/wordpress-plugin-show-social-shares-admin-panel</link>
+      <pubDate>Tue, 17 Sep 2013 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/content-marketing/wordpress-plugin-show-social-shares-admin-panel</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://blog.wordiz.it/wp-content/uploads/2013/09/banner-772x250.png&#34;&gt;&lt;img class=&#34;aligncenter  wp-image-106&#34; alt=&#34;WordiZ Admin Social Shares&#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2013/09/banner-772x250.png&#34; width=&#34;500&#34; /&gt;&lt;/a&gt;If you have ever wondered how you can quickly sort out buzzing articles from your wordpress articles, WordiZ has developed a plugin to help you. &lt;a href=&#34;http://blog.wordiz.it/plugins/wordpress-admin-shares/&#34; title=&#34;Wordpress Admin Social Shares &#34;&gt;WordiZ Admin Social Shares&lt;/a&gt; is a &lt;strong&gt;wordpress extenssion&lt;/strong&gt; that will allow you to see the number of shares of your article directly from the backend administration panel.&lt;/p&gt;
+
+&lt;p&gt;After the installation, the listing of your articles will show three new columns : one for Facebook &lt;strong&gt;likes&lt;/strong&gt;, one for &lt;strong&gt;retweets&lt;/strong&gt; and the last one for Google &lt;strong&gt;+1&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.wordiz.it/wp-content/uploads/2013/08/screenshot-1.png&#34;&gt;&lt;img class=&#34;aligncenter size-full wp-image-80&#34; alt=&#34;Admin with Admin Social Shares installed&#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2013/08/screenshot-1.png&#34; width=&#34;861&#34; height=&#34;673&#34; /&gt;&lt;/a&gt;At the moment, one important feature is really missing : sorting articles by shares. Hopefully we will get some time soon to add the feature to the project. If you are a developer, you can also fork the project on github.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>WordiZ Weekly &amp;#8211; 15 September 2013</title>
+      <link>http://localhost:1313/content-marketing/wordiz-weekly-15-september-2013</link>
+      <pubDate>Sun, 15 Sep 2013 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/content-marketing/wordiz-weekly-15-september-2013</guid>
+      <description>&lt;p&gt;As every Sunday, we&amp;#8217;ll share the articles we enjoyed reading about content marketing, blogging or inbound marketing. If you miss one of them during the week, now you have time to read the most important post of the week. This time we share articles about the Content Marketing World 2013, a list of 10 content leaders, advices on how to create quality content and a recipe for your future inbound strategy.&lt;/p&gt;
+
+&lt;p&gt;Happy social reading and** be active** and &lt;strong&gt;leave a comment&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;div class=&#34;weekly_post&#34;&gt;
+  &lt;h2&gt;
+    Creating an inbound marketing strategy
+  &lt;/h2&gt;
+  
+  &lt;p&gt;
+    &lt;img style=&#34;margin: 0px 3px -5px 0px;&#34; title=&#34;Luke Summerfield&#34; alt=&#34;Luke Summerfield&#34; src=&#34;https://lh5.googleusercontent.com/-XhlBa-40Ae8/AAAAAAAAAAI/AAAAAAAAJeQ/jKjcEzIvXFw/s46-c-k-no/photo.jpg&#34; width=&#34;26&#34; height=&#34;26&#34; /&gt;by &lt;a title=&#34;Luke Summerfield&#34; href=&#34;https://plus.google.com/u/0/107265113459622112351&#34; target=&#34;_blank&#34;&gt;Luke Summerfield&lt;/a&gt; (September 11th 2013)
+  &lt;/p&gt;
+  
+  &lt;p lang=&#34;en&#34;&gt;
+    Luke writes a very complete review about how to plan and set up a very &lt;strong&gt;efficient inbound marketing strategy&lt;/strong&gt; to attract and convert visitors into clients. He talks about buyer personnas, the &lt;strong&gt;customer buying cycle&lt;/strong&gt; how to funnel your visitors through different steps and finally how to improve your SEO. It is the article you should have read this week.
+  &lt;/p&gt;
+  
+  &lt;div id=&#34;attachment_103&#34; style=&#34;width: 510px&#34; class=&#34;wp-caption aligncenter&#34;&gt;
+    &lt;a href=&#34;http://blog.wordiz.it/wp-content/uploads/2013/09/inbound-marketing-buying-cycle-savvypanda.jpg&#34;&gt;&lt;img class=&#34; wp-image-103&#34; alt=&#34;Customer Buying Cycle&#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2013/09/inbound-marketing-buying-cycle-savvypanda.jpg&#34; width=&#34;500&#34; height=&#34;342&#34; /&gt;&lt;/a&gt;
+    
+    &lt;p class=&#34;wp-caption-text&#34;&gt;
+      Customer Buying Cycle
+    &lt;/p&gt;
+  &lt;/div&gt;
+  
+
+&lt;p&gt;&lt;p lang=&#34;en&#34;&gt;
+    &lt;a title=&#34;Creating an inbound marketing strategy&#34; href=&#34;http://www.clickz.com/clickz/column/2293905/creating-an-inbound-marketing-content-strategy&#34; target=&#34;_blank&#34;&gt;Read the full story &amp;#8230;&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/div&gt;&lt;/p&gt;
+
+&lt;div class=&#34;weekly_post&#34;&gt;
+  &lt;h2&gt;
+    What Exactly Does Google Consider High Quality Marketing Content?
+  &lt;/h2&gt;
+  
+  &lt;p&gt;
+    &lt;img style=&#34;margin: 0px 3px -5px 0px;&#34; title=&#34;Bill Faeth&#34; alt=&#34;Bill Faeth&#34; src=&#34;https://lh5.googleusercontent.com/-w2ph5XuqEAE/AAAAAAAAAAI/AAAAAAAAAFk/UjH-VJepz2k/s46-c-k-no/photo.jpg&#34; width=&#34;26&#34; height=&#34;26&#34; /&gt;by &lt;a title=&#34;Bill Faeth&#34; href=&#34;https://plus.google.com/108060448514310574400/posts&#34; target=&#34;_blank&#34;&gt;Bill Faeth&lt;/a&gt; (September 5th 2013)
+  &lt;/p&gt;
+  
+  &lt;p&gt;
+    When you start writing a piece of content you need to think of your readers in the first place but also to search engines like Google or Bing. Here Bill explains how we can create&lt;strong&gt; quality content&lt;/strong&gt; both for humans and Google. A great resource for those who care about &lt;strong&gt;SEO&lt;/strong&gt; when doing content creation.
+  &lt;/p&gt;
+  
+  &lt;div&gt;
+    &lt;a title=&#34;What exactly is quality content for Google&#34; href=&#34;http://blog.hubspot.com/google-guidelines-high-quality-content-var&#34; target=&#34;_blank&#34;&gt;Read the full story &amp;#8230;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;weekly_post&#34;&gt;
+  &lt;h2&gt;
+    10 Leaders Changing The Content Landscape
+  &lt;/h2&gt;
+  
+  &lt;p&gt;
+    &lt;img style=&#34;margin: 0px 3px -5px 0px;&#34; title=&#34;John Hall&#34; alt=&#34;John Hall&#34; src=&#34;https://lh6.googleusercontent.com/-Viu7fanjAxw/AAAAAAAAAAI/AAAAAAAAAB8/aPPHUmh8xwQ/s46-c-k-no/photo.jpg&#34; width=&#34;26&#34; height=&#34;26&#34; /&gt;by &lt;a title=&#34;John Hall&#34; href=&#34;https://plus.google.com/115912741633368703462/posts&#34; target=&#34;_blank&#34;&gt;John Hall&lt;/a&gt; (September 8th 2013)
+  &lt;/p&gt;
+  
+  &lt;p lang=&#34;en&#34;&gt;
+    Content creation landscape can be very fuzzy and&lt;strong&gt; finding influencers&lt;/strong&gt; out there is not a trivial task. That is what we aim for at &lt;a title=&#34;WordiZ&#34; href=&#34;http://www.wordiz.it&#34;&gt;WordiZ&lt;/a&gt;, but before opening our beta to the world we should mention this very interesting piece of writing from John Hall for Forbes.
+  &lt;/p&gt;
+  
+  &lt;p lang=&#34;en&#34;&gt;
+    He lists &lt;strong&gt;10 major leaders in the world of content creation&lt;/strong&gt; including LinkedIn, HubSpot, American Express or The Huffington Post among others. An original post that is worth reading to get ideas.
+  &lt;/p&gt;
+  
+  &lt;div id=&#34;attachment_112&#34; style=&#34;width: 435px&#34; class=&#34;wp-caption aligncenter&#34;&gt;
+    &lt;a href=&#34;http://blog.wordiz.it/wp-content/uploads/2013/09/dharmesh-head-shot1.jpg&#34;&gt;&lt;img class=&#34;size-full wp-image-112&#34; alt=&#34;Dharmesh Shah from HubspotDharmesh Shah&#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2013/09/dharmesh-head-shot1.jpg&#34; width=&#34;425&#34; height=&#34;283&#34; /&gt;&lt;/a&gt;
+    
+    &lt;p class=&#34;wp-caption-text&#34;&gt;
+      Dharmesh Shah from Hubspot
+    &lt;/p&gt;
+  &lt;/div&gt;
+  
+
+&lt;p&gt;&lt;p lang=&#34;en&#34;&gt;
+    &lt;a title=&#34;10 Leaders in the world of content creation&#34; href=&#34;http://www.forbes.com/sites/johnhall/2013/09/08/10-leaders-changing-the-content-landscape/&#34; target=&#34;_blank&#34;&gt;Read the full story &amp;#8230;&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/div&gt;&lt;/p&gt;
+
+&lt;div class=&#34;weekly_post&#34;&gt;
+  &lt;h1&gt;
+    Content Marketing World 2013 Wrap-Up
+  &lt;/h1&gt;
+  
+  &lt;p&gt;
+    &lt;img style=&#34;margin: 0px 3px -5px 0px;&#34; title=&#34;Devin Harper&#34; alt=&#34;Devin Harper&#34; src=&#34;https://lh3.googleusercontent.com/-5sn_6Mil3Ts/AAAAAAAAAAI/AAAAAAAAAAA/Wa6qAu3yVy4/s42-c-k-no/photo.jpg&#34; width=&#34;26&#34; height=&#34;26&#34; /&gt;by &lt;a title=&#34;Devin Harper&#34; href=&#34;https://plus.google.com/101214517911789596776/posts&#34; target=&#34;_blank&#34;&gt;Devin Harper&lt;/a&gt; (September 5th 2013)
+  &lt;/p&gt;
+  
+  &lt;p lang=&#34;en&#34;&gt;
+    Last week in Cleveland Ohio, a very important meeting for content marketer was live : the &lt;strong&gt;Content Marketing World 2013&lt;/strong&gt;. Devin writes here a very nice review about these three days of event, full with inspiring talks.
+  &lt;/p&gt;
+  
+  &lt;p lang=&#34;en&#34;&gt;
+    &lt;a title=&#34;Content Marketing World 2013 Summary&#34; href=&#34;http://www.searchenginejournal.com/content-marketing-world-2013-wrap/69231/&#34; target=&#34;_blank&#34;&gt;Read the full story &amp;#8230;&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>WordiZ Weekly &amp;#8211; 08/09/2013</title>
+      <link>http://localhost:1313/content-marketing/wordiz-weekly-08092013</link>
+      <pubDate>Sun, 08 Sep 2013 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/content-marketing/wordiz-weekly-08092013</guid>
+      <description>&lt;p&gt;As every Sunday, we&amp;#8217;ll share the articles we enjoyed reading about content marketing, blogging or inbound marketing. If you miss one of them during the week, now you have time to read the most important post of the week. This time we share content creation ideas, explain the difference between content and inbound marketing, give you three reasons why content marketing does better than SEO and finally describe influencer driven content marketing.&lt;/p&gt;
+
+&lt;p&gt;Happy social reading and** be active** and &lt;strong&gt;leave a comment&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;div class=&#34;weekly_post&#34;&gt;
+  &lt;h2&gt;
+    11 Places to Find Awesome Content Marketing Ideas
+  &lt;/h2&gt;
+  
+  &lt;p&gt;
+    &lt;img style=&#34;margin: 0px 3px -5px 0px;&#34; title=&#34;Jayson DeMers&#34; alt=&#34;Jayson DeMers&#34; src=&#34;https://lh5.googleusercontent.com/-9GNQGVJ_2vs/ULzxAlmqXtI/AAAAAAAAAFU/GvWsMqrAMFI/s26-c-OXNijgehRjx4-k-no/photo.jpg&#34; width=&#34;26&#34; height=&#34;26&#34; /&gt;by &lt;a title=&#34;Jayson DeMers&#34; href=&#34;https://plus.google.com/111405518810673118036/posts&#34; target=&#34;_blank&#34;&gt;Jayson DeMers&lt;/a&gt; (September 3rd 2013)
+  &lt;/p&gt;
+  
+  &lt;p lang=&#34;en&#34;&gt;
+    A websites review that can help you to get ideas for your content wirting. This article, Jayson DeMers lists some techniques to facilitate the production of original and interesting texts, from Google to &lt;a title=&#34;Quora&#34; href=&#34;http://quora.com/&#34; target=&#34;_blank&#34;&gt;Quora&lt;/a&gt; via &lt;a title=&#34;Alltop&#34; href=&#34;http://alltop.com/&#34; target=&#34;_blank&#34;&gt;Alltop&lt;/a&gt;&amp;#8230; Helpful and very informative !
+  &lt;/p&gt;
+  
+  &lt;p lang=&#34;en&#34;&gt;
+    &lt;img class=&#34;aligncenter&#34; alt=&#34;Google suggest can help you to get ideas&#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2013/09/google-content-marketing-300x117.png&#34; width=&#34;300&#34; height=&#34;117&#34; /&gt;
+  &lt;/p&gt;
+  
+  &lt;p lang=&#34;en&#34;&gt;
+    &lt;a title=&#34;11 places to find awesome content&#34; href=&#34;http://www.searchenginejournal.com/11-places-find-awesome-content-marketing-ideas/68093/&#34; target=&#34;_blank&#34;&gt;Read the full story &amp;#8230;&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;weekly_post&#34;&gt;
+  &lt;h2&gt;
+    Inbound Marketing vs. Content Marketing: What’s The Difference?
+  &lt;/h2&gt;
+  
+  &lt;p&gt;
+    &lt;img style=&#34;margin: 0px 3px -5px 0px;&#34; title=&#34;Frank Isca&#34; alt=&#34;Frank Isca&#34; src=&#34;https://lh4.googleusercontent.com/-SDyW48kAFp4/AAAAAAAAAAI/AAAAAAAAAAA/Y4EQ8WMVEJE/s42-c-k-no/photo.jpg&#34; width=&#34;26&#34; height=&#34;26&#34; /&gt;by &lt;a title=&#34;Frank Isca&#34; href=&#34;https://plus.google.com/112889048114497282248/posts&#34; target=&#34;_blank&#34;&gt;Frank Isca&lt;/a&gt; (September 5th 2013)
+  &lt;/p&gt;
+  
+  &lt;p lang=&#34;en&#34;&gt;
+    Avoid any confusion now between Inbound Marketing and Content Marketing thanks to Frank who explains the differences between the two. Quote from his text :
+  &lt;/p&gt;
+  
+  &lt;blockquote&gt;
+    &lt;div id=&#34;r1PostCPBlock&#34;&gt;
+      &lt;strong&gt;Inbound Marketing&lt;/strong&gt; (as defined by HubSpot): “Instead of the old outbound marketing methods of buying ads, buying email lists, and praying for leads, inbound marketing focuses on creating quality content that pulls people toward your company and product, where they naturally want to be. By aligning the content you publish with your customer’s interests, you naturally attract inbound traffic that you can then convert, close, and delight over time.”
+    &lt;/div&gt;
+    
+
+&lt;pre&gt;&lt;code&gt;&amp;lt;div&amp;gt;
+  &amp;lt;strong&amp;gt;Content Marketing&amp;lt;/strong&amp;gt; (as defined by Content Marketing Institute): “Content marketing is a marketing technique of creating and distributing relevant and valuable content to attract, acquire, and engage a clearly defined and understood target audience – with the objective of driving profitable customer action.”
+&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;/blockquote&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;div&gt;
+    &lt;a title=&#34;Inbound Marketing vs Content Marketing&#34; href=&#34;http://www.business2community.com/content-marketing/inbound-marketing-vs-content-marketing-whats-difference-0606015&#34; target=&#34;_blank&#34;&gt;Read the full story &amp;#8230;&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
+
+&lt;div class=&#34;weekly_post&#34;&gt;
+  &lt;h2&gt;
+    3 Ways Content Marketing Goes Deeper Than Search Engines
+  &lt;/h2&gt;
+  
+  &lt;p&gt;
+    &lt;img style=&#34;margin: 0px 3px -5px 0px;&#34; title=&#34;Miguel Salcido&#34; alt=&#34;Miguel Salcido&#34; src=&#34;https://lh4.googleusercontent.com/-6eRz-TIY9EY/AAAAAAAAAAI/AAAAAAAAAAA/UsYWdQy4as0/s42-c-k-no/photo.jpg&#34; width=&#34;26&#34; height=&#34;26&#34; /&gt;by &lt;a title=&#34;Miguel Salcido&#34; href=&#34;https://plus.google.com/111804956536431271876/posts&#34; target=&#34;_blank&#34;&gt;Miguel Salcido&lt;/a&gt; (August 28th 2013)
+  &lt;/p&gt;
+  
+  &lt;p lang=&#34;en&#34;&gt;
+    Content Marketing does more than just improving your SEO, it&amp;#8217;s &lt;strong&gt;more than just a marketing strategy&lt;/strong&gt; : it&amp;#8217;s an art. Miguel is the kind of guy who loves his job and here at WordiZ we completely agree with him. In his article he tells us why writing useful pieces of content will help you and your business in various ways.
+  &lt;/p&gt;
+  
+  &lt;p lang=&#34;en&#34;&gt;
+    &lt;img class=&#34;aligncenter&#34; alt=&#34;Content Marketing Loves Words&#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2013/09/love_words.jpg&#34; width=&#34;278&#34; height=&#34;300&#34; /&gt;
+  &lt;/p&gt;
+  
+  &lt;p lang=&#34;en&#34;&gt;
+    &lt;a title=&#34;3 ways content marketing does better than search&#34; href=&#34;http://experts.allbusiness.com/3-ways-content-marketing-goes-deeper-than-search-engines/8044/#&#34; target=&#34;_blank&#34;&gt;Read the full story &amp;#8230;&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;weekly_post&#34;&gt;
+  &lt;h2&gt;
+    Influencer Driven Content Marketing
+  &lt;/h2&gt;
+  
+  &lt;p&gt;
+    &lt;img style=&#34;margin: 0px 3px -5px 0px;&#34; title=&#34;Allison Boyer&#34; alt=&#34;Allison Boyer&#34; src=&#34;https://lh6.googleusercontent.com/--tlO060ryJc/AAAAAAAAAAI/AAAAAAAAAIg/z79fAaXkKhM/s46-c-k-no/photo.jpg&#34; width=&#34;26&#34; height=&#34;26&#34; /&gt;by &lt;a title=&#34;Allison Boyer&#34; href=&#34;https://plus.google.com/u/0/117308861893278169493/posts&#34; target=&#34;_blank&#34;&gt;Allison Boyer&lt;/a&gt; (September 5th 2013)
+  &lt;/p&gt;
+  
+  &lt;p lang=&#34;en&#34;&gt;
+    Influencer is a word that you read more and more often. Allison took the time to analyze a explain the word of Lee Odden about &lt;strong&gt;influencer driven content marketing&lt;/strong&gt;. She gives away three steps to get started as an influencer.
+  &lt;/p&gt;
+  
+  &lt;p lang=&#34;en&#34;&gt;
+    &lt;a title=&#34;Influencer drivent content marketing&#34; href=&#34;http://www.blogworld.com/2013/09/05/influencer-drive-content-marketing-lee-odden-explains-this-powerful-tool-for-businesses/&#34; target=&#34;_blank&#34;&gt;Read the full story &amp;#8230;&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

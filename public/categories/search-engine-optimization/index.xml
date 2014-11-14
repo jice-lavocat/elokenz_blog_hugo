@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Search-Engine-Optimization on Elokenz Blog </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://localhost:1313/categories/search-engine-optimization/index.xml/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Wed, 10 Sep 2014 00:00:00 UTC</updated>
+    
+    <item>
+      <title>Google&#43; URL posting : 4 Facts to optimize SEO and Social Trust</title>
+      <link>http://localhost:1313/search-engine-optimization/google-url-posting-4-facts-optimize-seo-social-trust</link>
+      <pubDate>Wed, 10 Sep 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/search-engine-optimization/google-url-posting-4-facts-optimize-seo-social-trust</guid>
+      <description>
+
+&lt;p&gt;Writing an appealing and interesting** Google+ post** is not the only thing one might know when posting an URL on the social network. In this post I detail several technical facts that you should keep in mind when posting to** increase your SEO and enforce social trust**. You will learn which URL can be indexed from a Google+ post and the impact on your social metrics.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Increase social trust&lt;/h2&gt;
+
+&lt;p&gt;Google+ has become an obvious place to share/post links to increase your online visibility. Many articles are describing &lt;a title=&#34;Perfect G+ post&#34; href=&#34;http://dustn.tv/perfect-post/&#34; target=&#34;_blank&#34;&gt;how to write a good G+ post&lt;/a&gt; and it often boils down to writing a valuable piece of content in your post, with a title, inserting bold text and adding some media together with optional hashtags. Here is a summary from Dustin Stout :&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://dustn.tv/perfect-post/&#34;&gt;&lt;img class=&#34;aligncenter&#34; src=&#34;http://dustn.tv/wp-content/uploads/2013/08/anatomy-of-a-perfect-google-plus-post.jpg?b5580d&#34; alt=&#34;&#34; width=&#34;478&#34; height=&#34;375&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;However, a post on Google+ has external consequences, especially on the number of views, +1, comments and shares your URL will receive. Depending on your inclination, you might believe that these metrics are important or not. I will not argue on that point, and will just give you few takeaways about how to share an URL in different contexts.&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_1&#34;&gt;Sharing an URL and receive a share&lt;/h3&gt;
+
+&lt;p&gt;First things first, I call a (public or private) share an URL that is mentioned on Google Ripples : see our previous articles &amp;#8220;&lt;a title=&#34;Google Shares&#34; href=&#34;http://blog.elokenz.com/content-marketing/google-shares-retrieve&#34; target=&#34;_blank&#34;&gt;What are Google+ Shares and how to retrieve them ?&lt;/a&gt;&amp;#8221; . Google makes the distinction between private and public shares : in the former case, the URL is shared among a restricted number of people while in the latter, the URL is shared publicly (pretty obvious, isn&amp;#8217;t it?).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;To count as a share, you URL needs to appear in the preview snippet bellow your post&lt;/strong&gt;. If you share several URLs, only the one appearing in the preview area will receive a share count. If you share your URL together with a media (image/video) your post will not count as a share for this URL. See the picture below for a summary :&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.elokenz.com/wp-content/uploads/2014/09/google_url_shares.png&#34;&gt;&lt;img class=&#34;aligncenter size-full wp-image-331&#34; src=&#34;http://blog.elokenz.com/wp-content/uploads/2014/09/google_url_shares.png&#34; alt=&#34;How to share URLs via a Google+ Post (via @elokenz)&#34; width=&#34;600&#34; height=&#34;2842&#34; data-wp-pid=&#34;331&#34; /&gt;&lt;/a&gt;Depending on your strategy you might use one of the previous three cases. If your goal is too** share and collect reshares** for a URL you might use the first and second example. Be aware that if you share several links in the same post (example 2), only &lt;strong&gt;the one appearing in the preview snippet&lt;/strong&gt; will receive shares ans reshares.&lt;/p&gt;
+
+&lt;p&gt;If you aim at** &amp;#8216;hiding&amp;#8217; a share&lt;strong&gt;, then you should use the third example.  However, you should realize that you are loosing the potential of virality. In this example,&lt;/strong&gt; Cyrus Shepard lost 23 shares** by posting his link like he did.&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_2&#34;&gt;Don&amp;#8217;t look too spammy&lt;/h3&gt;
+
+&lt;p&gt;You might wonder why people would like to &amp;#8220;hide&amp;#8221; shares. Well, the answer is pretty obvious :** sharing too much is a bit spammy**. I have a concrete example to give you.&lt;/p&gt;
+
+&lt;p&gt;When I post an article on G+, I usually post it on my own stream and then on 2 or 3 targeted communities. To avoid being flagged as a spammer, I usually decide beforehand which location will be more subject to reshares (my own stream or a community). I then post my link only in this place, paying attention that the preview summary got activated. Finally, I post my article to other locations with a picture instead of the URL preview. By doing this I am &amp;#8216;hiding&amp;#8217; the share and I don&amp;#8217;t look like a bad spammer.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.elokenz.com/wp-content/uploads/2014/09/sharing_duplicates.png&#34;&gt;&lt;img class=&#34;aligncenter wp-image-334&#34; src=&#34;http://blog.elokenz.com/wp-content/uploads/2014/09/sharing_duplicates.png&#34; alt=&#34;Cross posting links on Google+ (via @elokenz)&#34; width=&#34;600&#34; height=&#34;382&#34; data-wp-pid=&#34;334&#34; /&gt;&lt;/a&gt;When &amp;#8216;hiding&amp;#8217; the link in the content of your post, your readers still have the possibility to click it and read your post.&lt;/p&gt;
+
+&lt;p&gt;Another good reason to hide shares is when you are using the** Google+ comment box** on your own site. Of course it is not an official widget, but many webmasters are using it in order to increase visibility : whenever someone comments using this box, the comment can be shared directly on the user G+ stream. I am often using it on my blogs to increase the amount of reshares.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.elokenz.com/wp-content/uploads/2014/09/google_plus_comments.png&#34;&gt;&lt;img class=&#34;aligncenter  wp-image-336&#34; src=&#34;http://blog.elokenz.com/wp-content/uploads/2014/09/google_plus_comments.png&#34; alt=&#34;Google+ Comment Box&#34; width=&#34;399&#34; height=&#34;619&#34; data-wp-pid=&#34;336&#34; /&gt;&lt;/a&gt;Though this comment box is one of the best techniques to increase sharing of your articles on Google+, it is really a nightmare for cross posters. Look at what it looks like when the owner is posting on several communities while sharing its link in the preview snippet (click to see the full picture) :&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.elokenz.com/wp-content/uploads/2014/09/spam_comment_gplus.png&#34;&gt;&lt;img class=&#34;aligncenter  wp-image-337&#34; src=&#34;http://blog.elokenz.com/wp-content/uploads/2014/09/spam_comment_gplus-104x300.png&#34; alt=&#34;G+ comment spam (via @elokenz)&#34; width=&#34;135&#34; height=&#34;363&#34; data-wp-pid=&#34;337&#34; /&gt;&lt;/a&gt;Therefore, if you want to** use this comment box&lt;strong&gt;, please, **pay attention to the way you are sharing your links on Google+&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you optimize your posts, you might be able to receive more shares while preventing spammy behavior.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_3&#34;&gt;Increase the SEO effect&lt;/h2&gt;
+
+&lt;p&gt;Alright, so we covered the social aspects of URL sharing on Google+. Let&amp;#8217;s now look at the SEO side. This section is based on experiments I ran in April 2014, thus results might have changed.&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_4&#34;&gt;Link indexation&lt;/h3&gt;
+
+&lt;p&gt;As we just have seen, you can share an URL in a G+ post with a preview or without the preview. Before running my tests I thought that the URLs shared without a preview would not be indexed by Google and that URLs shared with a preview would get indexed.&lt;/p&gt;
+
+&lt;p&gt;I decided to run a test to verify these assumptions. I also wanted to see what was the difference between a private and a public share for the indexation. Four pages were created with random unique content , a valid layout (title, headings) and an image. Each page was containing a unique word like &amp;#8220;apolintruc&amp;#8221;.&lt;/p&gt;
+
+&lt;p&gt;I submitted two of these pages in public posts and two pages in private posts. In each case, I posted one URL with the preview box, and the other URL with an image box and the link in the text of my post. Here are the two public posts I created :&lt;br /&gt;
+&amp;lt;!&amp;ndash; Place this tag where you want the widget to render. &amp;ndash;&amp;gt;&lt;/p&gt;
+
+&lt;div class=&#34;g-post&#34; data-href=&#34;https://plus.google.com/113400244614302404694/posts/Q3sLSsEXiMe&#34;&gt;
+&lt;/div&gt;
+
+&lt;!-- Place this tag where you want the widget to render. --&gt;
+
+&lt;div class=&#34;g-post&#34; data-href=&#34;https://plus.google.com/113400244614302404694/posts/j3J824kMnfV&#34;&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;The final outcome is really not what I expected. Eventually,** the two public posts had their URLs indexed**, while the private ones were not indexed at all, not even the post with the link preview.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.elokenz.com/wp-content/uploads/2014/09/Razominawo.png&#34;&gt;&lt;img class=&#34;aligncenter size-medium wp-image-338&#34; src=&#34;http://blog.elokenz.com/wp-content/uploads/2014/09/Razominawo-300x148.png&#34; alt=&#34;URL shared with a Public Post on G+ are indexed (via @elokenz)&#34; width=&#34;300&#34; height=&#34;148&#34; data-wp-pid=&#34;338&#34; /&gt;&lt;/a&gt;&lt;br /&gt;
+&amp;lt;!&amp;ndash; Place this tag in your head or just before your close body tag. &amp;ndash;&amp;gt;Therefore, if you want to&lt;/p&gt;
+
+&lt;p&gt;** gain some SEO juice, always post links in a public way** ! That might have seemed obvious for some of you, but I have not read it elsewhere before.&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_5&#34;&gt;Some facts about posting a link on G+&lt;/h3&gt;
+
+&lt;p&gt;When posting a link that will appear in the preview box, Google is sending its &amp;#8220;snippetbot&amp;#8221; to retrieve a picture and a summary for your link. So, the first spider you will receive has no real name and looks like this :&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;173.245.54.83 - - [08/Apr/2014:12:11:06 +0200] &amp;quot;GET /test/atraminouita.html HTTP/1.1&amp;quot; 200 1615 &amp;quot;-&amp;quot; &amp;quot;Mozilla/5.0 (Windows NT 6.1; rv:6.0) Gecko/20110814 Firefox/6.0 Google (+https://developers.google.com/+/web/snippet/)&amp;quot;&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;The documention sends you to the &lt;a title=&#34;Web Snipper&#34; href=&#34;https://developers.google.com/+/web/snippet/&#34; target=&#34;_blank&#34;&gt;Snippet documentation&lt;/a&gt; and there not much to say about that except that (of course) you won&amp;#8217;t receive it if your link was not pre loaded in the preview snippet.&lt;/p&gt;
+
+&lt;p&gt;Then , whenever one link is shared in the content of a post, you will receive the visit of an old friend, Google Feedfetcher :&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;173.245.54.83 - - [08/Apr/2014:12:13:22 +0200] &amp;quot;GET /test/atraminouita.html HTTP/1.1&amp;quot; 200 1615 &amp;quot;-&amp;quot; &amp;quot;Mozilla/5.0 (compatible) Feedfetcher-Google;(+http://www.google.com/feedfetcher.html)&amp;quot;&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;This is the real guy who will ignite the indexation of your page. I don&amp;#8217;t really know what triggers the indexation since the &lt;a title=&#34;FeedFetcher&#34; href=&#34;https://support.google.com/webmasters/answer/178852&#34; target=&#34;_blank&#34;&gt;documentation&lt;/a&gt; is rather vague about it, but, the fact is that at some point, GoogleBot came on my pages to index them (it took actually so long, that I could not find it in my logs).&lt;/p&gt;
+
+&lt;p&gt;It&amp;#8217;s interesting to note that &lt;strong&gt;Feedfetcher&lt;/strong&gt; did not disappear with Google Reader !&lt;/p&gt;
+
+&lt;p&gt;A very last note (since this article already passed the 1K words) about G+ Urls. You probably know that Google records the number of views on your profile. Guess what, it also records the number of clicks on the URLs you are posting. Look at this apache log for instance :&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;173.245.56.68 - - [08/Apr/2014:22:45:23 +0200] &amp;quot;GET /test/razominawo.html HTTP/1.1&amp;quot; 200 1799 &amp;quot;http://plus.url.google.com/url?sa=z&amp;amp;n=1396989924414&amp;amp;url=http%3A%2F%2Fwww.graphemeride.com%2Ftest%2Frazominawo.html&amp;amp;usg=DymRAVdehswUyvEh0bzZypqGlOI.&amp;quot; &amp;quot;Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36&amp;quot;&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Here you see the IP of my visitor &lt;em&gt;173.245.56.68&lt;/em&gt; and the referrer &lt;a href=&#34;http://plus.url.google.com/url?sa=z&amp;amp;n=1396989924414&amp;amp;url=http%3A%2F%2Fwww.graphemeride.com%2Ftest%2Frazominawo.html&amp;amp;usg=DymRAVdehswUyvEh0bzZypqGlOI.&#34;&gt;http://plus.url.google.com/url?sa=z&amp;amp;n=1396989924414&amp;amp;url=http%3A%2F%2Fwww.graphemeride.com%2Ftest%2Frazominawo.html&amp;amp;usg=DymRAVdehswUyvEh0bzZypqGlOI.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Interesting parameters :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;n=1396989924414 : the timestamp of the click (in millisecond)&lt;/li&gt;
+&lt;li&gt;url : the url clicked&lt;/li&gt;
+&lt;li&gt;usg : I could not reverse engineer this one, but I would love to see it being the user who clicked.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_6&#34;&gt;Posting wisely&lt;/h2&gt;
+
+&lt;p&gt;Starting from today you can now post in wiser way on Google+ :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;If you want to get more shares, pay attention to the preview snippet and have your link description loaded there.&lt;/li&gt;
+&lt;li&gt;If you want to hide your sharing activities (duplicate posts in time, cross posting) : use a media with your post to prevent the preview snippet to show your URL&lt;/li&gt;
+&lt;li&gt;If you want your Backlinks to count for Google index, post publicly on Google+&lt;/li&gt;
+&lt;li&gt;Finally, since every click counts (and Google records that), post an appealing content together with your link. Your followers will anyway prefer that.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Did I miss something ? Do you have other suggestions ? Please, drop a comment below and engage the discussion &lt;img src=&#34;http://blog.elokenz.com/wp-includes/images/smilies/icon_smile.gif&#34; alt=&#34;:-)&#34; class=&#34;wp-smiley&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>12 MozCon 2014 recaps for those who missed the event</title>
+      <link>http://localhost:1313/search-engine-optimization/12-mozcon2014-recaps</link>
+      <pubDate>Thu, 17 Jul 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/search-engine-optimization/12-mozcon2014-recaps</guid>
+      <description>
+
+&lt;p&gt;I always enjoy the opportunity to attend &lt;a title=&#34;MozCon&#34; href=&#34;http://moz.com/mozcon&#34; target=&#34;_blank&#34;&gt;MozCon&lt;/a&gt; and to hear from some of the leading industry experts in &lt;strong&gt;SEO, social media, content marketing, anaytics&lt;/strong&gt;, and &lt;strong&gt;brand and community building&lt;/strong&gt;. The sessions are always jam packed with actionable tips, insights, and the after hours events provide ample opportunity to meet and network with fellow digital marketers&lt;/p&gt;
+
+&lt;p&gt;MozCon 2014 delivered in full with presentations from* Justin Cutroni, Phil Nottingham, Annie Cushing, Mike Ramsey, Richard Millington, Wil Reynolds* and much more (scroll to the end of the article for the full list). I hope you enjoy reading these recaps as much as I enjoyed writing them!&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_0&#34;&gt;Welcome to MozCon 2014 with Rand Fishkin&lt;/h3&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;div class=&#34;g-post&#34; data-href=&#34;https://plus.google.com/100938619255397146926/posts/jG2JZgZo4mg&#34;&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Circle &lt;a href=&#34;https://plus.google.com/u/0/+RandFishkin&#34; target=&#34;_blank&#34;&gt;+Rand Fishkin&lt;/a&gt; on Google+&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_1&#34;&gt;How to Use Social Science to Build Addictive Communities with Richard Millington&lt;/h3&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;div class=&#34;g-post&#34; data-href=&#34;https://plus.google.com/100938619255397146926/posts/QRbTWVARMSX&#34;&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Circle &lt;a href=&#34;https://plus.google.com/104216451950362476819&#34; target=&#34;_blank&#34;&gt;+Richard Millington&lt;/a&gt; on Google+&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_2&#34;&gt;Local Lessons from Small Town USA with Mike Ramsey&lt;/h3&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;div class=&#34;g-post&#34; data-href=&#34;https://plus.google.com/100938619255397146926/posts/eiSs8sLtwJd&#34;&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Circle &lt;a href=&#34;https://plus.google.com/+MikeRamsey/posts&#34; target=&#34;_blank&#34;&gt;+Mike Ramsey&lt;/a&gt; on Google+&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_3&#34;&gt;Top 10 PR Tactics and Strategies of Successful Content and Link Building with Lexi Mills&lt;/h3&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;div class=&#34;g-post&#34; data-href=&#34;https://plus.google.com/100938619255397146926/posts/WAG9REYnvnC&#34;&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Circle &lt;a href=&#34;https://plus.google.com/+LexiMills/&#34; target=&#34;_blank&#34;&gt;+Lexi Mills&lt;/a&gt; on Google+&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_4&#34;&gt;YouTube: The Most Important Search Engine You Haven&amp;#8217;t Optimized For with Phil Nottingham&lt;/h3&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;div class=&#34;g-post&#34; data-href=&#34;https://plus.google.com/100938619255397146926/posts/eJBPigX6Kb9&#34;&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Circle &lt;a href=&#34;https://plus.google.com/u/0/+PhilNottingham/posts&#34; target=&#34;_blank&#34;&gt;+Phil Nottingham&lt;/a&gt; on Google+&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_5&#34;&gt;Supercharging Your Digital Analytics! with Justin Cutroni&lt;/h3&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;div class=&#34;g-post&#34; data-href=&#34;https://plus.google.com/100938619255397146926/posts/VXVe1XgVwvQ&#34;&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Circle &lt;a href=&#34;https://plus.google.com/u/0/+justincutroni/&#34; target=&#34;_blank&#34;&gt;+Justin Cutroni&lt;/a&gt; on Google+&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_6&#34;&gt;How to Never Run Out of Great Ideas with Pete Meyers&lt;/h3&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;div class=&#34;g-post&#34; data-href=&#34;https://plus.google.com/100938619255397146926/posts/CRTVG2V5Nd6&#34;&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Circle &lt;a href=&#34;https://plus.google.com/u/0/+PeteMeyers/posts&#34; target=&#34;_blank&#34;&gt;+Pete Meyers&lt;/a&gt; on Google+&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_7&#34;&gt;Google+ Game of Thrones: Claiming Your Kingdom for Brand Dominance with Mark Traphagen&lt;/h3&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;div class=&#34;g-post&#34; data-href=&#34;https://plus.google.com/100938619255397146926/posts/YBXMdyEDjae&#34;&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Circle &lt;a href=&#34;https://plus.google.com/u/0/+MarkTraphagen/posts&#34; target=&#34;_blank&#34;&gt;+Mark Traphagen&lt;/a&gt; on Google+&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_8&#34;&gt;MozCon 2014: A Mozzy View with Sarah Bird and John Cook&lt;/h3&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;div class=&#34;g-post&#34; data-href=&#34;https://plus.google.com/100938619255397146926/posts/7uuYwqq1XMW&#34;&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Circle &lt;a href=&#34;https://plus.google.com/110973530370769824942/posts&#34; target=&#34;_blank&#34;&gt;+Sarah Bird&lt;/a&gt; and &lt;a href=&#34;https://plus.google.com/+JohnCookGeekWire/posts&#34; target=&#34;_blank&#34;&gt;+John Cook&lt;/a&gt; on Google+&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_9&#34;&gt;Demystifying Data Visualization for Marketers with Annie Cushing&lt;/h3&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;div class=&#34;g-post&#34; data-href=&#34;https://plus.google.com/100938619255397146926/posts/LEh7QA3231j&#34;&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Circle &lt;a href=&#34;https://plus.google.com/+AnnieCushing/posts&#34; target=&#34;_blank&#34;&gt;+Annie Cushing&lt;/a&gt; on Google+&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_10&#34;&gt;The Psychology of Persuasive Content for &amp;#8220;Boring&amp;#8221; Industries with Nathalie Nahai&lt;/h3&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;div class=&#34;g-post&#34; data-href=&#34;https://plus.google.com/100938619255397146926/posts/gZSa2Evjj2J&#34;&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Circle &lt;a href=&#34;https://plus.google.com/+NathalieNahai/posts&#34; target=&#34;_blank&#34;&gt;+Nathalie Nahai&lt;/a&gt; on Google+&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_11&#34;&gt;Mad Science Experiments in SEO &amp;amp; Social Media with Rand Fishkin&lt;/h3&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;div class=&#34;g-post&#34; data-href=&#34;https://plus.google.com/100938619255397146926/posts/a3rryKC97Hy&#34;&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Circle &lt;a href=&#34;https://plus.google.com/u/0/+RandFishkin&#34; target=&#34;_blank&#34;&gt;+Rand Fishkin&lt;/a&gt; on Google+&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_12&#34;&gt;The other recaps&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a title=&#34;Mobiles SEO Geekout&#34; href=&#34;https://plus.google.com/100938619255397146926/posts/GKcpqy2iuNn&#34; target=&#34;_blank&#34;&gt;Mobile SEO Geekout: Key Strategies and Concepts&lt;/a&gt; with &lt;a href=&#34;https://plus.google.com/u/0/115965793837898995983/posts&#34; target=&#34;_blank&#34;&gt;+Cindy Krum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&#34;Broken Brand Promises: The Disconnect Between Marketing and Customer Experience&#34; href=&#34;https://plus.google.com/100938619255397146926/posts/aE54yAr2tMW&#34; target=&#34;_blank&#34;&gt;Broken Brand Promises: The Disconnect Between Marketing and Customer Experience &lt;/a&gt; with &lt;a href=&#34;https://plus.google.com/116184221185887676994/posts&#34; target=&#34;_blank&#34;&gt;+Kerry Bodine&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&#34; Improve Your SEO by Mastering These Core Principles &#34; href=&#34;https://plus.google.com/100938619255397146926/posts/F2hm3BZaBuZ&#34; target=&#34;_blank&#34;&gt;Improve Your SEO by Mastering These Core Principles&lt;/a&gt; with &lt;a href=&#34;https://plus.google.com/+LindsayWassell/posts&#34; target=&#34;_blank&#34;&gt;+Lindsay Wassell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&#34;Architecting Great Experiments&#34; href=&#34;https://plus.google.com/100938619255397146926/posts/YmVxHR4iFEa&#34; target=&#34;_blank&#34;&gt;Architecting Great Experiments&lt;/a&gt; with &lt;a href=&#34;https://plus.google.com/+KyleRush/posts&#34; target=&#34;_blank&#34;&gt;+Kyle Rush&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&#34;Scaling Creativity: Making Content Marketing More Efficient&#34; href=&#34;https://plus.google.com/100938619255397146926/posts/6xJxGedJxjZ&#34; target=&#34;_blank&#34;&gt;Scaling Creativity: Making Content Marketing More Efficient&lt;/a&gt; with &lt;a href=&#34;https://plus.google.com/+StaceyCavanagh/posts&#34; target=&#34;_blank&#34;&gt;+Stacey Cavanagh&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&#34;Localizing your international content&#34; href=&#34;https://plus.google.com/100938619255397146926/posts/Y2KzG93DEUC&#34; target=&#34;_blank&#34;&gt;Localizing your international content&lt;/a&gt; with &lt;a href=&#34;https://plus.google.com/+ZephSnapp13/posts&#34; target=&#34;_blank&#34;&gt;+Zeph Snapp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&#34;Taking about conversational search&#34; href=&#34;https://plus.google.com/100938619255397146926/posts/4p2AzGJjEUS&#34; target=&#34;_blank&#34;&gt;Taking about conversational search&lt;/a&gt; with &lt;a class=&#34;g-profile&#34; href=&#34;https://plus.google.com/+JustinBriggs/posts&#34; target=&#34;_blank&#34; data-gapiattached=&#34;true&#34; data-onload=&#34;true&#34; data-gapiscan=&#34;true&#34;&gt;+Justin Briggs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&#34;Keep the Focus on the Doughnuts&#34; href=&#34;https://plus.google.com/100938619255397146926/posts/hjaEdxXapAo&#34; target=&#34;_blank&#34;&gt;Keep the Focus on the Doughnuts&lt;/a&gt; with &lt;a class=&#34;g-profile&#34; href=&#34;https://plus.google.com/+MarshallSimmonds/posts&#34; target=&#34;_blank&#34; data-gapiattached=&#34;true&#34; data-onload=&#34;true&#34; data-gapiscan=&#34;true&#34;&gt;+Marshall Simmonds&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&#34;Dare to Fail: How the Best Lessons Come in the Form of Defeat&#34; href=&#34;https://plus.google.com/100938619255397146926/posts/T9BHuCP1cA5&#34; target=&#34;_blank&#34;&gt;Dare to Fail: How the Best Lessons Come in the Form of Defeat&lt;/a&gt; with &lt;a class=&#34;g-profile&#34; href=&#34;https://plus.google.com/113576564010545610491&#34; target=&#34;_blank&#34; data-gapiattached=&#34;true&#34; data-onload=&#34;true&#34; data-gapiscan=&#34;true&#34;&gt;+Jeremy Bloom&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&#34;You Are so Much More than an SEO&#34; href=&#34;https://plus.google.com/100938619255397146926/posts/XypDm1aRFPd&#34; target=&#34;_blank&#34;&gt;You Are so Much More than an SEO&lt;/a&gt; with &lt;a class=&#34;g-profile&#34; href=&#34;https://plus.google.com/+WilReynolds1/posts&#34; target=&#34;_blank&#34; data-gapiattached=&#34;true&#34; data-onload=&#34;true&#34; data-gapiscan=&#34;true&#34;&gt;+Wil Reynolds&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&#34;Beyond SEO - Tactics for Delivering an Integrated Marketing &#34; href=&#34;https://plus.google.com/100938619255397146926/posts/MqZ4HZtJCKB&#34; target=&#34;_blank&#34;&gt;Beyond SEO &amp;#8211; Tactics for Delivering an Integrated Marketing &lt;/a&gt; with &lt;a class=&#34;g-profile&#34; href=&#34;https://plus.google.com/104334957300160196129/posts&#34; target=&#34;_blank&#34; data-gapiattached=&#34;true&#34; data-onload=&#34;true&#34; data-gapiscan=&#34;true&#34;&gt;+Paddy Moogan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&#34;Developing Your Own Great Interactive Content - What You&#39;ll Need to Know&#34; href=&#34;https://plus.google.com/100938619255397146926/posts/QEfTVBib4Wj&#34; target=&#34;_blank&#34;&gt;Developing Your Own Great Interactive Content &amp;#8211; What You&amp;#8217;ll Need to Know&lt;/a&gt; with &lt;a class=&#34;g-profile&#34; href=&#34;https://plus.google.com/+RichardBaxterSEO/posts&#34; target=&#34;_blank&#34; data-gapiattached=&#34;true&#34; data-onload=&#34;true&#34; data-gapiscan=&#34;true&#34;&gt;+Richard Baxter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&#34;Prove Your Value&#34; href=&#34;https://plus.google.com/100938619255397146926/posts/KbW2F9YZBLG&#34; target=&#34;_blank&#34;&gt;Prove Your Value&lt;/a&gt; with &lt;a class=&#34;g-profile&#34; href=&#34;https://plus.google.com/+DanaDiTomaso/posts&#34; target=&#34;_blank&#34; data-gapiattached=&#34;true&#34; data-onload=&#34;true&#34; data-gapiscan=&#34;true&#34;&gt;+Dana DiTomaso&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;toc_13&#34;&gt;All the speakers in one circle&lt;/h2&gt;
+
+&lt;p&gt;If you want to follow all the speakers from MozCon 2014, you can circle these people :&lt;/p&gt;
+
+&lt;div class=&#34;g-post&#34; data-href=&#34;https://plus.google.com/113400244614302404694/posts/13aAGs3kwFX&#34;&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Google Trends unveils the power of Google Knowledge Graph</title>
+      <link>http://localhost:1313/search-engine-optimization/google-trends-unveils-power-google-knowledge-graph</link>
+      <pubDate>Tue, 17 Jun 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/search-engine-optimization/google-trends-unveils-power-google-knowledge-graph</guid>
+      <description>
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  This article has initially been &lt;a title=&#34;Google Trends dévoile la puissance de Google Knowledge Graph&#34; href=&#34;http://www.graphemeride.com/blog/google-trends-leve-voile-sur-puissance-de-google-knowledge-graph&#34; target=&#34;_blank&#34;&gt;written in French&lt;/a&gt; to explain how Google Trends was receiving more and more advanced semantic features. It&amp;#8217;s never easy to translate, so I will try my best to adapt my original copy to English.
+&lt;/p&gt;
+
+&lt;h2 style=&#34;text-align: justify;&#34;&gt;
+  Google is semantic and will be even more
+&lt;/h2&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;img class=&#34;alignleft&#34; title=&#34;David Amerland&#34; src=&#34;http://www.graphemeride.com/sites/graphemeride.com/files/images/blog/semantic/amerland.jpg&#34; alt=&#34;David Amerland&#34; width=&#34;46&#34; height=&#34;46&#34; /&gt;In 2014, the advantage is that we don&amp;#8217;t need to ask whether &lt;strong&gt;the web of the future will be semantic &lt;/strong&gt;or not. Google answered brilliantly with its &lt;a title=&#34;David Amerland&#39;s Google’s Hummingbird Deepens Semantic Search Results &#34; href=&#34;http://davidamerland.com/seo-tips/925-google-hummingbird-deepens-semantic-search-results.html&#34; target=&#34;_blank&#34;&gt;Hummingbird algorithm&lt;/a&gt; which has greatly enriched the search results. In addition to a better understanding of the users queries, Google can now often answer directly to questions by displaying the answer on top of the SERP (not really cool for webmasters&amp;#8230; but I will come back to this at the end of the post). To catch the whole picture, I strongly advice you to buy &lt;a title=&#34;David Amerland&#34; href=&#34;http://davidamerland.com/&#34; target=&#34;_blank&#34;&gt;David Amerland&lt;/a&gt;&amp;#8216;s book on the topic (you can also &lt;a title=&#34;David Amerland on Google+&#34; href=&#34;https://plus.google.com/+DavidAmerland&#34; target=&#34;_blank&#34;&gt;follow David on Google+&lt;/a&gt;) :
+&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  If you don&amp;#8217;t know what this update / algorithm is about, here is a quick summary. With Hummingbird, Google is now able to better understand natural language and questions you may ask directly. It has a restricted source of trusted resources (like &lt;a title=&#34;Wikipedia&#34; href=&#34;http://www.wikipedia.org/&#34; target=&#34;_blank&#34;&gt;Wikipedia&lt;/a&gt; or the &lt;a title=&#34;USDA&#34; href=&#34;http://www.usda.gov/wps/portal/usda/usdahome&#34; target=&#34;_blank&#34;&gt;USDA&lt;/a&gt; for instance) from where it can extract answers for you. Here is an example of one such answer :
+&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.elokenz.com/wp-content/uploads/2014/06/how_old_is_president.png&#34;&gt;&lt;img class=&#34;aligncenter size-large wp-image-190&#34; src=&#34;http://blog.elokenz.com/wp-content/uploads/2014/06/how_old_is_president-1024x477.png&#34; alt=&#34;How old is the president ?&#34; width=&#34;590&#34; height=&#34;274&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  This &amp;#8216;answering machine&amp;#8217; is obviously smarter when you ask questions in English, but a lot of answers are also given in other languages (I can tell you that basic questions about people are answered in French too).
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  When the request is not a question, it is also frequent to receive a lot of meaningful data (often that will occur when you type the race of an animal or a plant, a monument or some famous people name). On the following example you can see that the nutritive values from mussels are displayed and extracted from the &lt;a title=&#34;USDA&#34; href=&#34;http://www.usda.gov/wps/portal/usda/usdahome&#34; target=&#34;_blank&#34;&gt;USDA&lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;a href=&#34;http://blog.elokenz.com/wp-content/uploads/2014/06/google_semantic_mussels.png&#34;&gt;&lt;img class=&#34;aligncenter size-full wp-image-191&#34; src=&#34;http://blog.elokenz.com/wp-content/uploads/2014/06/google_semantic_mussels.png&#34; alt=&#34;Google Semantic Mussels&#34; width=&#34;940&#34; height=&#34;837&#34; /&gt;&lt;/a&gt;I am not going to explain any further because it has already been described a lot &lt;a title=&#34;Hummingbird described&#34; href=&#34;http://www.steamfeed.com/google-hummingbird-mean-future-seo/&#34; target=&#34;_blank&#34;&gt;elsewhere&lt;/a&gt; and you probably have already see it by yourself. The main question that remain unsolved now is :&lt;strong&gt; is there any reward for knowledge-oriented  websites if Google answer questions in place of them&lt;/strong&gt;? Should webmasters keep publishing websites that bring common knowledge to people or is it a waste of efforts? If you want to give your opinion, please use the comment form below. My point of view is quiet extreme, I think that this update will probably kill the smallest content producers : their website will attract less interest over time since answers are given directly by Google.
+&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Named entites coming from Freebase&lt;/h2&gt;
+
+&lt;p&gt;Answers from Google are generated via a system called &lt;a title=&#34;Knowledge graph&#34; href=&#34;http://en.wikipedia.org/wiki/Knowledge_Graph&#34; target=&#34;_blank&#34;&gt;Google Knowledge Graph&lt;/a&gt; which is heavily linked to the &lt;a title=&#34;Freebase&#34; href=&#34;http://www.freebase.com/&#34; target=&#34;_blank&#34;&gt;Freebase platform&lt;/a&gt;. Freebase is a kind of data base where knowledge about things are saved as &lt;strong&gt;named entities&lt;/strong&gt;. Several entities can carry the same name and convey different meaning (homonyms). For instance, in France, the word &amp;#8220;Hollande&amp;#8221; is used to express either the current President (&lt;a title=&#34;François Hollande&#34; href=&#34;http://francoishollande.fr&#34; target=&#34;_blank&#34;&gt;François Hollande&lt;/a&gt;) or the country Holland. Thanks to Freebase, it is possible to find homonyms by looking up a term : the different named entities will be displayed in the auto-completed form.  To give you another example, the expression &amp;#8220;La vie en rose&amp;#8221; gave me a surprising list. I only knew about the famous song from Piaf, but look &lt;a title=&#34;Freebase - La vie en rose&#34; href=&#34;http://www.freebase.com/search?query=la+vie+en+rose&amp;lang=en&amp;any=%2Fcommon%2Ftopic&amp;scoring=entity&amp;prefixed=true&#34; target=&#34;_blank&#34;&gt;what I found&lt;/a&gt; :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The original song from Piaf&lt;/li&gt;
+&lt;li&gt;A biographical film about Edith Piaf&lt;/li&gt;
+&lt;li&gt;A lingerie retailer&lt;/li&gt;
+&lt;li&gt;&amp;#8230; many other versions of the song by diverse singers&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;img title=&#34;Les différentes versions de &amp;quot;la vie en rose&amp;quot;&#34; src=&#34;http://www.graphemeride.com/sites/graphemeride.com/files/images/blog/semantic/freebase_piaf.png&#34; alt=&#34;Les différentes versions de &amp;quot;la vie en rose&amp;quot;&#34; width=&#34;600&#34; height=&#34;757&#34; /&gt; Alright, so none of this is new, let&amp;#8217;s move on to the real core of this article : Google Trends.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Google Trends reveals Google knowledge&amp;#8217;s functionnalities&lt;/h2&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Google Trends is a very useful tool to discover search volumes associated to given keywords. You can for instance compare the crowd interest for &amp;#8220;Hollande&amp;#8221; versus &amp;#8220;Sarkozy&amp;#8221; and see the time evolution. For that, you will use the followingg URL : &lt;a title=&#34;Google Trends&#34; href=&#34;https://www.google.com/trends/explore&#34; target=&#34;_blank&#34;&gt;https://www.google.com/trends/explore&lt;/a&gt; .
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img title=&#34;Sarkozy versu Holland&#34; src=&#34;http://www.graphemeride.com/sites/graphemeride.com/files/images/blog/semantic/sarko_vs_holland.png&#34; alt=&#34;Sarkozy versu Holland&#34; width=&#34;600&#34; height=&#34;390&#34; /&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  The tool is really useful to discover (guess what&amp;#8230;)&lt;strong&gt; trends&lt;/strong&gt; in time. You can also track down which countries show more interest for a topic. Until now, nothing is new for most webmarketers. But what was really disruptive at the time of the original post (March 12th 2014) is that &lt;strong&gt;Google Trends is now linked to the Knowledge Graph and Freebase&lt;/strong&gt;. This relationship is really more visible on Trends than on the classical search. For instance, you can come across related searches for the query &amp;#8216;&lt;a title=&#34;François Hollande sur Trends&#34; href=&#34;https://www.google.com/trends/explore#q=%2Fm%2F02qg4z&amp;cmpt=q&#34; target=&#34;_blank&#34;&gt;François Hollande&lt;/a&gt;&amp;#8216;.&lt;br /&gt; As Trends offers the possibility to embed the code, I&amp;#8217;m trying it below so you don&amp;#8217;t have to visit Trends at all :
+&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;If you have hovered over the previous link  (&lt;a href=&#34;https://www.google.com/trends/explore#q=%2Fm%2F02qg4z&#34;&gt;https://www.google.com/trends/explore#q=%2Fm%2F02qg4z&lt;/a&gt;) you might have noticed that it does not contain the keyword &amp;#8220;François Hollande&amp;#8221; but a strange string &amp;#8220;&lt;strong&gt;%2Fm%2F02qg4z&lt;/strong&gt;&amp;#8221; which is the HTML equivalent of &amp;#8220;&lt;strong&gt;/m/02qg4z&lt;/strong&gt;&amp;#8220;. Curious isn&amp;#8217;t it ? Not really, for those of you who took the time to visit Freebase, you might have recognize the syntax used for named entitites. For instance, here is the page about Hollande on Freebase : &lt;a title=&#34;François Hollande sur Freebase&#34; href=&#34;http://www.freebase.com/m/02qg4z&#34; target=&#34;_blank&#34;&gt;&lt;a href=&#34;http://www.freebase.com/m/02qg4z&#34;&gt;http://www.freebase.com/m/02qg4z&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt; There is a lot of data about Holland on Freebase, you can find his previous wife (Ségolène Royal) and partener (Valérie Trierweiler) , but nothing about this &amp;#8220;Julie Gayet&amp;#8221;. So why is Google Trends showing us her name here ? Well, here is the innovation :** Google Trends is able to discover the link between two named entities** ! Of course, it uses frequent searches and is able to discover that at some point of time the queries &amp;#8220;Holland&amp;#8221; and &amp;#8220;Gayet&amp;#8221; were often used in combination. But is also added a semantic layer and decided that these terms were related to the French politics scene.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;(Note : Julie Gayet was famous few month ago when &amp;#8216;Closer&amp;#8217; a gossip magazine made public that Holland had an affair with the actress Julie Gayet during his 2nd year of presidential term).&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Trends can now differentiate two homonyms with distinct topics. Remember the &amp;#8216;La vie en Rose&amp;#8217; example ? It is now easy to differentiate the different meanings and to display the search evolution of each distinct term in function of a semantic context :&lt;/p&gt;
+
+&lt;p&gt;&lt;img title=&#34;La vie en rose, oui, mais laquelle ?&#34; src=&#34;http://www.graphemeride.com/sites/graphemeride.com/files/images/blog/semantic/lavieenrose_trends.png&#34; alt=&#34;La vie en rose, oui, mais laquelle ?&#34; width=&#34;600&#34; height=&#34;392&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I guess that this example is not the clearest, and that here it might be difficult to decorrelate most of the queries, but it&amp;#8217;s clear that people started to ask Google about the movie in 2007.&lt;/p&gt;
+
+&lt;p&gt;The most striking feature of Trends/Knowledge comes from terms disambiguation.  Try it on various keywords you know have homonyms. Whereas on Freebase you will have a very detailled list of homonyms, Trends only keep the most important ones.&lt;/p&gt;
+
+&lt;p&gt;&lt;img title=&#34;Différents sens&#34; src=&#34;http://www.graphemeride.com/sites/graphemeride.com/files/images/blog/semantic/la_vie_en_rose_term_disambiguition.png&#34; alt=&#34;Différents sens&#34; width=&#34;500&#34; height=&#34;211&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Hum &amp;#8230; a last bonus for those of you who are coding. Information about these named entities are openly transferred from Google to your browser. So with 3 or 4 lines of code you can fetch the suggestions that appear on the previous picture. Here is for instance what was exchanged :&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;{&amp;#8220;entityList&amp;#8221;:[{&amp;ldquo;mid&amp;rdquo;:&amp;ldquo;/m/02q6gfp&amp;rdquo;,&amp;ldquo;title&amp;rdquo;:&amp;ldquo;La Vie en Rose&amp;rdquo;,&amp;ldquo;type&amp;rdquo;:&amp;ldquo;2007 Film&amp;rdquo;},{&amp;ldquo;mid&amp;rdquo;:&amp;ldquo;/m/0b7vwz&amp;rdquo;,&amp;ldquo;title&amp;rdquo;:&amp;ldquo;La Vie en rose&amp;rdquo;,&amp;ldquo;type&amp;rdquo;:&amp;ldquo;Song&amp;rdquo;},{&amp;ldquo;mid&amp;rdquo;:&amp;ldquo;/m/01wdzm_&amp;ldquo;,&amp;ldquo;title&amp;rdquo;:&amp;ldquo;Édith Piaf&amp;rdquo;,&amp;ldquo;type&amp;rdquo;:&amp;ldquo;Singer&amp;rdquo;},{&amp;ldquo;mid&amp;rdquo;:&amp;ldquo;/m/0h95zw7&amp;rdquo;,&amp;ldquo;title&amp;rdquo;:&amp;ldquo;La Vie en Rose&amp;rdquo;,&amp;ldquo;type&amp;rdquo;:&amp;ldquo;Retail company&amp;rdquo;}]}&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;So, coders can quickly create a tool to gather a lot of information about Edith Piaf for instance.&lt;/p&gt;
+
+&lt;h2 style=&#34;text-align: justify;&#34;&gt;
+  Is the new semantic Google the end of SEO ?
+&lt;/h2&gt;
+
+&lt;p&gt;With the Hummingbird&amp;#8217;s update, content editor will face more and more troubles. If answers are directly offered by Google, users will not need to visit your site anymore. It&amp;#8217;s easy to bet that it will become harder and harder for knowledge based website to survive.&lt;/p&gt;
+
+&lt;p&gt;And even if you manage to survive, be aware that you now &lt;a title=&#34;Google discovers the Truth&#34; href=&#34;http://davidamerland.com/seo-tips/936-how-google-will-know-if-you-re-lying.html&#34; target=&#34;_blank&#34;&gt;need to tell the truth to your readers&lt;/a&gt; &amp;#8230;&lt;/p&gt;
+
+&lt;p&gt;Search Engine Optimization might be dying, but for sure &lt;strong&gt;Semantic Engine Optimization&lt;/strong&gt; is on the rise !&lt;/p&gt;
+
+&lt;p&gt;&lt;img style=&#34;width: 32px; height: 32px; float: left; margin-right: 10px;&#34; src=&#34;https://lh6.googleusercontent.com/-6WgymaDs7Kw/AAAAAAAAAAI/AAAAAAAAA9Y/gUtqjwb1nlc/s46-c-k-no/photo.jpg&#34; alt=&#34;&#34; /&gt;If you want to adapt this article to your own langugage and publish it somewhere, I strongly support that. Send me an email or post a comment here when it&amp;#8217;s published and I&amp;#8217;ll add the link here.&lt;/p&gt;
+
+&lt;!-- Place this tag in your head or just before your close body tag. --&gt;
+
+&lt;!-- Place this tag where you want the widget to render. --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

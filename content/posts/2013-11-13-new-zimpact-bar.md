@@ -3,7 +3,8 @@ title: New ZImpact bar
 author: Jean-Christophe Lavocat
 layout: post
 date: 2013-11-13
-permalink: /features/new-zimpact-bar
+thumbnail: /wp-content/uploads/2013/11/new_zimpact_bar.png
+url: /features/new-zimpact-bar
 snapEdIT:
   - 1
 dsq_thread_id:

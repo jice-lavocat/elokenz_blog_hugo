@@ -3,7 +3,8 @@ title: Welcome to WordiZ
 author: Jean-Christophe Lavocat
 layout: post
 date: 2013-08-16
-permalink: /authorship/welcome-to-wordiz
+thumbnail: /wp-content/uploads/2013/08/wordiz_logo_300px1.png
+url: /authorship/welcome-to-wordiz
 snapEdIT:
   - 1
 dsq_thread_id:

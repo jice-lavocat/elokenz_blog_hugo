@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Trends on Elokenz Blog </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://localhost:1313/tags/trends/index.xml/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Tue, 17 Jun 2014 00:00:00 UTC</updated>
+    
+    <item>
+      <title>Google Trends unveils the power of Google Knowledge Graph</title>
+      <link>http://localhost:1313/search-engine-optimization/google-trends-unveils-power-google-knowledge-graph</link>
+      <pubDate>Tue, 17 Jun 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/search-engine-optimization/google-trends-unveils-power-google-knowledge-graph</guid>
+      <description>
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  This article has initially been &lt;a title=&#34;Google Trends dévoile la puissance de Google Knowledge Graph&#34; href=&#34;http://www.graphemeride.com/blog/google-trends-leve-voile-sur-puissance-de-google-knowledge-graph&#34; target=&#34;_blank&#34;&gt;written in French&lt;/a&gt; to explain how Google Trends was receiving more and more advanced semantic features. It&amp;#8217;s never easy to translate, so I will try my best to adapt my original copy to English.
+&lt;/p&gt;
+
+&lt;h2 style=&#34;text-align: justify;&#34;&gt;
+  Google is semantic and will be even more
+&lt;/h2&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;img class=&#34;alignleft&#34; title=&#34;David Amerland&#34; src=&#34;http://www.graphemeride.com/sites/graphemeride.com/files/images/blog/semantic/amerland.jpg&#34; alt=&#34;David Amerland&#34; width=&#34;46&#34; height=&#34;46&#34; /&gt;In 2014, the advantage is that we don&amp;#8217;t need to ask whether &lt;strong&gt;the web of the future will be semantic &lt;/strong&gt;or not. Google answered brilliantly with its &lt;a title=&#34;David Amerland&#39;s Google’s Hummingbird Deepens Semantic Search Results &#34; href=&#34;http://davidamerland.com/seo-tips/925-google-hummingbird-deepens-semantic-search-results.html&#34; target=&#34;_blank&#34;&gt;Hummingbird algorithm&lt;/a&gt; which has greatly enriched the search results. In addition to a better understanding of the users queries, Google can now often answer directly to questions by displaying the answer on top of the SERP (not really cool for webmasters&amp;#8230; but I will come back to this at the end of the post). To catch the whole picture, I strongly advice you to buy &lt;a title=&#34;David Amerland&#34; href=&#34;http://davidamerland.com/&#34; target=&#34;_blank&#34;&gt;David Amerland&lt;/a&gt;&amp;#8216;s book on the topic (you can also &lt;a title=&#34;David Amerland on Google+&#34; href=&#34;https://plus.google.com/+DavidAmerland&#34; target=&#34;_blank&#34;&gt;follow David on Google+&lt;/a&gt;) :
+&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  If you don&amp;#8217;t know what this update / algorithm is about, here is a quick summary. With Hummingbird, Google is now able to better understand natural language and questions you may ask directly. It has a restricted source of trusted resources (like &lt;a title=&#34;Wikipedia&#34; href=&#34;http://www.wikipedia.org/&#34; target=&#34;_blank&#34;&gt;Wikipedia&lt;/a&gt; or the &lt;a title=&#34;USDA&#34; href=&#34;http://www.usda.gov/wps/portal/usda/usdahome&#34; target=&#34;_blank&#34;&gt;USDA&lt;/a&gt; for instance) from where it can extract answers for you. Here is an example of one such answer :
+&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.elokenz.com/wp-content/uploads/2014/06/how_old_is_president.png&#34;&gt;&lt;img class=&#34;aligncenter size-large wp-image-190&#34; src=&#34;http://blog.elokenz.com/wp-content/uploads/2014/06/how_old_is_president-1024x477.png&#34; alt=&#34;How old is the president ?&#34; width=&#34;590&#34; height=&#34;274&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  This &amp;#8216;answering machine&amp;#8217; is obviously smarter when you ask questions in English, but a lot of answers are also given in other languages (I can tell you that basic questions about people are answered in French too).
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  When the request is not a question, it is also frequent to receive a lot of meaningful data (often that will occur when you type the race of an animal or a plant, a monument or some famous people name). On the following example you can see that the nutritive values from mussels are displayed and extracted from the &lt;a title=&#34;USDA&#34; href=&#34;http://www.usda.gov/wps/portal/usda/usdahome&#34; target=&#34;_blank&#34;&gt;USDA&lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  &lt;a href=&#34;http://blog.elokenz.com/wp-content/uploads/2014/06/google_semantic_mussels.png&#34;&gt;&lt;img class=&#34;aligncenter size-full wp-image-191&#34; src=&#34;http://blog.elokenz.com/wp-content/uploads/2014/06/google_semantic_mussels.png&#34; alt=&#34;Google Semantic Mussels&#34; width=&#34;940&#34; height=&#34;837&#34; /&gt;&lt;/a&gt;I am not going to explain any further because it has already been described a lot &lt;a title=&#34;Hummingbird described&#34; href=&#34;http://www.steamfeed.com/google-hummingbird-mean-future-seo/&#34; target=&#34;_blank&#34;&gt;elsewhere&lt;/a&gt; and you probably have already see it by yourself. The main question that remain unsolved now is :&lt;strong&gt; is there any reward for knowledge-oriented  websites if Google answer questions in place of them&lt;/strong&gt;? Should webmasters keep publishing websites that bring common knowledge to people or is it a waste of efforts? If you want to give your opinion, please use the comment form below. My point of view is quiet extreme, I think that this update will probably kill the smallest content producers : their website will attract less interest over time since answers are given directly by Google.
+&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Named entites coming from Freebase&lt;/h2&gt;
+
+&lt;p&gt;Answers from Google are generated via a system called &lt;a title=&#34;Knowledge graph&#34; href=&#34;http://en.wikipedia.org/wiki/Knowledge_Graph&#34; target=&#34;_blank&#34;&gt;Google Knowledge Graph&lt;/a&gt; which is heavily linked to the &lt;a title=&#34;Freebase&#34; href=&#34;http://www.freebase.com/&#34; target=&#34;_blank&#34;&gt;Freebase platform&lt;/a&gt;. Freebase is a kind of data base where knowledge about things are saved as &lt;strong&gt;named entities&lt;/strong&gt;. Several entities can carry the same name and convey different meaning (homonyms). For instance, in France, the word &amp;#8220;Hollande&amp;#8221; is used to express either the current President (&lt;a title=&#34;François Hollande&#34; href=&#34;http://francoishollande.fr&#34; target=&#34;_blank&#34;&gt;François Hollande&lt;/a&gt;) or the country Holland. Thanks to Freebase, it is possible to find homonyms by looking up a term : the different named entities will be displayed in the auto-completed form.  To give you another example, the expression &amp;#8220;La vie en rose&amp;#8221; gave me a surprising list. I only knew about the famous song from Piaf, but look &lt;a title=&#34;Freebase - La vie en rose&#34; href=&#34;http://www.freebase.com/search?query=la+vie+en+rose&amp;lang=en&amp;any=%2Fcommon%2Ftopic&amp;scoring=entity&amp;prefixed=true&#34; target=&#34;_blank&#34;&gt;what I found&lt;/a&gt; :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The original song from Piaf&lt;/li&gt;
+&lt;li&gt;A biographical film about Edith Piaf&lt;/li&gt;
+&lt;li&gt;A lingerie retailer&lt;/li&gt;
+&lt;li&gt;&amp;#8230; many other versions of the song by diverse singers&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;img title=&#34;Les différentes versions de &amp;quot;la vie en rose&amp;quot;&#34; src=&#34;http://www.graphemeride.com/sites/graphemeride.com/files/images/blog/semantic/freebase_piaf.png&#34; alt=&#34;Les différentes versions de &amp;quot;la vie en rose&amp;quot;&#34; width=&#34;600&#34; height=&#34;757&#34; /&gt; Alright, so none of this is new, let&amp;#8217;s move on to the real core of this article : Google Trends.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Google Trends reveals Google knowledge&amp;#8217;s functionnalities&lt;/h2&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  Google Trends is a very useful tool to discover search volumes associated to given keywords. You can for instance compare the crowd interest for &amp;#8220;Hollande&amp;#8221; versus &amp;#8220;Sarkozy&amp;#8221; and see the time evolution. For that, you will use the followingg URL : &lt;a title=&#34;Google Trends&#34; href=&#34;https://www.google.com/trends/explore&#34; target=&#34;_blank&#34;&gt;https://www.google.com/trends/explore&lt;/a&gt; .
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img title=&#34;Sarkozy versu Holland&#34; src=&#34;http://www.graphemeride.com/sites/graphemeride.com/files/images/blog/semantic/sarko_vs_holland.png&#34; alt=&#34;Sarkozy versu Holland&#34; width=&#34;600&#34; height=&#34;390&#34; /&gt;&lt;/p&gt;
+
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+  The tool is really useful to discover (guess what&amp;#8230;)&lt;strong&gt; trends&lt;/strong&gt; in time. You can also track down which countries show more interest for a topic. Until now, nothing is new for most webmarketers. But what was really disruptive at the time of the original post (March 12th 2014) is that &lt;strong&gt;Google Trends is now linked to the Knowledge Graph and Freebase&lt;/strong&gt;. This relationship is really more visible on Trends than on the classical search. For instance, you can come across related searches for the query &amp;#8216;&lt;a title=&#34;François Hollande sur Trends&#34; href=&#34;https://www.google.com/trends/explore#q=%2Fm%2F02qg4z&amp;cmpt=q&#34; target=&#34;_blank&#34;&gt;François Hollande&lt;/a&gt;&amp;#8216;.&lt;br /&gt; As Trends offers the possibility to embed the code, I&amp;#8217;m trying it below so you don&amp;#8217;t have to visit Trends at all :
+&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;If you have hovered over the previous link  (&lt;a href=&#34;https://www.google.com/trends/explore#q=%2Fm%2F02qg4z&#34;&gt;https://www.google.com/trends/explore#q=%2Fm%2F02qg4z&lt;/a&gt;) you might have noticed that it does not contain the keyword &amp;#8220;François Hollande&amp;#8221; but a strange string &amp;#8220;&lt;strong&gt;%2Fm%2F02qg4z&lt;/strong&gt;&amp;#8221; which is the HTML equivalent of &amp;#8220;&lt;strong&gt;/m/02qg4z&lt;/strong&gt;&amp;#8220;. Curious isn&amp;#8217;t it ? Not really, for those of you who took the time to visit Freebase, you might have recognize the syntax used for named entitites. For instance, here is the page about Hollande on Freebase : &lt;a title=&#34;François Hollande sur Freebase&#34; href=&#34;http://www.freebase.com/m/02qg4z&#34; target=&#34;_blank&#34;&gt;&lt;a href=&#34;http://www.freebase.com/m/02qg4z&#34;&gt;http://www.freebase.com/m/02qg4z&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt; There is a lot of data about Holland on Freebase, you can find his previous wife (Ségolène Royal) and partener (Valérie Trierweiler) , but nothing about this &amp;#8220;Julie Gayet&amp;#8221;. So why is Google Trends showing us her name here ? Well, here is the innovation :** Google Trends is able to discover the link between two named entities** ! Of course, it uses frequent searches and is able to discover that at some point of time the queries &amp;#8220;Holland&amp;#8221; and &amp;#8220;Gayet&amp;#8221; were often used in combination. But is also added a semantic layer and decided that these terms were related to the French politics scene.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;(Note : Julie Gayet was famous few month ago when &amp;#8216;Closer&amp;#8217; a gossip magazine made public that Holland had an affair with the actress Julie Gayet during his 2nd year of presidential term).&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Trends can now differentiate two homonyms with distinct topics. Remember the &amp;#8216;La vie en Rose&amp;#8217; example ? It is now easy to differentiate the different meanings and to display the search evolution of each distinct term in function of a semantic context :&lt;/p&gt;
+
+&lt;p&gt;&lt;img title=&#34;La vie en rose, oui, mais laquelle ?&#34; src=&#34;http://www.graphemeride.com/sites/graphemeride.com/files/images/blog/semantic/lavieenrose_trends.png&#34; alt=&#34;La vie en rose, oui, mais laquelle ?&#34; width=&#34;600&#34; height=&#34;392&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I guess that this example is not the clearest, and that here it might be difficult to decorrelate most of the queries, but it&amp;#8217;s clear that people started to ask Google about the movie in 2007.&lt;/p&gt;
+
+&lt;p&gt;The most striking feature of Trends/Knowledge comes from terms disambiguation.  Try it on various keywords you know have homonyms. Whereas on Freebase you will have a very detailled list of homonyms, Trends only keep the most important ones.&lt;/p&gt;
+
+&lt;p&gt;&lt;img title=&#34;Différents sens&#34; src=&#34;http://www.graphemeride.com/sites/graphemeride.com/files/images/blog/semantic/la_vie_en_rose_term_disambiguition.png&#34; alt=&#34;Différents sens&#34; width=&#34;500&#34; height=&#34;211&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Hum &amp;#8230; a last bonus for those of you who are coding. Information about these named entities are openly transferred from Google to your browser. So with 3 or 4 lines of code you can fetch the suggestions that appear on the previous picture. Here is for instance what was exchanged :&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;{&amp;#8220;entityList&amp;#8221;:[{&amp;ldquo;mid&amp;rdquo;:&amp;ldquo;/m/02q6gfp&amp;rdquo;,&amp;ldquo;title&amp;rdquo;:&amp;ldquo;La Vie en Rose&amp;rdquo;,&amp;ldquo;type&amp;rdquo;:&amp;ldquo;2007 Film&amp;rdquo;},{&amp;ldquo;mid&amp;rdquo;:&amp;ldquo;/m/0b7vwz&amp;rdquo;,&amp;ldquo;title&amp;rdquo;:&amp;ldquo;La Vie en rose&amp;rdquo;,&amp;ldquo;type&amp;rdquo;:&amp;ldquo;Song&amp;rdquo;},{&amp;ldquo;mid&amp;rdquo;:&amp;ldquo;/m/01wdzm_&amp;ldquo;,&amp;ldquo;title&amp;rdquo;:&amp;ldquo;Édith Piaf&amp;rdquo;,&amp;ldquo;type&amp;rdquo;:&amp;ldquo;Singer&amp;rdquo;},{&amp;ldquo;mid&amp;rdquo;:&amp;ldquo;/m/0h95zw7&amp;rdquo;,&amp;ldquo;title&amp;rdquo;:&amp;ldquo;La Vie en Rose&amp;rdquo;,&amp;ldquo;type&amp;rdquo;:&amp;ldquo;Retail company&amp;rdquo;}]}&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;So, coders can quickly create a tool to gather a lot of information about Edith Piaf for instance.&lt;/p&gt;
+
+&lt;h2 style=&#34;text-align: justify;&#34;&gt;
+  Is the new semantic Google the end of SEO ?
+&lt;/h2&gt;
+
+&lt;p&gt;With the Hummingbird&amp;#8217;s update, content editor will face more and more troubles. If answers are directly offered by Google, users will not need to visit your site anymore. It&amp;#8217;s easy to bet that it will become harder and harder for knowledge based website to survive.&lt;/p&gt;
+
+&lt;p&gt;And even if you manage to survive, be aware that you now &lt;a title=&#34;Google discovers the Truth&#34; href=&#34;http://davidamerland.com/seo-tips/936-how-google-will-know-if-you-re-lying.html&#34; target=&#34;_blank&#34;&gt;need to tell the truth to your readers&lt;/a&gt; &amp;#8230;&lt;/p&gt;
+
+&lt;p&gt;Search Engine Optimization might be dying, but for sure &lt;strong&gt;Semantic Engine Optimization&lt;/strong&gt; is on the rise !&lt;/p&gt;
+
+&lt;p&gt;&lt;img style=&#34;width: 32px; height: 32px; float: left; margin-right: 10px;&#34; src=&#34;https://lh6.googleusercontent.com/-6WgymaDs7Kw/AAAAAAAAAAI/AAAAAAAAA9Y/gUtqjwb1nlc/s46-c-k-no/photo.jpg&#34; alt=&#34;&#34; /&gt;If you want to adapt this article to your own langugage and publish it somewhere, I strongly support that. Send me an email or post a comment here when it&amp;#8217;s published and I&amp;#8217;ll add the link here.&lt;/p&gt;
+
+&lt;!-- Place this tag in your head or just before your close body tag. --&gt;
+
+&lt;!-- Place this tag where you want the widget to render. --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

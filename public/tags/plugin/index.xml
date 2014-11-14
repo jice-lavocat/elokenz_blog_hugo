@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Plugin on Elokenz Blog </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://localhost:1313/tags/plugin/index.xml/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Tue, 29 Jul 2014 00:00:00 UTC</updated>
+    
+    <item>
+      <title>How to display your best articles on the web ?</title>
+      <link>http://localhost:1313/features/wordpress_widget</link>
+      <pubDate>Tue, 29 Jul 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/features/wordpress_widget</guid>
+      <description>
+
+&lt;p&gt;We already presented our WordPress widget to &lt;a title=&#34;Elokenz Widget for WordPress&#34; href=&#34;http://blog.elokenz.com/features/wordpress-widget-showcase-best-articles&#34; target=&#34;_blank&#34;&gt;showcase your best articles&lt;/a&gt;. We made some improvement to the basic widget and want to share with you the new features. The widget is useful for authors who are using the G+ authorship system. It takes in input your Google+ id and list your most shared articles on the social networks.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Who could gain from this widget ?&lt;/h2&gt;
+
+&lt;p&gt;Before entering into details, let&amp;#8217;s see who is likely to use this widget. Take my friend &lt;a title=&#34;Ann Smarty&#34; href=&#34;http://www.seosmarty.com/&#34; target=&#34;_blank&#34;&gt;Ann Smarty&lt;/a&gt; she is frequently writing on &lt;a title=&#34;Social Media Examiner&#34; href=&#34;http://www.socialmediaexaminer.com&#34; target=&#34;_blank&#34;&gt;several&lt;/a&gt; &lt;a title=&#34;Search Engine Journal&#34; href=&#34;http://www.searchenginejournal.com/&#34; target=&#34;_blank&#34;&gt;websites&lt;/a&gt;. Her various writings are often covering complementary topics but his audience sometime does not know he is writing on other websites.&lt;/p&gt;
+
+&lt;p&gt;She had recently published a viral article on one of these websites, but this cannot be reflected on her personal blog. On this private blog she wanted to showcase her best articles from all over the web, not only from her own blog.&lt;/p&gt;
+
+&lt;p&gt;When Ann heard about our widget she was one of the first to use it. It allowed her to &lt;strong&gt;collect automatically the articles&lt;/strong&gt; which have been** most shared on social networks** and to display these numbers on her personal blog for self promotion. This is what is displayed on her website these days :&lt;img class=&#34;aligncenter wp-image-304 size-full&#34; src=&#34;http://blog.elokenz.com/wp-content/uploads/2014/07/ann_smarty_best_articles.png&#34; alt=&#34;Elokenz - Widget best articles example - (via @elokenz)&#34; width=&#34;275&#34; height=&#34;335&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;So, if you are like her, and write on several places around the web, you might want to display your &amp;#8216;content portfolio&amp;#8217; too. Enters the &lt;strong&gt;Elokenz widget&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;How to install the widget ?&lt;/h2&gt;
+
+&lt;p&gt;This widget works with the database we are building with &lt;a title=&#34;Helping Authors to be more visible&#34; href=&#34;http://www.elokenz.com&#34; target=&#34;_blank&#34;&gt;Elokenz&lt;/a&gt;. The first thing you need is to use the authorship tag. Then, depending on your installation, you can use the code we provide on &lt;a title=&#34;Elokenz Dashboard - Widget&#34; href=&#34;http://www.elokenz.com/dashboard/widgets/&#34; target=&#34;_blank&#34;&gt;our dashboard&lt;/a&gt; or the &lt;a title=&#34;Wordpress widget - Socially best articles&#34; href=&#34;http://wordpress.org/plugins/elokenz-most-shared-articles-for-authors/&#34; target=&#34;_blank&#34;&gt;wordpress plugin&lt;/a&gt; directly.&lt;/p&gt;
+
+&lt;p&gt;&lt;a title=&#34;Wordpress Elokenz Plugin&#34; href=&#34;http://wordpress.org/plugins/elokenz-most-shared-articles-for-authors/&#34; target=&#34;_blank&#34;&gt;&lt;img class=&#34;aligncenter wp-image-305&#34; src=&#34;http://blog.elokenz.com/wp-content/uploads/2014/07/elokenz_wordpress_plugin.png&#34; alt=&#34;elokenz_wordpress_plugin&#34; width=&#34;500&#34; height=&#34;348&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Once you have collected the good code (self hosted site) or the plugin, you have few settings to customize the display.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;aligncenter size-full wp-image-306&#34; src=&#34;http://blog.elokenz.com/wp-content/uploads/2014/07/screenshot-3.png&#34; alt=&#34;elokenz_widget_settings&#34; width=&#34;286&#34; height=&#34;660&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;First, the widget comes with two basic themes : &lt;strong&gt;bright&lt;/strong&gt; or &lt;strong&gt;dark&lt;/strong&gt;. Depending on your template you might need to have one or the other. If you need other colors, drop a comment below and we will publish an article to explain how to tune the CSS.&lt;/p&gt;
+
+&lt;p&gt;Second : you might want to display 1, 2 , 3 .. or up to 10 articles. That&amp;#8217;s pretty self-explanatory.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;ordering system&lt;/strong&gt; represent the algorithm that is applied to sort your articles. Do you focus on &lt;em&gt;Facebook likes&lt;/em&gt; or on &lt;em&gt;Twitter mentions&lt;/em&gt; ? You can change the order here, or keep the default : sum of Facebook likes + Twitter mentions + Google+ plus ones.&lt;/p&gt;
+
+&lt;p&gt;On WordPress we added an option to print links with a &amp;#8220;nofollow&amp;#8221; attribute. Depending on the blog where you install the widget, you might not want to have dofollow links (who knows&amp;#8230;)&lt;/p&gt;
+
+&lt;p&gt;Finally, comes the only required field, your G+ id. For the moment you still need to copy/paste your id number. In the future we might implement a system to convert your &amp;#8216;vanity url&amp;#8217; into the G+ id, but it&amp;#8217;s not yet the case.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_2&#34;&gt;Do you need the widget on a single page ?&lt;/h2&gt;
+
+&lt;p&gt;On WordPress we added a shortcode support recently. This means you can import the widget on a given page or post, instead of having it sitewide on your sidebar.&lt;/p&gt;
+
+&lt;p&gt;For this, you need to use the following syntax :&lt;/p&gt;
+
+&lt;p&gt;For that, you can add the following text when you are editing an article :&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;[elokenz_widget user_id=&amp;quot;113400244614302404694&amp;quot;]
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;(where &lt;code&gt;113400244614302404694&lt;/code&gt; is replaced by your Google+ id).&lt;/p&gt;
+
+&lt;p&gt;You can use several &lt;strong&gt;arguments&lt;/strong&gt; to configure the output :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;width&lt;/em&gt; [integer] : give the width in pixel. (Default : the widget will use all available space)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;follow&lt;/em&gt; [&amp;ldquo;do&amp;rdquo;/&amp;ldquo;no&amp;rdquo;] : use dofollow links or nofollow links. (Default : dofollow links)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;style&lt;/em&gt; [&amp;ldquo;bright&amp;rdquo;/&amp;ldquo;dark&amp;rdquo;] : use a bright or dark background. (Default : &amp;#8220;bright&amp;#8221;)&lt;/li&gt;
+&lt;li&gt;* item&lt;em&gt;_*number&lt;/em&gt; [integer &amp;lt; 10] : how many articles do you want to list here ? (Default : 5)&lt;/li&gt;
+&lt;li&gt;* network* [0,1,2 or 3] : which ordering system should we use ? (Default : 0) {0. sum of all metrics 1. Twitter 2. Facebook 3. Google+}&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Example&lt;/strong&gt; :&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;[elokenz_widget user_id=&amp;quot;113400244614302404694&amp;quot; follow=&amp;quot;no&amp;quot; item_number=&amp;quot;10&amp;quot; style=&amp;quot;dark&amp;quot; network=&amp;quot;1&amp;quot;]&lt;/code&gt;&lt;br /&gt;
+will output a list of 10 articles, with nofollow links, on a dark background, ordered according the number of RTs.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_3&#34;&gt;How can you contribute ?&lt;/h2&gt;
+
+&lt;p&gt;Since we had to change our name recently we lost all our nice statistics. If you use the widget and like it, you can help us in different ways :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a title=&#34;Tweet about the plugin&#34; href=&#34;https://twitter.com/home?status=I%20am%20using%20a%20new%20WP%20plugin%20to%20display%20my%20most%20shared%20articles%20:%20http://blog.elokenz.com/features/wordpress_widget&#34; target=&#34;_blank&#34;&gt;Tweet about it&lt;/a&gt; or share it on &lt;a title=&#34;Wordpress Widget&#34; href=&#34;https://www.facebook.com/sharer/sharer.php?u=http://blog.elokenz.com/features/wordpress_widget&#34; target=&#34;_blank&#34;&gt;Facebook&lt;/a&gt; or &lt;a title=&#34;Wordpress Widget&#34; href=&#34;https://plus.google.com/share?url=http://blog.elokenz.com/features/wordpress_widget&#34; target=&#34;_blank&#34;&gt;Google+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Try it, and leave us a comment or &lt;a title=&#34;Review Elokenz plugin&#34; href=&#34;http://wordpress.org/support/view/plugin-reviews/elokenz-most-shared-articles-for-authors?filter=5#postform&#34; target=&#34;_blank&#34;&gt;a review on the plugin page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Write an article about how you use the plugin and &lt;strong&gt;get featured here&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Do not hesitate if you find any bug, let us know (the easiest is to comment here) &amp;#8230; One of our early user &lt;a title=&#34;Didier J Mary&#34; href=&#34;https://plus.google.com/+DidierJMARY/about&#34; target=&#34;_blank&#34;&gt;Didier&lt;/a&gt; from &lt;a title=&#34;Kotonteej - African Music&#34; href=&#34;http://www.kotonteej.com/&#34; target=&#34;_blank&#34;&gt;KotonTeej&lt;/a&gt; was the first to discover a big flaw in in the previous version.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A wordpress widget to showcase your best articles</title>
+      <link>http://localhost:1313/features/wordpress-widget-showcase-best-articles</link>
+      <pubDate>Fri, 07 Mar 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/features/wordpress-widget-showcase-best-articles</guid>
+      <description>
+
+&lt;p&gt;So, as most of us, you have decided to use authorship attribution on your website. Of course you are not tagging only your own blog, but also guest posts on different domains. Now what if you want to &lt;strong&gt;display your best articles in one place&lt;/strong&gt; ?&lt;/p&gt;
+
+&lt;p&gt;This would have been tricky before, but thanks to Julio Potier (from &lt;a title=&#34;La Boite à Web&#34; href=&#34;http://boiteaweb.fr/&#34; target=&#34;_blank&#34;&gt;La boite à Web&lt;/a&gt;) , WordiZ developed a &lt;strong&gt;WordPress Plugin&lt;/strong&gt; that you can use to retrieve and display all your best articles in one place. Have a look at the following picture to understand :&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;aligncenter size-full wp-image-178&#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2014/03/Wordpress_Plugin_Best_articles2.png&#34; alt=&#34;Best articles based on authorship&#34; width=&#34;400&#34; height=&#34;364&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The plugin updates the scores weekly and allows you to showcase your most shared pieces of writing. Imagine that you are working as a copywriter, or as a pro blogger ; you can quickly provide an updated portfolio of content to your clients.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Download the plugin&lt;/h2&gt;
+
+&lt;p&gt;The plugin is available on WordPress : &lt;a title=&#34;Elokenz - WordPress plugin to display best articles&#34; href=&#34;http://wordpress.org/plugins/elokenz-most-shared-articles-for-authors/&#34; target=&#34;_blank&#34;&gt;Best articles tagged with authorship plugin&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;How to use it&lt;/h2&gt;
+
+&lt;p&gt;Download and install the plugin (I assume that you can do it, if you fail, leave a comment below). To use the plugin, just navigate to your *&lt;strong&gt;Appearance &amp;gt; Widgets&lt;/strong&gt; *menu. You will find a new widget called &amp;#8220;WordiZ Widget &amp;#8211; Authorship Best Articles&amp;#8221;. Add it to one of your sidebars.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&#34;aligncenter size-full wp-image-180&#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2014/03/widget_add.png&#34; alt=&#34;Add WordiZ widget to your sidebar&#34; width=&#34;305&#34; height=&#34;244&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_2&#34;&gt;Configuration&lt;/h2&gt;
+
+&lt;p&gt;The configuration of the widget is rather simple.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;You can add a custom title to the widget in the field &lt;strong&gt;&lt;em&gt;Title&lt;/em&gt;&lt;/strong&gt;. By default, the title will be blank.&lt;/li&gt;
+&lt;li&gt;You can change the widget color theme on the second field &lt;strong&gt;&lt;em&gt;Display on bright or dark&lt;/em&gt;&lt;/strong&gt;* background***. The option here will change the overall appearance of the plugin so that it fits with your template.&lt;/li&gt;
+&lt;li&gt;Adjust the number of displayed items in the &lt;strong&gt;&lt;em&gt;Number of items&lt;/em&gt;&lt;/strong&gt; field&lt;/li&gt;
+&lt;li&gt;Do you want to add a nofollow attribute to the links displayed by the widget ? Change the settings in the field &lt;strong&gt;&lt;em&gt;Follow or *&lt;/em&gt;&lt;/strong&gt;Dofollow.***I suggest it to keep it to dofollow if you display your articles.&lt;/li&gt;
+&lt;li&gt;Finally add your Google+ id number in the field*** Google+ user id***.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img class=&#34;aligncenter size-full wp-image-181&#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2014/03/wordiz_widget_configuration.png&#34; alt=&#34;WordiZ Widget Configuration&#34; width=&#34;407&#34; height=&#34;626&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;To quickly get your Google+ user id, we have added a Google+ sign in button. When you use it, WordiZ will create an account for you and will show you your Google+ id number on a new page. Copy the number you found on the new page and paste it into the widget configuration.&lt;/p&gt;
+
+&lt;p&gt;Remember that the processing of your articles is made through WordiZ platform, so you need to have an account there to get the widget working correctly. That&amp;#8217;s the reason for the sign in button in the administration.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_3&#34;&gt;Feedback and Bugs&lt;/h2&gt;
+
+&lt;p&gt;Have you find any bug or do you have any feedback for improvement ? Let me know in the comment box below.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>WordPress plugin to show social shares in your admin panel</title>
+      <link>http://localhost:1313/content-marketing/wordpress-plugin-show-social-shares-admin-panel</link>
+      <pubDate>Tue, 17 Sep 2013 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/content-marketing/wordpress-plugin-show-social-shares-admin-panel</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://blog.wordiz.it/wp-content/uploads/2013/09/banner-772x250.png&#34;&gt;&lt;img class=&#34;aligncenter  wp-image-106&#34; alt=&#34;WordiZ Admin Social Shares&#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2013/09/banner-772x250.png&#34; width=&#34;500&#34; /&gt;&lt;/a&gt;If you have ever wondered how you can quickly sort out buzzing articles from your wordpress articles, WordiZ has developed a plugin to help you. &lt;a href=&#34;http://blog.wordiz.it/plugins/wordpress-admin-shares/&#34; title=&#34;Wordpress Admin Social Shares &#34;&gt;WordiZ Admin Social Shares&lt;/a&gt; is a &lt;strong&gt;wordpress extenssion&lt;/strong&gt; that will allow you to see the number of shares of your article directly from the backend administration panel.&lt;/p&gt;
+
+&lt;p&gt;After the installation, the listing of your articles will show three new columns : one for Facebook &lt;strong&gt;likes&lt;/strong&gt;, one for &lt;strong&gt;retweets&lt;/strong&gt; and the last one for Google &lt;strong&gt;+1&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.wordiz.it/wp-content/uploads/2013/08/screenshot-1.png&#34;&gt;&lt;img class=&#34;aligncenter size-full wp-image-80&#34; alt=&#34;Admin with Admin Social Shares installed&#34; src=&#34;http://blog.wordiz.it/wp-content/uploads/2013/08/screenshot-1.png&#34; width=&#34;861&#34; height=&#34;673&#34; /&gt;&lt;/a&gt;At the moment, one important feature is really missing : sorting articles by shares. Hopefully we will get some time soon to add the feature to the project. If you are a developer, you can also fork the project on github.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
