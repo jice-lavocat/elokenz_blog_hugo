@@ -1,3 +1,3 @@
 # elokenz_blog_hugo
-Elokenz Blog generated with Hugo
+Elokenz Blog generated with Hugo.
 http://blog.elokenz.com
